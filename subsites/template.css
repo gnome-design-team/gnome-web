@@ -1,0 +1,400 @@
+@import url("reset.css");
+@import url("text.css");
+
+
+/* Base information */
+/* ========================================================================== */
+
+html {
+    background: #fff url(images/html-bg.png) 0 10px repeat-x;
+}
+body {
+    
+}
+a {
+    color: #204a87;
+}
+a:hover {
+    color: #3465a4;
+}
+a:visited {
+   color: #5d396e;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+.hidden {
+    display: none;
+}
+.maxwidth {
+    width: 960px;
+    margin: 0 auto;
+}
+.clear {
+    clear: both;
+}
+
+
+/* Global Domain Bar */
+/* ========================================================================== */
+
+
+
+/* Global Domain Bar */
+/* ========================================================================== */
+
+
+
+#global_domain_bar {
+    background: #fff;
+    height: 10px;
+}
+#global_domain_bar .maxwidth {
+    position: relative;
+}
+
+/* Tab */
+
+#global_domain_bar .tab {
+    background: #fff;
+    position: absolute;
+    right: 0;
+    float: right;
+    padding: 6px 8px;
+    font-size: 12px;
+    line-height: 16px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    -moz-box-shadow: 0 4px 2px -2px #8fb3d9;
+    -webkit-box-shadow: 0 4px 2px -2px #8fb3d9;
+    box-shadow: 0 4px 2px -2px #8fb3d9;
+    white-space: nowrap;
+}
+#global_domain_bar .tab a.root {
+    color: #555753 !important;
+    font-weight: bold;
+    text-decoration: none;
+    background: #fff url(images/favicon.png) 0 0 no-repeat;
+    padding-left: 18px;
+    border-right: 1px solid #ccc;
+    padding-right: 6px;
+    margin-right: 3px;
+}
+#global_domain_bar .tab a.root:last-child {
+    border-right: 0;
+    padding-right: 0;
+    margin-right: 0;
+}
+#global_domain_bar .tab a.root:hover {
+    text-decoration: underline;
+}
+#global_domain_bar .tab a.user {
+    padding: 2px 14px 2px 4px;
+    margin: -2px -4px -2px -2px;
+    color: inherit !important;
+    text-decoration: none;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    background: url(images/globaldomain-user-arrow.png) right center no-repeat;
+    outline: none;
+}
+#global_domain_bar .tab a.user:hover,
+#global_domain_bar .tab a.user:focus {
+    background-color: #ececec;
+}
+#global_domain_bar .tab a.user.active {
+    background-color: #ececec;
+    -moz-box-shadow: inset 0 1px 3px rgba(0,0,0,0.2);
+    -webkit-box-shadow: inset 0 1px 3px rgba(0,0,0,0.2);
+    box-shadow: inset 0 1px 3px rgba(0,0,0,0.2);
+}
+
+#global_domain_bar .tab a:visited {
+    color: #204A87;
+}
+
+
+/* GNOME Header */
+/* ========================================================================== */
+
+
+
+#gnome_header {
+    margin: 0;
+    padding: 6px auto;
+}
+
+#gnome_header h1 {
+    margin: 0;
+    padding: 20px 0;
+    font-size: 34px;
+    line-height: 54px;
+    color: #2e3436;
+    font-family: "Copse";
+    font-weight: normal;
+    text-shadow: 0 1px 0 #fff;
+    float: left;
+}
+#gnome_header h1 a {
+    color: inherit;
+    text-decoration: none;
+}
+#gnome_header h1 a img {
+    vertical-align: bottom;
+}
+
+#gnome_header .right {
+    margin-top: 38px;
+}
+#gnome_header #search_input {
+    border: 1px solid #999;
+    padding: 4px 28px 4px 9px;
+    background: #fff url(images/search-icon.png) 172px 5px no-repeat;
+    width: 160px;
+    -moz-border-radius: 25px;
+    -webkit-border-radius: 25px;
+    border-radius: 25px;
+    -moz-box-shadow: inset 0 1px 1px rgba(0,0,0,0.2);
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.2);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,0.2);
+}
+#gnome_header #search_input:focus {
+    -moz-box-shadow: inset 0 1px 1px rgba(0,0,0,0.2), 0 0 3px #0489B7;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.2), 0 0 3px #0489B7;
+    box-shadow: inset 0 1px 1px rgba(0,0,0,0.2), 0 0 3px #0489B7;
+    outline: none;
+}
+
+
+/* Global Navigation */
+/* ========================================================================== */
+
+#globalnav {
+    list-style: none;
+    display: block;
+    float: left;
+    margin: 34px 0 16px 20px;
+    vertical-align: middle;
+}
+#globalnav li {
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+#globalnav li a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    padding: 5px 15px;
+    font-weight: bold;
+    text-shadow: 0 1px 0 #fff;
+    outline: none;
+    line-height: 22px;
+}
+#globalnav li a:hover {
+    color: #000;
+}
+#globalnav li a:active {
+    position: relative;
+    top: 1px;
+}
+#globalnav li.active a {
+    background: #7fa7d4;
+    padding: 5px 15px;
+    color: #000;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5);
+    color: #fff;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    -moz-box-shadow: inset 0 2px 3px -1px #396da9, 0 1px 0 #fff;
+    -webkit-box-shadow: inset 0 2px 3px -1px #396da9, 0 1px 0 #fff;
+    box-shadow: inset 0 2px 3px -1px #396da9, 0 1px 0 #fff;
+    position: relative;
+}
+#globalnav li.active a:after {
+    content: url(images/globalnav-arrow.png);
+    position: absolute;
+    bottom: 0;
+    margin-bottom: -11px;
+    left: 50%;
+    margin-left: -8px;
+}
+
+
+
+
+/* GNOME Container */
+/* ========================================================================== */
+
+
+#gnome_container {
+    min-height: 200px;
+}
+
+
+/* Page Title */
+/* ========================================================================== */
+
+
+#content .page_title h1 {
+    margin: 10px 0 20px;
+    border-bottom: 1px solid #d3d7cf;
+    font-size: 37px;
+    text-shadow: 0 1px 0 #fff;
+    line-height: normal;
+    letter-spacing: -0.04em;
+}
+#content .page_title h1 a {
+    text-decoration: none;
+    color: inherit;
+}
+#content .page_title h1 a:hover {
+    text-decoration: underline;
+}
+
+
+/* Grid Columns */
+/* ========================================================================== */
+
+.columns {
+    overflow: hidden;
+}
+.columns .bloc {
+    width: 135px;
+    margin-left: 30px;
+    float: left;
+}
+.columns .bloc.one {
+    width: 130px;
+}
+.columns .bloc.sidebar,
+.columns .bloc.two {
+    width: 300px;
+}
+.columns .bloc.half,
+.columns .bloc.three {
+    width: 465px;
+}
+.columns .bloc.content,
+.columns .bloc.four {
+    width: 630px;
+}
+.columns .bloc.five {
+    width: 795px;
+}
+.columns .bloc.full,
+.columns .bloc.six {
+    width: 960px;
+}
+.columns .bloc.first {
+    margin-left: 0;
+    clear: left;
+}
+.columns .bloc.offset_one {
+    margin-left: 165px !important;
+}
+.columns .bloc.offset_sidebar,
+.columns .bloc.offset_two {
+    margin-left: 330px !important;
+}
+.columns .bloc.offset_half,
+.columns .bloc.offset_three {
+    margin-left: 495px !important;
+}
+.columns .bloc.offset_four {
+    margin-left: 660px !important;
+}
+.columns .bloc.offset_five {
+    margin-left: 825px !important;
+}
+
+
+
+/* Footer */
+/* ========================================================================== */
+
+
+/* Footer Artwork */
+
+#footer_art {
+    background: transparent no-repeat bottom center;
+    height: 180px;
+    margin-top: 0;
+    clear: left;
+}
+#footer_art.none {
+    height: 30px;
+    margin-top: 0;
+}
+#footer_art.default {
+    background-image: url(images/footer_arts/applications.png);
+}
+
+/* Footer Grass */
+
+#footer_grass {
+    background: url(images/grass.png) top center repeat-x;
+    height: 39px;
+    margin-top: -33px;
+}
+
+/* Footer */
+
+#footer {
+    clear: left;
+    background: #d3d7cf;
+    color: #555753;
+    padding: 20px 0;
+}
+#footer .links {
+    overflow: hidden;
+}
+#footer .links > ul > li {
+    float: left;
+    margin: 0 40px 10px 0;
+}
+#footer .links a,
+#footer .links strong {
+    display: block;
+    text-decoration: none;
+}
+#footer .links a:hover,
+#footer .links a:focus {
+    text-decoration: underline;
+}
+
+#footer ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+#footer ul li {
+    margin: 0;
+    padding: 0;
+}
+#footer .links > ul > li > a {
+    font-weight: bold;
+}
+#footer .links a {
+    color: inherit;
+    -webkit-transition: background-color 100ms ease-in;
+    -moz-transition: background-color 100ms ease-in;
+    transition: background-color 100ms ease-in;
+}
+
+#footer #footnotes {
+    margin-top: 20px;
+}
+#footer #footnotes small {
+    font-size: 88%;
+}
+#footer #footnotes a {
+    color: inherit;
+}
+
