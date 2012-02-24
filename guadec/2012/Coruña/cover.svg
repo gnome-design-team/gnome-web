@@ -15,7 +15,7 @@
    id="svg4035"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="cover-export.svg">
+   sodipodi:docname="cover.svg">
   <defs
      id="defs3">
     <clipPath
@@ -123,8 +123,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="341.0203"
-     inkscape:cy="425.51402"
+     inkscape:cx="508.25639"
+     inkscape:cy="604.88976"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="mm"
@@ -132,8 +132,8 @@
      borderlayer="true"
      inkscape:window-width="1598"
      inkscape:window-height="1166"
-     inkscape:window-x="1835"
-     inkscape:window-y="26"
+     inkscape:window-x="2062"
+     inkscape:window-y="146"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -201,7 +201,7 @@
     <g
        id="g5813"
        style="fill:#ffffff;fill-opacity:0.52857145"
-       transform="matrix(0.96456528,0,0,0.96456528,-461.27993,-178.82221)">
+       transform="matrix(0.95887756,0,0,0.95887756,-468.43871,-161.17122)">
       <g
          id="g5823"
          transform="matrix(0.92337906,0,0,0.92337906,65.460957,27.451834)"
@@ -296,28 +296,28 @@
     <text
        sodipodi:linespacing="125%"
        id="text3786"
-       y="165.41553"
-       x="299.23175"
-       style="font-size:27.00782776px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       y="181.03667"
+       x="298.27509"
+       style="font-size:26.84856987px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
        xml:space="preserve"><tspan
-         y="165.41553"
-         x="299.23175"
+         y="181.03667"
+         x="298.27509"
          id="tspan3788"
          sodipodi:role="line">The</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:27.00782776px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-       x="479.36169"
-       y="165.41553"
+       style="font-size:26.84856987px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       x="480.92761"
+       y="181.03667"
        id="text3790"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3792"
-         x="479.36169"
-         y="165.41553">Conference</tspan></text>
+         x="480.92761"
+         y="181.03667">Conference</tspan></text>
     <g
        id="g5768"
-       transform="matrix(0.75960139,0,0,0.75960139,-282.17764,-108.82674)">
+       transform="matrix(0.93147813,0,0,0.93147813,-435.74436,-152.77982)">
       <g
          id="layer1-8"
          transform="matrix(0.11840388,0,0,0.11840388,865.19335,299.21794)">
