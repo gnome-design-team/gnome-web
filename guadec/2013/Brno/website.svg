@@ -22,17 +22,17 @@
        inkscape:collect="always"
        xlink:href="#pattern6638"
        id="pattern6240"
-       patternTransform="matrix(0.96366123,0,0,0.96366126,661.92515,581.23454)" />
+       patternTransform="matrix(0.96366123,0,0,0.96366126,547.84264,581.23454)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern6634"
        id="pattern6238"
-       patternTransform="matrix(0.96366123,0,0,0.96366126,476.5427,581.23454)" />
+       patternTransform="matrix(0.96366123,0,0,0.96366126,362.46019,581.23454)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern6636"
        id="pattern6236"
-       patternTransform="matrix(0.96366123,0,0,0.96366126,597.37791,581.02053)" />
+       patternTransform="matrix(0.96366123,0,0,0.96366126,483.2954,581.02053)" />
     <linearGradient
        y2="203.94012"
        x2="513.42859"
@@ -70,7 +70,7 @@
        id="path-effect6209-1-3-5"
        is_visible="true" />
     <pattern
-       patternTransform="matrix(0.96832269,0,0,0.97311492,476.55694,673.87071)"
+       patternTransform="matrix(0.96832269,0,0,0.97311492,362.47443,673.87071)"
        id="pattern6361"
        xlink:href="#pattern6617"
        inkscape:collect="always" />
@@ -159,9 +159,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0406504"
-     inkscape:cx="583.23642"
-     inkscape:cy="414.54236"
+     inkscape:zoom="0.73585096"
+     inkscape:cx="581.57619"
+     inkscape:cy="347.51303"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
@@ -489,7 +489,7 @@
        y="744.08972" />
     <g
        id="g6591"
-       transform="matrix(1.0276279,0,0,1.0276279,-312.22321,-288.02857)"
+       transform="matrix(1.0276279,0,0,1.0276279,-194.98883,-288.02857)"
        mask="none">
       <rect
          style="fill:url(#pattern6236);stroke:#cecece;stroke-width:2.9193449;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -524,84 +524,70 @@
        xml:space="preserve"
        id="flowRoot6242"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.36170347,0,0,0.36170347,109.22456,120.0611)"><flowRegion
+       transform="matrix(0.4786656,0,0,0.4786656,191.02126,94.91404)"><flowRegion
          id="flowRegion6244"><rect
            id="rect6246"
-           width="1438.4277"
-           height="337.47922"
+           width="1061.903"
+           height="312.75793"
            x="310.38281"
            y="180.86719" /></flowRegion><flowPara
          id="flowPara6250">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis interdum tempor diam, nec posuere diam consequat vel. Integer et venenatis ante. Nunc suscipit pellentesque nunc, vel dapibus neque semper lacinia. Vivamus at erat erat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</flowPara><flowPara
          id="flowPara6252" /></flowRoot>    <rect
-       style="color:#000000;fill:#babdb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect6258"
-       width="189.30469"
-       height="460.70224"
-       x="807.1875"
-       y="180.86719" />
-    <rect
-       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6262"
        width="155.12897"
        height="65.34375"
-       x="821.60156"
-       y="200.08594" />
+       x="139.99709"
+       y="530.31586" />
     <rect
-       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6262-3"
        width="155.12897"
        height="65.34375"
-       x="821.60156"
-       y="280.08594" />
+       x="324.81711"
+       y="528.77759" />
     <rect
-       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6262-3-3"
        width="66.306335"
        height="27.929693"
-       x="822.20776"
-       y="553.26794" />
+       x="753.9812"
+       y="537.23346" />
     <rect
-       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6262-3-3-0"
        width="66.306335"
        height="27.929693"
-       x="909.41479"
-       y="553.26794" />
+       x="753.74292"
+       y="576.6319" />
     <rect
-       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6262-3-3-1"
        width="66.306335"
        height="27.929693"
-       x="822.20776"
-       y="593.26794" />
+       x="833.58276"
+       y="578.1944" />
     <rect
-       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6262-3-3-0-4"
        width="66.306335"
        height="27.929693"
-       x="909.41479"
-       y="593.26794" />
+       x="835.42261"
+       y="536.87408" />
     <rect
-       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6262-3-4"
        width="104.94019"
        height="44.203125"
-       x="846.69598"
-       y="368.3125" />
+       x="507.48511"
+       y="538.69989" />
     <rect
-       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6262-3-4-9"
        width="104.94019"
        height="44.203125"
-       x="846.69598"
-       y="428.3125" />
-    <rect
-       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect6262-3-4-9-0"
-       width="104.94019"
-       height="44.203125"
-       x="846.69598"
-       y="488.3125" />
+       x="628.56323"
+       y="540.0827" />
     <rect
        style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect7600"
@@ -875,7 +861,7 @@
        xml:space="preserve"
        id="flowRoot6242-1"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.36170347,0,0,0.36170347,-77.158416,303.61888)"><flowRegion
+       transform="matrix(0.36170347,0,0,0.36170347,40.075959,315.15013)"><flowRegion
          id="flowRegion6244-9"><rect
            id="rect6246-5"
            width="401.45688"
@@ -890,7 +876,7 @@
        xml:space="preserve"
        id="flowRoot6242-1-3"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.36170347,0,0,0.36170347,102.84158,303.61888)"><flowRegion
+       transform="matrix(0.36170347,0,0,0.36170347,220.07596,315.15013)"><flowRegion
          id="flowRegion6244-9-4"><rect
            id="rect6246-5-5"
            width="401.45688"
@@ -905,7 +891,7 @@
        xml:space="preserve"
        id="flowRoot6242-1-3-8"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.36170347,0,0,0.36170347,282.84158,303.61888)"><flowRegion
+       transform="matrix(0.36170347,0,0,0.36170347,400.07596,315.15013)"><flowRegion
          id="flowRegion6244-9-4-8"><rect
            id="rect6246-5-5-3"
            width="401.45688"
@@ -920,7 +906,7 @@
        xml:space="preserve"
        id="flowRoot6242-1-3-8-6"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.36170347,0,0,0.36170347,466.84158,303.61888)"><flowRegion
+       transform="matrix(0.36170347,0,0,0.36170347,584.07596,315.15013)"><flowRegion
          id="flowRegion6244-9-4-8-7"><rect
            id="rect6246-5-5-3-4"
            width="401.45688"
