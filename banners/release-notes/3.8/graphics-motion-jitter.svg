@@ -15,7 +15,10 @@
    inkscape:version="0.48.4 r9939"
    width="940"
    height="400"
-   sodipodi:docname="graphics-motion-jitter.svg">
+   sodipodi:docname="graphics-motion-jitter.svg"
+   inkscape:export-filename="/home/jimmac/SparkleShare/gnome-web/banners/release-notes/3.8/graphics-motion-jitter.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <metadata
      id="metadata6148">
     <rdf:RDF>
@@ -187,8 +190,8 @@
      borderlayer="true"
      inkscape:showpageshadow="false"
      inkscape:zoom="1"
-     inkscape:cx="156.33727"
-     inkscape:cy="358.69207"
+     inkscape:cx="362.33727"
+     inkscape:cy="235.69207"
      inkscape:window-x="2560"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
