@@ -15,7 +15,7 @@
    id="svg6021"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="website.svg">
+   sodipodi:docname="website2.svg">
   <defs
      id="defs6023">
     <linearGradient
@@ -571,10 +571,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="1542.4196"
-     inkscape:cy="423.75051"
-     inkscape:current-layer="layer1"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="1616.952"
+     inkscape:cy="332.16497"
+     inkscape:current-layer="g7159-5"
      inkscape:document-units="px"
      showgrid="false"
      inkscape:window-width="1600"
@@ -597,7 +597,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -621,7 +621,10 @@
        width="1025.3048"
        height="1108.816"
        x="3.5083063e-05"
-       y="-337.98755" />
+       y="-337.98755"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:#6b8e9f;fill-opacity:1;stroke:none"
        d="m 581.56035,656.03474 0,-31.51998 5.2544,-6.19774 16.9759,0 11.3172,-13.2809 4.4461,0 2.8293,-26.20762 2.8294,26.20762 5.2544,0 6.2649,-7.4373 0,-20.71819 3.0314,-5.48943 2.223,-32.22829 2.223,32.22829 2.8294,5.48943 0,18.94741 1.9403,2.74471 1.6168,0 1.4952,-2.74471 0,-18.94741 3.6773,-5.48943 2.3856,-32.58245 2.3854,32.58245 3.8795,5.48943 0,21.69212 4.0418,0 5.6587,-12.30696 6.467,26.91594 30.3141,0.35415 21.0177,-8.49976 5.4565,-13.10381 0,-8.14562 5.4565,-6.72898 6.0629,0.35416 0,-7.4373 2.4252,-6.37484 2.8292,5.66652 -0.4041,7.08315 42.0355,0 4.0419,17.70785 21.2198,12.74965 0,14.8746 11.9236,12.3955 0,23.37434 -251.4048,-1.4166"
@@ -629,25 +632,37 @@
        inkscape:path-effect="#path-effect6209-1-3-5-2"
        inkscape:original-d="m 581.56035,656.03474 0,-31.51998 5.2544,-6.19774 16.9759,0 11.3172,-13.2809 4.4461,0 2.8293,-26.20762 2.8294,26.20762 5.2544,0 6.2649,-7.4373 0,-20.71819 3.0314,-5.48943 2.223,-32.22829 2.223,32.22829 2.8294,5.48943 0,18.94741 1.9403,2.74471 1.6168,0 1.4952,-2.74471 0,-18.94741 3.6773,-5.48943 2.3856,-32.58245 2.3854,32.58245 3.8795,5.48943 0,21.69212 4.0418,0 5.6587,-12.30696 6.467,26.91594 30.3141,0.35415 21.0177,-8.49976 5.4565,-13.10381 0,-8.14562 5.4565,-6.72898 6.0629,0.35416 0,-7.4373 2.4252,-6.37484 2.8292,5.66652 -0.4041,7.08315 42.0355,0 4.0419,17.70785 21.2198,12.74965 0,14.8746 11.9236,12.3955 0,23.37434 z"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        y="577.00092"
        x="288.88394"
        height="61.399143"
        width="36.626114"
        id="rect5028-4"
-       style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+       style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
        id="rect5030-4"
        width="36.626114"
        height="61.399143"
        x="238.01431"
-       y="577.00092" />
+       y="577.00092"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        id="g5036-3"
        transform="matrix(0.55877953,0,0,0.55877953,-88.488236,229.48913)"
-       style="fill:#6b8e9f;fill-opacity:1">
+       style="fill:#6b8e9f;fill-opacity:1"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          d="m 889,701.36218 c 0,3.31371 -2.68629,6 -6,6 -3.31371,0 -6,-2.68629 -6,-6 0,-3.31371 2.68629,-6 6,-6 3.31371,0 6,2.68629 6,6 z"
          sodipodi:ry="6"
@@ -668,7 +683,10 @@
     <g
        transform="matrix(0.55877953,0,0,0.55877953,-77.867436,229.48913)"
        id="g5040-4"
-       style="fill:#6b8e9f;fill-opacity:1">
+       style="fill:#6b8e9f;fill-opacity:1"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          sodipodi:type="arc"
          style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
@@ -689,7 +707,10 @@
     <g
        id="g5046-2"
        transform="matrix(0.55877953,0,0,0.55877953,-67.246536,229.48913)"
-       style="fill:#6b8e9f;fill-opacity:1">
+       style="fill:#6b8e9f;fill-opacity:1"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          d="m 889,701.36218 c 0,3.31371 -2.68629,6 -6,6 -3.31371,0 -6,-2.68629 -6,-6 0,-3.31371 2.68629,-6 6,-6 3.31371,0 6,2.68629 6,6 z"
          sodipodi:ry="6"
@@ -710,7 +731,10 @@
     <g
        transform="matrix(0.55877953,0,0,0.55877953,-99.109136,229.48913)"
        id="g5052-0"
-       style="fill:#6b8e9f;fill-opacity:1">
+       style="fill:#6b8e9f;fill-opacity:1"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          sodipodi:type="arc"
          style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
@@ -731,7 +755,10 @@
     <g
        style="fill:#6b8e9f;fill-opacity:1"
        transform="matrix(0.55877953,0,0,0.55877953,-35.383836,229.48913)"
-       id="g6541-6">
+       id="g6541-6"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          sodipodi:type="arc"
          style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
@@ -752,7 +779,10 @@
     <g
        style="fill:#6b8e9f;fill-opacity:1"
        id="g6547-1"
-       transform="matrix(0.55877953,0,0,0.55877953,-24.762936,229.48913)">
+       transform="matrix(0.55877953,0,0,0.55877953,-24.762936,229.48913)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          d="m 889,701.36218 c 0,3.31371 -2.68629,6 -6,6 -3.31371,0 -6,-2.68629 -6,-6 0,-3.31371 2.68629,-6 6,-6 3.31371,0 6,2.68629 6,6 z"
          sodipodi:ry="6"
@@ -773,7 +803,10 @@
     <g
        style="fill:#6b8e9f;fill-opacity:1"
        transform="matrix(0.55877953,0,0,0.55877953,-14.142036,229.48913)"
-       id="g6553-9">
+       id="g6553-9"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          sodipodi:type="arc"
          style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
@@ -794,7 +827,10 @@
     <g
        style="fill:#6b8e9f;fill-opacity:1"
        id="g6559-3"
-       transform="matrix(0.55877953,0,0,0.55877953,-46.004736,229.48913)">
+       transform="matrix(0.55877953,0,0,0.55877953,-46.004736,229.48913)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          d="m 889,701.36218 c 0,3.31371 -2.68629,6 -6,6 -3.31371,0 -6,-2.68629 -6,-6 0,-3.31371 2.68629,-6 6,-6 3.31371,0 6,2.68629 6,6 z"
          sodipodi:ry="6"
@@ -815,7 +851,10 @@
     <g
        id="g6565-3"
        transform="matrix(0.55877953,0,0,0.55877953,7.0997638,229.48913)"
-       style="fill:#6b8e9f;fill-opacity:1">
+       style="fill:#6b8e9f;fill-opacity:1"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          d="m 889,701.36218 c 0,3.31371 -2.68629,6 -6,6 -3.31371,0 -6,-2.68629 -6,-6 0,-3.31371 2.68629,-6 6,-6 3.31371,0 6,2.68629 6,6 z"
          sodipodi:ry="6"
@@ -836,7 +875,10 @@
     <g
        transform="matrix(0.55877953,0,0,0.55877953,17.720664,229.48913)"
        id="g6571-7"
-       style="fill:#6b8e9f;fill-opacity:1">
+       style="fill:#6b8e9f;fill-opacity:1"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          sodipodi:type="arc"
          style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
@@ -857,7 +899,10 @@
     <g
        id="g6577-3"
        transform="matrix(0.55877953,0,0,0.55877953,28.341464,229.48913)"
-       style="fill:#6b8e9f;fill-opacity:1">
+       style="fill:#6b8e9f;fill-opacity:1"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          d="m 889,701.36218 c 0,3.31371 -2.68629,6 -6,6 -3.31371,0 -6,-2.68629 -6,-6 0,-3.31371 2.68629,-6 6,-6 3.31371,0 6,2.68629 6,6 z"
          sodipodi:ry="6"
@@ -878,7 +923,10 @@
     <g
        transform="matrix(0.55877953,0,0,0.55877953,-3.5211362,229.48913)"
        id="g6583-9"
-       style="fill:#6b8e9f;fill-opacity:1">
+       style="fill:#6b8e9f;fill-opacity:1"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          sodipodi:type="arc"
          style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
@@ -902,11 +950,17 @@
        width="1026.5669"
        height="141.90355"
        x="-0.16134188"
-       y="629.7323" />
+       y="629.7323"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        style="fill:#ffffff;fill-opacity:1"
        id="g5788-4-9-4"
-       transform="matrix(0.61154355,0,0,0.61154355,-66.319374,-486.01036)">
+       transform="matrix(0.61154355,0,0,0.61154355,-66.319374,-486.01036)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <text
          sodipodi:linespacing="125%"
          id="text3786-9-6-7"
@@ -1023,7 +1077,10 @@
     <g
        style="fill:#6b8e9f;fill-opacity:1"
        id="g5788-4-9"
-       transform="matrix(0.61154355,0,0,0.61154355,-66.31937,-486.86154)">
+       transform="matrix(0.61154355,0,0,0.61154355,-66.31937,-486.86154)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <text
          sodipodi:linespacing="125%"
          id="text3786-9-6"
@@ -1143,7 +1200,10 @@
        width="1025.3048"
        height="770.03931"
        x="1152.7261"
-       y="0.78914553" />
+       y="0.78914553"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        ry="0"
        rx="0"
@@ -1152,7 +1212,10 @@
        height="87.921341"
        width="1024.8474"
        id="rect3008-2-6"
-       style="color:#000000;fill:url(#linearGradient6253-9);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+       style="color:#000000;fill:url(#linearGradient6253-9);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:#6b8e9f;fill-opacity:1;stroke:none"
        d="m 1734.2865,655.84087 0,-31.51998 5.2544,-6.19774 16.9759,0 11.3172,-13.2809 4.4461,0 2.8293,-26.20762 2.8294,26.20762 5.2544,0 6.2649,-7.4373 0,-20.71819 3.0314,-5.48943 2.223,-32.22829 2.223,32.22829 2.8294,5.48943 0,18.94741 1.9403,2.74471 1.6168,0 1.4952,-2.74471 0,-18.94741 3.6773,-5.48943 2.3856,-32.58245 2.3854,32.58245 3.8795,5.48943 0,21.69212 4.0418,0 5.6587,-12.30696 6.467,26.91594 30.3141,0.35415 21.0177,-8.49976 5.4565,-13.10381 0,-8.14562 5.4565,-6.72898 6.0629,0.35416 0,-7.4373 2.4252,-6.37484 2.8292,5.66652 -0.4041,7.08315 42.0355,0 4.0419,17.70785 21.2198,12.74965 0,14.8746 11.9236,12.3955 0,23.37434 -251.4048,-1.4166"
@@ -1160,25 +1223,37 @@
        inkscape:path-effect="#path-effect6209-1-3-5-3"
        inkscape:original-d="m 1734.2865,655.84087 0,-31.51998 5.2544,-6.19774 16.9759,0 11.3172,-13.2809 4.4461,0 2.8293,-26.20762 2.8294,26.20762 5.2544,0 6.2649,-7.4373 0,-20.71819 3.0314,-5.48943 2.223,-32.22829 2.223,32.22829 2.8294,5.48943 0,18.94741 1.9403,2.74471 1.6168,0 1.4952,-2.74471 0,-18.94741 3.6773,-5.48943 2.3856,-32.58245 2.3854,32.58245 3.8795,5.48943 0,21.69212 4.0418,0 5.6587,-12.30696 6.467,26.91594 30.3141,0.35415 21.0177,-8.49976 5.4565,-13.10381 0,-8.14562 5.4565,-6.72898 6.0629,0.35416 0,-7.4373 2.4252,-6.37484 2.8292,5.66652 -0.4041,7.08315 42.0355,0 4.0419,17.70785 21.2198,12.74965 0,14.8746 11.9236,12.3955 0,23.37434 z"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        y="576.80707"
        x="1441.6101"
        height="61.399143"
        width="36.626114"
        id="rect5028-47"
-       style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+       style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
        id="rect5030-7"
        width="36.626114"
        height="61.399143"
        x="1390.7405"
-       y="576.80707" />
+       y="576.80707"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        id="g5036-1"
        transform="matrix(0.55877953,0,0,0.55877953,1064.238,229.29526)"
-       style="fill:#6b8e9f;fill-opacity:1">
+       style="fill:#6b8e9f;fill-opacity:1"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          d="m 889,701.36218 c 0,3.31371 -2.68629,6 -6,6 -3.31371,0 -6,-2.68629 -6,-6 0,-3.31371 2.68629,-6 6,-6 3.31371,0 6,2.68629 6,6 z"
          sodipodi:ry="6"
@@ -1199,7 +1274,10 @@
     <g
        transform="matrix(0.55877953,0,0,0.55877953,1074.8588,229.29526)"
        id="g5040-1"
-       style="fill:#6b8e9f;fill-opacity:1">
+       style="fill:#6b8e9f;fill-opacity:1"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          sodipodi:type="arc"
          style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
@@ -1220,7 +1298,10 @@
     <g
        id="g5046-22"
        transform="matrix(0.55877953,0,0,0.55877953,1085.4797,229.29526)"
-       style="fill:#6b8e9f;fill-opacity:1">
+       style="fill:#6b8e9f;fill-opacity:1"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          d="m 889,701.36218 c 0,3.31371 -2.68629,6 -6,6 -3.31371,0 -6,-2.68629 -6,-6 0,-3.31371 2.68629,-6 6,-6 3.31371,0 6,2.68629 6,6 z"
          sodipodi:ry="6"
@@ -1241,7 +1322,10 @@
     <g
        transform="matrix(0.55877953,0,0,0.55877953,1053.6171,229.29526)"
        id="g5052-8"
-       style="fill:#6b8e9f;fill-opacity:1">
+       style="fill:#6b8e9f;fill-opacity:1"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          sodipodi:type="arc"
          style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
@@ -1262,7 +1346,10 @@
     <g
        style="fill:#6b8e9f;fill-opacity:1"
        transform="matrix(0.55877953,0,0,0.55877953,1117.3424,229.29526)"
-       id="g6541-0">
+       id="g6541-0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          sodipodi:type="arc"
          style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
@@ -1283,7 +1370,10 @@
     <g
        style="fill:#6b8e9f;fill-opacity:1"
        id="g6547-9"
-       transform="matrix(0.55877953,0,0,0.55877953,1127.9633,229.29526)">
+       transform="matrix(0.55877953,0,0,0.55877953,1127.9633,229.29526)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          d="m 889,701.36218 c 0,3.31371 -2.68629,6 -6,6 -3.31371,0 -6,-2.68629 -6,-6 0,-3.31371 2.68629,-6 6,-6 3.31371,0 6,2.68629 6,6 z"
          sodipodi:ry="6"
@@ -1304,7 +1394,10 @@
     <g
        style="fill:#6b8e9f;fill-opacity:1"
        transform="matrix(0.55877953,0,0,0.55877953,1138.5842,229.29526)"
-       id="g6553-6">
+       id="g6553-6"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          sodipodi:type="arc"
          style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
@@ -1325,7 +1418,10 @@
     <g
        style="fill:#6b8e9f;fill-opacity:1"
        id="g6559-4"
-       transform="matrix(0.55877953,0,0,0.55877953,1106.7215,229.29526)">
+       transform="matrix(0.55877953,0,0,0.55877953,1106.7215,229.29526)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          d="m 889,701.36218 c 0,3.31371 -2.68629,6 -6,6 -3.31371,0 -6,-2.68629 -6,-6 0,-3.31371 2.68629,-6 6,-6 3.31371,0 6,2.68629 6,6 z"
          sodipodi:ry="6"
@@ -1346,7 +1442,10 @@
     <g
        id="g6565-38"
        transform="matrix(0.55877953,0,0,0.55877953,1159.826,229.29526)"
-       style="fill:#6b8e9f;fill-opacity:1">
+       style="fill:#6b8e9f;fill-opacity:1"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          d="m 889,701.36218 c 0,3.31371 -2.68629,6 -6,6 -3.31371,0 -6,-2.68629 -6,-6 0,-3.31371 2.68629,-6 6,-6 3.31371,0 6,2.68629 6,6 z"
          sodipodi:ry="6"
@@ -1367,7 +1466,10 @@
     <g
        transform="matrix(0.55877953,0,0,0.55877953,1170.4469,229.29526)"
        id="g6571-6"
-       style="fill:#6b8e9f;fill-opacity:1">
+       style="fill:#6b8e9f;fill-opacity:1"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          sodipodi:type="arc"
          style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
@@ -1388,7 +1490,10 @@
     <g
        id="g6577-1"
        transform="matrix(0.55877953,0,0,0.55877953,1181.0677,229.29526)"
-       style="fill:#6b8e9f;fill-opacity:1">
+       style="fill:#6b8e9f;fill-opacity:1"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          d="m 889,701.36218 c 0,3.31371 -2.68629,6 -6,6 -3.31371,0 -6,-2.68629 -6,-6 0,-3.31371 2.68629,-6 6,-6 3.31371,0 6,2.68629 6,6 z"
          sodipodi:ry="6"
@@ -1409,7 +1514,10 @@
     <g
        transform="matrix(0.55877953,0,0,0.55877953,1149.2051,229.29526)"
        id="g6583-6"
-       style="fill:#6b8e9f;fill-opacity:1">
+       style="fill:#6b8e9f;fill-opacity:1"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          sodipodi:type="arc"
          style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
@@ -1433,11 +1541,17 @@
        width="1026.5669"
        height="141.90355"
        x="1152.5647"
-       y="629.53845" />
+       y="629.53845"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        id="g6591-9"
        transform="matrix(1.0276279,0,0,1.0276279,967.3053,-288.02857)"
-       mask="none">
+       mask="none"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          style="fill:url(#pattern6236-2);stroke:#cecece;stroke-width:2.9193449;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          width="26.629692"
@@ -1471,7 +1585,10 @@
        xml:space="preserve"
        id="flowRoot6242-23"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.4786656,0,0,0.4786656,1358.0719,97.631985)"><flowRegion
+       transform="matrix(0.4786656,0,0,0.4786656,1358.0719,97.631985)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6244-92"><rect
            id="rect6246-9"
            width="732.56946"
@@ -1487,26 +1604,38 @@
        width="155.12897"
        height="47.085938"
        x="1915.3076"
-       y="309.68384" />
+       y="309.68384"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6262-3-4-3"
        width="73.001877"
        height="30.75"
        x="1916.3584"
-       y="367.65302" />
+       y="367.65302"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect7600-3"
        width="1024.3594"
        height="88.40625"
        x="1154.1404"
-       y="0.21094" />
+       y="0.21094"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot6242-8-8"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.47734876,0,0,0.47734876,1268.8773,-45.49612)"><flowRegion
+       transform="matrix(0.47734876,0,0,0.47734876,1268.8773,-45.49612)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6244-7-1"><rect
            id="rect6246-4-7"
            width="1645.7579"
@@ -1520,25 +1649,31 @@
        transform="matrix(0.5545702,0,0,0.5545702,1209.3895,-230.92057)">
       <text
          xml:space="preserve"
-         style="font-size:79.21905518px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+         style="font-size:79.21905517999999802px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
          x="188.34808"
          y="542.05731"
          id="text3000-5-67"
-         sodipodi:linespacing="125%"><tspan
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
            sodipodi:role="line"
            id="tspan3002-4-3"
            x="188.34808"
            y="542.05731">GUADEC</tspan></text>
       <g
          id="g5813-7-9"
-         style="fill:#ffffff;fill-opacity:0.52857145"
-         transform="translate(-600.81303,115.28571)">
+         style="fill:#eeeeec;fill-opacity:1"
+         transform="translate(-600.81303,115.28571)"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
         <text
            sodipodi:linespacing="125%"
            id="text5815-4-9"
            y="357.88382"
            x="792.4502"
-           style="font-size:29.50051689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:0.52857145;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           style="font-size:29.50051689000000010px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
            xml:space="preserve"><tspan
              y="357.88382"
              x="792.4502"
@@ -1546,7 +1681,7 @@
              sodipodi:role="line">The</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:29.50051689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:0.52857145;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           style="font-size:29.50051689000000010px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
            x="973.19745"
            y="357.88382"
            id="text5819-6-8"
@@ -1558,201 +1693,89 @@
         <g
            id="g5823-9-0"
            transform="matrix(0.92337906,0,0,0.92337906,65.460957,27.451834)"
-           style="fill:#ffffff;fill-opacity:0.52857145">
+           style="fill:#eeeeec;fill-opacity:1">
           <g
              id="g5825-0-72"
              transform="matrix(0.11840388,0,0,0.11840388,865.19335,299.21794)"
-             style="fill:#ffffff;fill-opacity:0.52857145">
+             style="fill:#eeeeec;fill-opacity:1">
             <g
                id="g5827-6-1"
                transform="matrix(1.293235,0,0,1.293235,-4878.321,-1224.915)"
-               style="fill:#ffffff;fill-opacity:0.52857145">
+               style="fill:#eeeeec;fill-opacity:1">
               <g
                  id="g5829-3-5"
-                 style="fill:#ffffff;fill-opacity:0.52857145;fill-rule:nonzero;stroke:none"
+                 style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none"
                  transform="matrix(2.438586,0,0,2.438586,3659.952,1113.451)">
                 <g
                    id="g5831-9-9"
-                   style="fill:#ffffff;fill-opacity:0.52857145">
+                   style="fill:#eeeeec;fill-opacity:1">
                   <path
                      id="path5833-6-0"
-                     style="fill:#ffffff;fill-opacity:0.52857145"
+                     style="fill:#eeeeec;fill-opacity:1"
                      d="M 86.068,0 C 61.466,0 56.851,35.041 70.691,35.041 84.529,35.041 110.671,0 86.068,0 z"
                      inkscape:connector-curvature="0" />
                   <path
                      id="path5835-8-9"
-                     style="fill:#ffffff;fill-opacity:0.52857145"
+                     style="fill:#eeeeec;fill-opacity:1"
                      d="M 45.217,30.699 C 52.586,31.149 60.671,2.577 46.821,4.374 32.976,6.171 37.845,30.249 45.217,30.699 z"
                      inkscape:connector-curvature="0" />
                   <path
                      id="path5837-7-5"
-                     style="fill:#ffffff;fill-opacity:0.52857145"
+                     style="fill:#eeeeec;fill-opacity:1"
                      d="M 11.445,48.453 C 16.686,46.146 12.12,23.581 3.208,29.735 -5.7,35.89 6.204,50.759 11.445,48.453 z"
                      inkscape:connector-curvature="0" />
                   <path
                      id="path5839-9-1"
-                     style="fill:#ffffff;fill-opacity:0.52857145"
+                     style="fill:#eeeeec;fill-opacity:1"
                      d="M 26.212,36.642 C 32.451,35.37 32.793,9.778 21.667,14.369 10.539,18.961 19.978,37.916 26.212,36.642 l 0,0 z"
                      inkscape:connector-curvature="0" />
                   <path
                      id="path5841-6-3"
-                     style="fill:#ffffff;fill-opacity:0.52857145"
+                     style="fill:#eeeeec;fill-opacity:1"
                      d="m 58.791,93.913 c 1.107,8.454 -6.202,12.629 -13.36,7.179 C 22.644,83.743 83.16,75.088 79.171,51.386 75.86,31.712 15.495,37.769 8.621,68.553 3.968,89.374 27.774,118.26 52.614,118.26 c 12.22,0 26.315,-11.034 28.952,-25.012 C 83.58,82.589 57.867,86.86 58.791,93.913 l 0,0 z"
                      inkscape:connector-curvature="0" />
                 </g>
               </g>
               <g
                  id="g5843-8-4"
-                 style="fill:#ffffff;fill-opacity:0.52857145">
+                 style="fill:#eeeeec;fill-opacity:1">
                 <path
                    id="path5845-0-0"
-                   style="font-size:148.699646px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:0.52857145;stroke:none;font-family:Bitstream Vera Sans"
+                   style="font-size:148.69964600000000132px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
                    d="m 4176.2963,1214.4401 c -15.1078,0.4069 -27.0386,5.8367 -35.8126,16.25 -9.0861,10.8369 -13.6562,25.8104 -13.6562,44.9063 0,19.0432 4.5703,33.9757 13.6562,44.8124 9.1305,10.8369 21.6664,16.25 37.6563,16.25 16.034,0 28.6014,-5.4131 37.6875,-16.25 9.0859,-10.8367 13.6251,-25.7692 13.625,-44.8124 -1e-4,-19.0959 -4.5391,-34.0694 -13.625,-44.9063 -9.0861,-10.8366 -21.6536,-16.2499 -37.6875,-16.25 -0.6246,0 -1.2296,-0.016 -1.8437,0 z m 1.125,22 c 0.2415,-0.01 0.4737,0 0.7187,0 7.8833,10e-5 13.9919,3.4114 18.3125,10.25 4.3203,6.8388 6.4999,16.4913 6.5,28.9063 0,12.3623 -2.1799,21.9427 -6.5,28.7812 -4.3204,6.8389 -10.4293,10.2812 -18.3125,10.2812 -7.8391,0 -13.8983,-3.4423 -18.2187,-10.2812 -4.3204,-6.8385 -6.4999,-16.4189 -6.5,-28.7812 0,-12.4149 2.1798,-22.0675 6.5,-28.9063 4.1852,-6.6249 10.0123,-10.0428 17.5,-10.25 z"
                    inkscape:connector-curvature="0" />
                 <path
                    id="path5847-4-6"
-                   style="font-size:148.699646px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:0.52857145;stroke:none;font-family:Bitstream Vera Sans"
+                   style="font-size:148.69964600000000132px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
                    d="m 4005.6293,1325.612 c -13.3076,11.1757 -33.1067,11.0472 -41.3549,11.0472 -16.6133,0 -29.7747,-5.471 -39.4842,-16.413 -9.7097,-10.9946 -14.5644,-25.8819 -14.5644,-44.6622 0,-18.9906 4.9438,-33.9305 14.8316,-44.82 9.8878,-10.8892 23.4277,-16.3339 40.62,-16.334 6.6363,10e-5 12.9831,0.7366 19.0406,2.2094 6.1019,1.473 11.8475,3.6562 17.2368,6.5494 l -6.921,20.4608 c -3.0298,-1.6586 -6.4987,-3.2932 -9.7145,-4.4424 -5.4784,-1.8411 -10.979,-2.7617 -16.5018,-2.7618 -10.2442,10e-5 -18.15,3.3932 -23.7173,10.1792 -5.523,6.7336 -8.2844,16.3867 -8.2844,28.9594 0,12.4676 2.6723,22.0945 8.0172,28.8806 5.3446,6.7861 13.3768,10.1791 22.7818,10.1791 9.5548,0 15.4728,-2.4084 18.6291,-4.9461 l 0,-20.3835 -20.7001,0 0,-20.3584 40.0855,0"
                    inkscape:connector-curvature="0" />
                 <path
                    id="path5849-2-6"
-                   style="font-size:148.699646px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:0.52857145;stroke:none;font-family:Bitstream Vera Sans"
+                   style="font-size:148.69964600000000132px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
                    d="m 4023.2108,1216.5605 16.2279,0 51.2775,70.8022 0,-70.8022 21.8853,0 0,117.8103 -16.2279,0 -51.2774,-70.8022 0,70.8022 -21.8854,0 0,-117.8103"
                    inkscape:connector-curvature="0" />
                 <path
                    id="path5851-0-2"
-                   style="font-size:148.699646px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:0.52857145;stroke:none;font-family:Bitstream Vera Sans"
+                   style="font-size:148.69964600000000132px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
                    d="m 4246.3361,1216.5605 32.7366,0 22.7151,73.5479 22.8487,-73.5479 27.6698,0 12.5,117.8103 -24.3186,0 -7.5,-73.668 -22.9823,74.0213 -16.3015,0 -22.9824,-76.5213 -7.5,76.168 -24.3854,0 12.5,-117.8103"
                    inkscape:connector-curvature="0" />
                 <path
                    id="path5853-8-1"
-                   style="font-size:148.699646px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:0.52857145;stroke:none;font-family:Bitstream Vera Sans"
+                   style="font-size:148.69964600000000132px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
                    d="m 4382.3597,1216.5605 69.4147,0 0,22.9624 -43.6933,0 0,24.4365 33.5877,0 0,20.4623 -33.5877,0 0,26.9868 45.1631,0 0,22.9623 -70.8845,0 0,-117.8103"
                    inkscape:connector-curvature="0" />
                 <text
                    xml:space="preserve"
                    id="text5855-1-9"
-                   style="font-size:30.68958855px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:0.52857145;stroke:none;font-family:Bitstream Vera Sans"
+                   style="font-size:30.68958854999999986px;font-style:normal;font-weight:normal;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
                    y="1215.743"
                    x="4474.6182"><tspan
                      id="tspan5857-8-2"
-                     style="letter-spacing:11.06259632;fill:#ffffff;fill-opacity:0.52857145"
+                     style="letter-spacing:11.06259632000000082;fill:#eeeeec;fill-opacity:1"
                      y="1215.743"
                      x="4474.6182"><tspan
                        id="tspan5859-5-2"
-                       style="letter-spacing:0.2523815;fill:#ffffff;fill-opacity:0.52857145">TM</tspan></tspan></text>
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-      <g
-         transform="translate(-600.81303,114.28571)"
-         id="g5788-4-8">
-        <text
-           xml:space="preserve"
-           style="font-size:29.50051689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-           x="792.4502"
-           y="357.88382"
-           id="text3786-9-9"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan3788-0-9"
-             x="792.4502"
-             y="357.88382">The</tspan></text>
-        <text
-           sodipodi:linespacing="125%"
-           id="text3790-0-6"
-           y="357.88382"
-           x="973.19745"
-           style="font-size:29.50051689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-           xml:space="preserve"><tspan
-             y="357.88382"
-             x="973.19745"
-             id="tspan3792-2-8"
-             sodipodi:role="line">Conference</tspan></text>
-        <g
-           transform="matrix(0.92337906,0,0,0.92337906,65.460957,27.451834)"
-           id="g5768-3-2">
-          <g
-             transform="matrix(0.11840388,0,0,0.11840388,865.19335,299.21794)"
-             id="layer1-8-6-5">
-            <g
-               transform="matrix(1.293235,0,0,1.293235,-4878.321,-1224.915)"
-               id="g15041-9-9">
-              <g
-                 transform="matrix(2.438586,0,0,2.438586,3659.952,1113.451)"
-                 style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                 id="g15043-9-4">
-                <g
-                   style="fill:#000000;fill-opacity:1"
-                   id="g15045-1-5">
-                  <path
-                     inkscape:connector-curvature="0"
-                     d="M 86.068,0 C 61.466,0 56.851,35.041 70.691,35.041 84.529,35.041 110.671,0 86.068,0 z"
-                     style="fill:#000000;fill-opacity:1"
-                     id="path15047-7-7" />
-                  <path
-                     inkscape:connector-curvature="0"
-                     d="M 45.217,30.699 C 52.586,31.149 60.671,2.577 46.821,4.374 32.976,6.171 37.845,30.249 45.217,30.699 z"
-                     style="fill:#000000;fill-opacity:1"
-                     id="path15049-2-4" />
-                  <path
-                     inkscape:connector-curvature="0"
-                     d="M 11.445,48.453 C 16.686,46.146 12.12,23.581 3.208,29.735 -5.7,35.89 6.204,50.759 11.445,48.453 z"
-                     style="fill:#000000;fill-opacity:1"
-                     id="path15051-0-2" />
-                  <path
-                     inkscape:connector-curvature="0"
-                     d="M 26.212,36.642 C 32.451,35.37 32.793,9.778 21.667,14.369 10.539,18.961 19.978,37.916 26.212,36.642 l 0,0 z"
-                     style="fill:#000000;fill-opacity:1"
-                     id="path15053-9-1" />
-                  <path
-                     inkscape:connector-curvature="0"
-                     d="m 58.791,93.913 c 1.107,8.454 -6.202,12.629 -13.36,7.179 C 22.644,83.743 83.16,75.088 79.171,51.386 75.86,31.712 15.495,37.769 8.621,68.553 3.968,89.374 27.774,118.26 52.614,118.26 c 12.22,0 26.315,-11.034 28.952,-25.012 C 83.58,82.589 57.867,86.86 58.791,93.913 l 0,0 z"
-                     style="fill:#000000;fill-opacity:1"
-                     id="path15055-1-7" />
-                </g>
-              </g>
-              <g
-                 id="g15057-5-9">
-                <path
-                   inkscape:connector-curvature="0"
-                   d="m 4176.2963,1214.4401 c -15.1078,0.4069 -27.0386,5.8367 -35.8126,16.25 -9.0861,10.8369 -13.6562,25.8104 -13.6562,44.9063 0,19.0432 4.5703,33.9757 13.6562,44.8124 9.1305,10.8369 21.6664,16.25 37.6563,16.25 16.034,0 28.6014,-5.4131 37.6875,-16.25 9.0859,-10.8367 13.6251,-25.7692 13.625,-44.8124 -1e-4,-19.0959 -4.5391,-34.0694 -13.625,-44.9063 -9.0861,-10.8366 -21.6536,-16.2499 -37.6875,-16.25 -0.6246,0 -1.2296,-0.016 -1.8437,0 z m 1.125,22 c 0.2415,-0.01 0.4737,0 0.7187,0 7.8833,10e-5 13.9919,3.4114 18.3125,10.25 4.3203,6.8388 6.4999,16.4913 6.5,28.9063 0,12.3623 -2.1799,21.9427 -6.5,28.7812 -4.3204,6.8389 -10.4293,10.2812 -18.3125,10.2812 -7.8391,0 -13.8983,-3.4423 -18.2187,-10.2812 -4.3204,-6.8385 -6.4999,-16.4189 -6.5,-28.7812 0,-12.4149 2.1798,-22.0675 6.5,-28.9063 4.1852,-6.6249 10.0123,-10.0428 17.5,-10.25 z"
-                   style="font-size:148.699646px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-                   id="path15059-8-3" />
-                <path
-                   inkscape:connector-curvature="0"
-                   d="m 4005.6293,1325.612 c -13.3076,11.1757 -33.1067,11.0472 -41.3549,11.0472 -16.6133,0 -29.7747,-5.471 -39.4842,-16.413 -9.7097,-10.9946 -14.5644,-25.8819 -14.5644,-44.6622 0,-18.9906 4.9438,-33.9305 14.8316,-44.82 9.8878,-10.8892 23.4277,-16.3339 40.62,-16.334 6.6363,10e-5 12.9831,0.7366 19.0406,2.2094 6.1019,1.473 11.8475,3.6562 17.2368,6.5494 l -6.921,20.4608 c -3.0298,-1.6586 -6.4987,-3.2932 -9.7145,-4.4424 -5.4784,-1.8411 -10.979,-2.7617 -16.5018,-2.7618 -10.2442,10e-5 -18.15,3.3932 -23.7173,10.1792 -5.523,6.7336 -8.2844,16.3867 -8.2844,28.9594 0,12.4676 2.6723,22.0945 8.0172,28.8806 5.3446,6.7861 13.3768,10.1791 22.7818,10.1791 9.5548,0 15.4728,-2.4084 18.6291,-4.9461 l 0,-20.3835 -20.7001,0 0,-20.3584 40.0855,0"
-                   style="font-size:148.699646px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-                   id="path15061-7-7" />
-                <path
-                   inkscape:connector-curvature="0"
-                   d="m 4023.2108,1216.5605 16.2279,0 51.2775,70.8022 0,-70.8022 21.8853,0 0,117.8103 -16.2279,0 -51.2774,-70.8022 0,70.8022 -21.8854,0 0,-117.8103"
-                   style="font-size:148.699646px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-                   id="path15063-3-8" />
-                <path
-                   inkscape:connector-curvature="0"
-                   d="m 4246.3361,1216.5605 32.7366,0 22.7151,73.5479 22.8487,-73.5479 27.6698,0 12.5,117.8103 -24.3186,0 -7.5,-73.668 -22.9823,74.0213 -16.3015,0 -22.9824,-76.5213 -7.5,76.168 -24.3854,0 12.5,-117.8103"
-                   style="font-size:148.699646px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-                   id="path15065-5-0" />
-                <path
-                   inkscape:connector-curvature="0"
-                   d="m 4382.3597,1216.5605 69.4147,0 0,22.9624 -43.6933,0 0,24.4365 33.5877,0 0,20.4623 -33.5877,0 0,26.9868 45.1631,0 0,22.9623 -70.8845,0 0,-117.8103"
-                   style="font-size:148.699646px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-                   id="path15067-8-0" />
-                <text
-                   x="4474.6182"
-                   y="1215.743"
-                   style="font-size:30.68958855px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-                   id="text15069-1-3"
-                   xml:space="preserve"><tspan
-                     x="4474.6182"
-                     y="1215.743"
-                     style="letter-spacing:11.06259632"
-                     id="tspan15072-6-4"><tspan
-                       style="letter-spacing:0.2523815"
-                       id="tspan15074-1-2">TM</tspan></tspan></text>
+                       style="letter-spacing:0.25238149999999998;fill:#eeeeec;fill-opacity:1">TM</tspan></tspan></text>
               </g>
             </g>
           </g>
@@ -1763,7 +1786,10 @@
        xml:space="preserve"
        id="flowRoot6242-1-9"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.36170347,0,0,0.36170347,1202.3702,315.15013)"><flowRegion
+       transform="matrix(0.36170347,0,0,0.36170347,1202.3702,315.15013)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6244-9-0"><rect
            id="rect6246-5-53"
            width="401.45688"
@@ -1778,7 +1804,10 @@
        xml:space="preserve"
        id="flowRoot6242-1-3-87"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.36170347,0,0,0.36170347,1382.3702,315.15013)"><flowRegion
+       transform="matrix(0.36170347,0,0,0.36170347,1382.3702,315.15013)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6244-9-4-89"><rect
            id="rect6246-5-5-9"
            width="401.45688"
@@ -1793,7 +1822,10 @@
        xml:space="preserve"
        id="flowRoot6242-1-3-8-1"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.36170347,0,0,0.36170347,1562.3702,315.15013)"><flowRegion
+       transform="matrix(0.36170347,0,0,0.36170347,1562.3702,315.15013)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6244-9-4-8-5"><rect
            id="rect6246-5-5-3-0"
            width="401.45688"
@@ -1810,40 +1842,58 @@
        width="73.001877"
        height="30.75"
        x="1998.0381"
-       y="367.65302" />
+       y="367.65302"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6262-3-4-7-4"
        width="73.001877"
        height="30.75"
        x="1916.3584"
-       y="408.97333" />
+       y="408.97333"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6262-3-4-4-6-7"
        width="73.001877"
        height="30.75"
        x="1998.0381"
-       y="408.97333" />
+       y="408.97333"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6262-3-7-6"
        width="155.12897"
        height="47.085938"
        x="1915.3076"
-       y="249.68384" />
+       y="249.68384"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6262-3-7-4-4"
        width="155.12897"
        height="47.085938"
        x="1915.3076"
-       y="189.68384" />
+       y="189.68384"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot6242-1-4-3-0"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.42044916,0,0,0.42044916,81.341821,-326.43441)"><flowRegion
+       transform="matrix(0.42044916,0,0,0.42044916,81.341821,-326.43441)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6244-9-3-2-8"><rect
            id="rect6246-5-6-3-2"
            width="776.33331"
@@ -1856,7 +1906,10 @@
        xml:space="preserve"
        id="flowRoot6242-1-4-3"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6b8e9f;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.42044916,0,0,0.42044916,81.34182,-327.43441)"><flowRegion
+       transform="matrix(0.42044916,0,0,0.42044916,81.34182,-327.43441)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6244-9-3-2"><rect
            id="rect6246-5-6-3"
            width="776.33331"
@@ -1871,7 +1924,10 @@
        y="-222.43593"
        x="413.04144"
        style="font-size:50.22703934px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          y="-222.43593"
          x="413.04144"
          id="tspan3002-4-5-2"
@@ -1882,7 +1938,10 @@
        y="-223.49057"
        x="413.04144"
        style="font-size:50.22703934px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6b8e9f;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          y="-223.49057"
          x="413.04144"
          id="tspan3002-4-5"
@@ -1891,7 +1950,10 @@
        xml:space="preserve"
        id="flowRoot6242-1-4-3-8-6"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.42044916,0,0,0.42044916,527.34182,-327.45961)"><flowRegion
+       transform="matrix(0.42044916,0,0,0.42044916,527.34182,-327.45961)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6244-9-3-2-7-4"><rect
            id="rect6246-5-6-3-9-1"
            width="349.15884"
@@ -1904,7 +1966,10 @@
        xml:space="preserve"
        id="flowRoot6242-1-4-3-8"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6b8e9f;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.42044916,0,0,0.42044916,527.34182,-328.43188)"><flowRegion
+       transform="matrix(0.42044916,0,0,0.42044916,527.34182,-328.43188)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6244-9-3-2-7"><rect
            id="rect6246-5-6-3-9"
            width="349.15884"
@@ -1917,7 +1982,7 @@
        id="g6591-5"
        transform="matrix(2.3037223,0,0,2.3037223,1185.9199,-1960.2197)"
        mask="none"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/websites/guadec-2013/buildings.png"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <rect
@@ -1949,7 +2014,10 @@
        xml:space="preserve"
        id="flowRoot6242-2"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.4786656,0,0,0.4786656,63.57967,-119.92584)"><flowRegion
+       transform="matrix(0.4786656,0,0,0.4786656,63.57967,-119.92584)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6244-4"><rect
            id="rect6246-3"
            width="1270.8057"
@@ -1969,12 +2037,18 @@
        x="358.28043"
        y="388.76031"
        rx="23.688078"
-       ry="23.688078" />
+       ry="23.688078"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot6242-1-4-3-5"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.36874715,0,0,0.36874715,274.51065,334.90129)"><flowRegion
+       transform="matrix(0.36874715,0,0,0.36874715,274.51065,334.90129)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6244-9-3-2-1"><rect
            id="rect6246-5-6-3-4"
            width="672.2439"
@@ -1987,7 +2061,10 @@
        xml:space="preserve"
        id="flowRoot6242-2-7-6"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.4786656,0,0,0.4786656,393.39812,104.6515)"><flowRegion
+       transform="matrix(0.4786656,0,0,0.4786656,393.39812,104.6515)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6244-4-7-5"><rect
            id="rect6246-3-2-0"
            width="586.57733"
@@ -2001,7 +2078,10 @@
        xml:space="preserve"
        id="flowRoot6242-2-7-6-1"
        style="font-size:40px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-       transform="matrix(0.4786656,0,0,0.4786656,17.335064,22.976227)"><flowRegion
+       transform="matrix(0.4786656,0,0,0.4786656,17.335064,22.976227)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6244-4-7-5-1"><rect
            id="rect6246-3-2-0-0"
            width="1426.0791"
@@ -2018,7 +2098,10 @@
        xml:space="preserve"
        id="flowRoot6242-2-7-6-2"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.4786656,0,0,0.4786656,62.964217,235.84245)"><flowRegion
+       transform="matrix(0.4786656,0,0,0.4786656,62.964217,235.84245)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6244-4-7-5-6"><rect
            id="rect6246-3-2-0-7"
            width="1205.1564"
@@ -2032,7 +2115,10 @@
        xml:space="preserve"
        id="flowRoot6242-2-7-6-4"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.60403559,0,0,0.60403559,46.854004,37.833417)"><flowRegion
+       transform="matrix(0.60403559,0,0,0.60403559,46.854004,37.833417)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6244-4-7-5-16"><rect
            id="rect6246-3-2-0-74"
            width="371.07178"
@@ -2048,7 +2134,10 @@
        xml:space="preserve"
        id="flowRoot6242-2-7-6-3"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.4786656,0,0,0.4786656,77.10671,181.32056)"><flowRegion
+       transform="matrix(0.4786656,0,0,0.4786656,77.10671,181.32056)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6244-4-7-5-3"><rect
            id="rect6246-3-2-0-9"
            width="560.92426"
@@ -2060,7 +2149,10 @@
        xml:space="preserve"
        id="flowRoot6242-2-7-6-12"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.4786656,0,0,0.4786656,84.953864,107.18705)"><flowRegion
+       transform="matrix(0.4786656,0,0,0.4786656,84.953864,107.18705)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6244-4-7-5-9"><rect
            id="rect6246-3-2-0-79"
            width="728.62402"
@@ -2076,7 +2168,10 @@
        xml:space="preserve"
        id="flowRoot6242-2-7-6-2-5"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.4786656,0,0,0.4786656,390.88513,185.34498)"><flowRegion
+       transform="matrix(0.4786656,0,0,0.4786656,390.88513,185.34498)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6244-4-7-5-6-1"><rect
            id="rect6246-3-2-0-7-3"
            width="655.55499"
@@ -2092,7 +2187,10 @@
        xml:space="preserve"
        id="flowRoot6242-2-7-6-2-6"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.4786656,0,0,0.4786656,84.607144,146.27897)"><flowRegion
+       transform="matrix(0.4786656,0,0,0.4786656,84.607144,146.27897)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6244-4-7-5-6-9"><rect
            id="rect6246-3-2-0-7-5"
            width="449.87738"
@@ -2104,7 +2202,10 @@
        xml:space="preserve"
        id="flowRoot6242-2-7-6-2-8"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.4786656,0,0,0.4786656,393.45491,153.39161)"><flowRegion
+       transform="matrix(0.4786656,0,0,0.4786656,393.45491,153.39161)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6244-4-7-5-6-4"><rect
            id="rect6246-3-2-0-7-2"
            width="618.28345"
@@ -2116,7 +2217,10 @@
        xml:space="preserve"
        id="flowRoot6242-2-7-6-4-1"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.60403559,0,0,0.60403559,353.854,35.833417)"><flowRegion
+       transform="matrix(0.60403559,0,0,0.60403559,353.854,35.833417)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6244-4-7-5-16-7"><rect
            id="rect6246-3-2-0-74-1"
            width="463.78156"
@@ -2133,7 +2237,10 @@
        sodipodi:rx="5"
        sodipodi:ry="5"
        d="m 31,206 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
-       transform="translate(193.33304,-44.083261)" />
+       transform="translate(193.33304,-44.083261)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        sodipodi:type="arc"
        style="fill:#2e3436;fill-opacity:1;stroke:none"
@@ -2143,7 +2250,10 @@
        sodipodi:rx="5"
        sodipodi:ry="5"
        d="m 31,206 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
-       transform="translate(193.33304,-4.2253971)" />
+       transform="translate(193.33304,-4.2253971)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        sodipodi:type="arc"
        style="fill:#2e3436;fill-opacity:1;stroke:none"
@@ -2153,7 +2263,10 @@
        sodipodi:rx="5"
        sodipodi:ry="5"
        d="m 31,206 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
-       transform="translate(193.33304,34.218252)" />
+       transform="translate(193.33304,34.218252)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        sodipodi:type="arc"
        style="fill:#2e3436;fill-opacity:1;stroke:none"
@@ -2163,7 +2276,10 @@
        sodipodi:rx="5"
        sodipodi:ry="5"
        d="m 31,206 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
-       transform="translate(501.33304,-44.083261)" />
+       transform="translate(501.33304,-44.083261)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        sodipodi:type="arc"
        style="fill:#2e3436;fill-opacity:1;stroke:none"
@@ -2173,7 +2289,10 @@
        sodipodi:rx="5"
        sodipodi:ry="5"
        d="m 31,206 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
-       transform="translate(501.33304,1.7746039)" />
+       transform="translate(501.33304,1.7746039)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        sodipodi:type="arc"
        style="fill:#2e3436;fill-opacity:1;stroke:none"
@@ -2183,7 +2302,10 @@
        sodipodi:rx="5"
        sodipodi:ry="5"
        d="m 31,206 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
-       transform="translate(501.33304,40.218252)" />
+       transform="translate(501.33304,40.218252)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        sodipodi:type="arc"
        style="fill:#2e3436;fill-opacity:1;stroke:none"
@@ -2193,7 +2315,10 @@
        sodipodi:rx="5"
        sodipodi:ry="5"
        d="m 31,206 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
-       transform="translate(187.96638,78.124883)" />
+       transform="translate(187.96638,78.124883)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        sodipodi:type="arc"
        style="fill:#2e3436;fill-opacity:1;stroke:none"
@@ -2203,7 +2328,10 @@
        sodipodi:rx="5"
        sodipodi:ry="5"
        d="m 31,206 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
-       transform="translate(500.50757,78.041623)" />
+       transform="translate(500.50757,78.041623)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        sodipodi:type="arc"
        style="fill:#ffffff;fill-opacity:1;stroke:none"
@@ -2213,7 +2341,10 @@
        sodipodi:rx="3.3587573"
        sodipodi:ry="3.3587573"
        d="m 396.68691,-125.95975 a 3.3587573,3.3587573 0 1 1 -6.71751,0 3.3587573,3.3587573 0 1 1 6.71751,0 z"
-       transform="matrix(1.0325641,0,0,1.0325641,-5.6708407,-109.4143)" />
+       transform="matrix(1.0325641,0,0,1.0325641,-5.6708407,-109.4143)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        sodipodi:type="arc"
        style="fill:#6b8e9f;fill-opacity:1;stroke:none"
@@ -2223,7 +2354,10 @@
        sodipodi:rx="3.3587573"
        sodipodi:ry="3.3587573"
        d="m 396.68691,-125.95975 a 3.3587573,3.3587573 0 1 1 -6.71751,0 3.3587573,3.3587573 0 1 1 6.71751,0 z"
-       transform="matrix(1.0325641,0,0,1.0325641,-5.6708387,-110.44555)" />
+       transform="matrix(1.0325641,0,0,1.0325641,-5.6708387,-110.44555)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        sodipodi:type="arc"
        style="fill:#ffffff;fill-opacity:1;stroke:none"
@@ -2233,7 +2367,10 @@
        sodipodi:rx="3.3587573"
        sodipodi:ry="3.3587573"
        d="m 396.68691,-125.95975 a 3.3587573,3.3587573 0 1 1 -6.71751,0 3.3587573,3.3587573 0 1 1 6.71751,0 z"
-       transform="matrix(1.0325641,0,0,1.0325641,231.32916,-108.4768)" />
+       transform="matrix(1.0325641,0,0,1.0325641,231.32916,-108.4768)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        sodipodi:type="arc"
        style="fill:#6b8e9f;fill-opacity:1;stroke:none"
@@ -2243,6 +2380,9 @@
        sodipodi:rx="3.3587573"
        sodipodi:ry="3.3587573"
        d="m 396.68691,-125.95975 a 3.3587573,3.3587573 0 1 1 -6.71751,0 3.3587573,3.3587573 0 1 1 6.71751,0 z"
-       transform="matrix(1.0325641,0,0,1.0325641,231.32916,-109.44555)" />
+       transform="matrix(1.0325641,0,0,1.0325641,231.32916,-109.44555)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>
