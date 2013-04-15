@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35355339"
-     inkscape:cx="730.32105"
-     inkscape:cy="13.6206"
+     inkscape:cx="1317.7131"
+     inkscape:cy="-104.10286"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
@@ -58,7 +58,7 @@
        height="1813.3322"
        x="0"
        y="0.082035489"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -68,7 +68,7 @@
        height="108.89445"
        x="33.941124"
        y="26.952093"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -78,7 +78,7 @@
        height="49.497478"
        x="333.9411"
        y="56.650574"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -88,7 +88,7 @@
        y="206.4996"
        id="text6047"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -102,7 +102,7 @@
        id="path6051"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -113,7 +113,10 @@
        x="608.11182"
        y="229.89174"
        rx="20.329321"
-       ry="20.329321" />
+       ry="20.329321"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-size:23.92562866px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3465a4;fill-opacity:1;stroke:none;font-family:Sans"
@@ -121,7 +124,7 @@
        y="255.27252"
        id="text6053"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -133,7 +136,7 @@
        d="m 34.648232,261.00444 153.442168,0"
        id="path6059"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -142,7 +145,7 @@
        id="path6059-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -151,7 +154,7 @@
        id="path6059-2-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -160,7 +163,7 @@
        id="path6059-2-7-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -169,7 +172,7 @@
        id="path6059-2-7-4-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
@@ -192,7 +195,7 @@
        id="flowRoot6133-0-7"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        transform="matrix(0.5983335,0,0,0.5983335,7.84336,137.13483)"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6135-0-4"><rect
@@ -211,7 +214,7 @@
        id="flowRoot6133-0-7-8"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        transform="matrix(0.5983335,0,0,0.5983335,7.8433601,417.13483)"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6135-0-4-5"><rect
@@ -230,7 +233,7 @@
        id="flowRoot6133-0-7-8-5"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        transform="matrix(0.5983335,0,0,0.5983335,347.84336,417.13483)"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6135-0-4-5-1"><rect
@@ -249,7 +252,7 @@
        id="flowRoot6133-0-7-8-5-8"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        transform="matrix(0.5983335,0,0,0.5983335,667.84336,417.13483)"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6135-0-4-5-1-6"><rect
@@ -271,14 +274,20 @@
        x="302.64169"
        y="492.06604"
        rx="28.284271"
-       ry="28.284271" />
+       ry="28.284271"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-size:23.87926102px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="379.05908"
        y="527.91284"
        id="text7262"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan7264"
          x="379.05908"
@@ -291,7 +300,10 @@
        x="16.970562"
        y="977.30359"
        rx="0"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="fill:#d3d7cf;fill-opacity:1;stroke:none"
        id="rect7266-3"
@@ -300,7 +312,10 @@
        x="356.97058"
        y="977.30359"
        rx="0"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="fill:#d3d7cf;fill-opacity:1;stroke:none"
        id="rect7266-3-6"
@@ -309,12 +324,18 @@
        x="696.97058"
        y="977.30359"
        rx="0"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 10,944 1012,0"
        id="path7304"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect6965-4"
@@ -322,7 +343,7 @@
        height="1351.3322"
        x="1160"
        y="0.082039997"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -332,7 +353,7 @@
        height="108.89445"
        x="1193.9412"
        y="26.952099"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -342,7 +363,7 @@
        height="49.497478"
        x="1493.9412"
        y="56.650578"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -352,7 +373,7 @@
        y="206.49962"
        id="text6047-7"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -366,7 +387,7 @@
        id="path6051-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -377,7 +398,10 @@
        x="1768.1118"
        y="229.89175"
        rx="20.329321"
-       ry="20.329321" />
+       ry="20.329321"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-size:23.92562866px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3465a4;fill-opacity:1;stroke:none;font-family:Sans"
@@ -385,7 +409,7 @@
        y="255.27254"
        id="text6053-6"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -397,7 +421,7 @@
        d="m 1194.6482,261.00444 153.4422,0"
        id="path6059-7"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -406,7 +430,7 @@
        id="path6059-2-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -415,7 +439,7 @@
        id="path6059-2-7-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -424,7 +448,7 @@
        id="path6059-2-7-4-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -433,7 +457,7 @@
        id="path6059-2-7-4-1-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
@@ -441,7 +465,7 @@
        id="flowRoot6133-0-7-5"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        transform="matrix(0.5983335,0,0,0.5983335,1167.8434,137.13483)"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6135-0-4-9"><rect
@@ -465,14 +489,20 @@
        x="1176.9706"
        y="497.30359"
        rx="0"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Sans"
        x="1568"
        y="898"
        id="text7486"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan7488"
          x="1568"
@@ -483,7 +513,10 @@
        x="505.4707"
        y="1324.9121"
        id="text7486-7"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation-members.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan7488-7"
          x="505.4707"
