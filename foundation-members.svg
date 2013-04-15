@@ -14,7 +14,7 @@
    id="svg6019"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="foundation.svg">
+   sodipodi:docname="foundation-members.svg">
   <defs
      id="defs6021" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="-180.18594"
-     inkscape:cy="37.961281"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="730.32105"
+     inkscape:cy="13.6206"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
@@ -315,5 +315,184 @@
        d="m 10,944 1012,0"
        id="path7304"
        inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect6965-4"
+       width="1025.3048"
+       height="1351.3322"
+       x="1160"
+       y="0.082039997"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#2e3436;fill-opacity:1;stroke:none"
+       id="rect6027-5"
+       width="248.90158"
+       height="108.89445"
+       x="1193.9412"
+       y="26.952099"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#2e3436;fill-opacity:1;stroke:none"
+       id="rect6027-3-0"
+       width="643.46716"
+       height="49.497478"
+       x="1493.9412"
+       y="56.650578"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:34.34001541px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1198.2114"
+       y="206.49962"
+       id="text6047-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan6049-8"
+         x="1198.2114"
+         y="206.49962"
+         style="font-weight:bold;fill:#75507b;-inkscape-font-specification:Sans Bold">The GNOME Foundation</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1196.7696,224.94199 933.3809,0"
+       id="path6051-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#babdb6;fill-opacity:1;stroke:none"
+       id="rect6990-8"
+       width="182.08"
+       height="40.658642"
+       x="1768.1118"
+       y="229.89175"
+       rx="20.329321"
+       ry="20.329321" />
+    <text
+       xml:space="preserve"
+       style="font-size:23.92562866px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3465a4;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1194.9026"
+       y="255.27254"
+       id="text6053-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan6055-8"
+         x="1194.9026"
+         y="255.27254">Governance     Legal &amp; Trademarks     Reports     Membership     Contact us</tspan></text>
+    <path
+       style="fill:#3465a4;stroke:#3465a4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1194.6482,261.00444 153.4422,0"
+       id="path6059-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#3465a4;stroke:#3465a4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1374.6482,261.00444 241.1234,0"
+       id="path6059-2-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#3465a4;stroke:#3465a4;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1654.346,261.00444 95.3568,0"
+       id="path6059-2-7-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#3465a4;stroke:#3465a4;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1785.4034,261.00444 145.7688,0"
+       id="path6059-2-7-4-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#3465a4;stroke:#3465a4;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1974.5184,261.00444 128.246,0"
+       id="path6059-2-7-4-1-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6133-0-7-5"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.5983335,0,0,0.5983335,1167.8434,137.13483)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/foundation.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion6135-0-4-9"><rect
+           id="rect6137-4-1-8"
+           width="1515.9895"
+           height="324.04404"
+           x="45.254833"
+           y="299.89532" /></flowRegion><flowPara
+         style="font-size:26.74094009px"
+         id="flowPara7054-0">If you are a GNOME contributor, there is no reason why</flowPara><flowPara
+         style="font-size:26.74094009px"
+         id="flowPara7480">you shouldn't be part of the GNOME Foundation.</flowPara><flowPara
+         style="font-size:26.74094009px"
+         id="flowPara7482"></flowPara><flowPara
+         style="font-size:26.74094009px"
+         id="flowPara7484">To apply for membership in the GNOME Foundation, please complete the following form in English. Your application will then be reviewed by the Foundation's Membership and Elections Committee, which will notify you when your application has been accepted or rejected.</flowPara></flowRoot>    <rect
+       style="fill:#d3d7cf;fill-opacity:1;stroke:none"
+       id="rect7266-8"
+       width="990.05591"
+       height="814.58698"
+       x="1176.9706"
+       y="497.30359"
+       rx="0"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1568"
+       y="898"
+       id="text7486"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7488"
+         x="1568"
+         y="898">the form</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Sans"
+       x="505.4707"
+       y="1324.9121"
+       id="text7486-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7488-7"
+         x="505.4707"
+         y="1324.9121"
+         style="text-align:center;text-anchor:middle">members</tspan><tspan
+         sodipodi:role="line"
+         x="505.4707"
+         y="1374.9121"
+         id="tspan7511"
+         style="text-align:center;text-anchor:middle">list</tspan></text>
   </g>
 </svg>
