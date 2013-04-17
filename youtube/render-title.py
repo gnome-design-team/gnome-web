@@ -10,7 +10,8 @@ def render(title):
   renderpath = '//out/'+title
   
   if (not os.path.isdir(renderpath)):
-    bpy.ops.render.render(animation=True)
+    print('yay')
+    #bpy.ops.render.render(animation=True)
   else:
     print('already rendered',bpy.context.scene.render.frame_path())
 
