@@ -17,7 +17,7 @@ def render(title):
   
 #translates strings and calls render
 def main():
-  
+  print(sys.argv)
   if (len(sys.argv)>2):
     #
     #bpy.data.objects[textobj.get('id')].data.body = textobj.text
