@@ -1,9 +1,9 @@
 import bpy,os,re,sys
 
+TITLE="This is a test"
  
-def render(title):
-  global renderpath,renderpathabs,sndfile
-  
+def render():
+ 
   #bpy.context.scene.render.resolution_percentage =
   #bpy.context.scene.render.use_compositing = 0
   #bpy.context.scene.render.use_sequencer = 1
@@ -18,14 +18,12 @@ def render(title):
   
 #translates strings and calls render
 def main():
-  print(sys.argv)
-  if (len(sys.argv)>2):
+
     #
     #bpy.data.objects[textobj.get('id')].data.body = textobj.text
     #bpy.data.objects['usermenuuser'].data.body = bpy.data.objects['user'].data.body #due to different alignment
-    render("oops")
-  else:
-    print('supply the title as a parameter');
+    bpy.data.objects['Text'].data.body = TITLE
+    render()
     
 if __name__ == '__main__':
     main()
