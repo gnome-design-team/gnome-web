@@ -7,7 +7,7 @@ def render():
   #bpy.context.scene.render.resolution_percentage =
   #bpy.context.scene.render.use_compositing = 0
   #bpy.context.scene.render.use_sequencer = 1
-  renderpath = '//out/'+title[:5]
+  renderpath = '//out/' + TITLE[:5]
   
   if (not os.path.isdir(renderpath)):
     print('yay')
