@@ -8,6 +8,7 @@ def render():
   #bpy.context.scene.render.use_compositing = 0
   #bpy.context.scene.render.use_sequencer = 1
   renderpath = '//out/%s' % TITLE[:5]
+  bpy.context.scene.render.filepath = renderpath
   
   if (not os.path.isdir(renderpath)):
     #print('yay')
