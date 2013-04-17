@@ -1,6 +1,6 @@
 import bpy,os,re,sys
 
-TITLE="This is a test"
+TITLE="Layers of GNOME 3"
  
 def render():
  
