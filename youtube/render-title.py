@@ -22,7 +22,7 @@ def main():
     #
     #bpy.data.objects[textobj.get('id')].data.body = textobj.text
     #bpy.data.objects['usermenuuser'].data.body = bpy.data.objects['user'].data.body #due to different alignment
-    #render("oops")
+    render("oops")
   else:
     print('supply the title as a parameter');
     
