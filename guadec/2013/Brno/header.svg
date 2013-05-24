@@ -28,8 +28,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="473.48919"
-     inkscape:cy="30.677516"
+     inkscape:cx="556.749"
+     inkscape:cy="-29.426455"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -69,13 +69,13 @@
      id="layer1"
      transform="translate(0,-977.3622)">
     <g
-       id="g11273"
-       transform="translate(-11.605096,17.604472)">
+       id="g11408"
+       transform="translate(0.47351109,0)">
       <g
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
-         transform="matrix(0.5545702,0,0,0.5545702,289.49805,714.84273)"
+         transform="matrix(0.5545702,0,0,0.5545702,272.09034,732.4472)"
          id="g7159-5-0-1">
         <text
            inkscape:export-ydpi="90"
@@ -216,7 +216,7 @@
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
-         transform="matrix(1.0325641,0,0,1.0325641,181.99505,1131.3139)"
+         transform="matrix(1.0325641,0,0,1.0325641,170.38995,1148.9184)"
          d="m 396.68691,-125.95975 c 0,1.85499 -1.50376,3.35876 -3.35875,3.35876 -1.85499,0 -3.35876,-1.50377 -3.35876,-3.35876 0,-1.85499 1.50377,-3.35875 3.35876,-3.35875 1.85499,0 3.35875,1.50376 3.35875,3.35875 z"
          sodipodi:ry="3.3587573"
          sodipodi:rx="3.3587573"
@@ -229,7 +229,7 @@
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
-         transform="matrix(1.0325641,0,0,1.0325641,-32.004942,1131.3139)"
+         transform="matrix(1.0325641,0,0,1.0325641,-43.610038,1148.9184)"
          d="m 396.68691,-125.95975 c 0,1.85499 -1.50376,3.35876 -3.35875,3.35876 -1.85499,0 -3.35876,-1.50377 -3.35876,-3.35876 0,-1.85499 1.50377,-3.35875 3.35876,-3.35875 1.85499,0 3.35875,1.50376 3.35875,3.35875 z"
          sodipodi:ry="3.3587573"
          sodipodi:rx="3.3587573"
