@@ -9,14 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="960"
-   height="2000"
-   version="1.0"
+   width="1020"
+   height="1020"
    id="svg2"
+   sodipodi:version="0.32"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="960_grid_16_col.svg">
+   version="1.0"
+   sodipodi:docname="960_grid_24_col.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <metadata
-     id="metadata97">
+     id="metadata2425">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -28,965 +30,883 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs95" />
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 510 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1020 : 510 : 1"
+       inkscape:persp3d-origin="510 : 340 : 1"
+       id="perspective56" />
+  </defs>
   <sodipodi:namedview
      id="base"
-     borderlayer="true"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      gridtolerance="10000"
      guidetolerance="10"
      objecttolerance="10"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="676.15851"
+     inkscape:cy="743.57798"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="svg2"
      showgrid="false"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.3337544"
-     inkscape:cx="820.51672"
-     inkscape:cy="1287.0407"
-     inkscape:window-width="1920"
-     inkscape:window-height="1021"
-     inkscape:window-x="0"
+     inkscape:window-width="1295"
+     inkscape:window-height="998"
+     inkscape:window-x="377"
      inkscape:window-y="27"
-     inkscape:window-maximized="1">
-    <!-- Grids -->
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       position="30,0"
+       orientation="1,0"
+       id="guide-30" />
+    <sodipodi:guide
+       position="30,0"
+       orientation="1,0"
+       id="guide6792" />
+    <sodipodi:guide
+       position="35,0"
+       orientation="1,0"
+       id="guide-35" />
+    <sodipodi:guide
+       position="65,0"
+       orientation="1,0"
+       id="guide-65" />
+    <sodipodi:guide
+       position="70,0"
+       orientation="1,0"
+       id="guide-70" />
+    <sodipodi:guide
+       position="70,0"
+       orientation="1,0"
+       id="guide6797" />
+    <sodipodi:guide
+       position="75,0"
+       orientation="1,0"
+       id="guide-75" />
+    <sodipodi:guide
+       position="105,0"
+       orientation="1,0"
+       id="guide-105" />
+    <sodipodi:guide
+       position="110,0"
+       orientation="1,0"
+       id="guide-110" />
+    <sodipodi:guide
+       position="110,0"
+       orientation="1,0"
+       id="guide6802" />
+    <sodipodi:guide
+       position="115,0"
+       orientation="1,0"
+       id="guide-115" />
+    <sodipodi:guide
+       position="145,0"
+       orientation="1,0"
+       id="guide-145" />
+    <sodipodi:guide
+       position="150,0"
+       orientation="1,0"
+       id="guide-150" />
+    <sodipodi:guide
+       position="150,0"
+       orientation="1,0"
+       id="guide6807" />
+    <sodipodi:guide
+       position="155,0"
+       orientation="1,0"
+       id="guide-155" />
+    <sodipodi:guide
+       position="185,0"
+       orientation="1,0"
+       id="guide-185" />
+    <sodipodi:guide
+       position="190,0"
+       orientation="1,0"
+       id="guide-190" />
+    <sodipodi:guide
+       position="190,0"
+       orientation="1,0"
+       id="guide6812" />
+    <sodipodi:guide
+       position="195,0"
+       orientation="1,0"
+       id="guide-195" />
+    <sodipodi:guide
+       position="225,0"
+       orientation="1,0"
+       id="guide-225" />
+    <sodipodi:guide
+       position="230,0"
+       orientation="1,0"
+       id="guide-230" />
+    <sodipodi:guide
+       position="230,0"
+       orientation="1,0"
+       id="guide6817" />
+    <sodipodi:guide
+       position="235,0"
+       orientation="1,0"
+       id="guide-235" />
+    <sodipodi:guide
+       position="265,0"
+       orientation="1,0"
+       id="guide-265" />
+    <sodipodi:guide
+       position="270,0"
+       orientation="1,0"
+       id="guide-270" />
+    <sodipodi:guide
+       position="270,0"
+       orientation="1,0"
+       id="guide6822" />
+    <sodipodi:guide
+       position="275,0"
+       orientation="1,0"
+       id="guide-275" />
+    <sodipodi:guide
+       position="305,0"
+       orientation="1,0"
+       id="guide-305" />
+    <sodipodi:guide
+       position="310,0"
+       orientation="1,0"
+       id="guide-310" />
+    <sodipodi:guide
+       position="310,0"
+       orientation="1,0"
+       id="guide6827" />
+    <sodipodi:guide
+       position="315,0"
+       orientation="1,0"
+       id="guide-315" />
+    <sodipodi:guide
+       position="345,0"
+       orientation="1,0"
+       id="guide-345" />
+    <sodipodi:guide
+       position="350,0"
+       orientation="1,0"
+       id="guide-350" />
+    <sodipodi:guide
+       position="350,0"
+       orientation="1,0"
+       id="guide6832" />
+    <sodipodi:guide
+       position="355,0"
+       orientation="1,0"
+       id="guide-355" />
+    <sodipodi:guide
+       position="385,0"
+       orientation="1,0"
+       id="guide-385" />
+    <sodipodi:guide
+       position="390,0"
+       orientation="1,0"
+       id="guide-390" />
+    <sodipodi:guide
+       position="390,0"
+       orientation="1,0"
+       id="guide6837" />
+    <sodipodi:guide
+       position="395,0"
+       orientation="1,0"
+       id="guide-395" />
+    <sodipodi:guide
+       position="425,0"
+       orientation="1,0"
+       id="guide-425" />
+    <sodipodi:guide
+       position="430,0"
+       orientation="1,0"
+       id="guide-430" />
+    <sodipodi:guide
+       position="430,0"
+       orientation="1,0"
+       id="guide6842" />
+    <sodipodi:guide
+       position="435,0"
+       orientation="1,0"
+       id="guide-435" />
+    <sodipodi:guide
+       position="465,0"
+       orientation="1,0"
+       id="guide-465" />
+    <sodipodi:guide
+       position="470,0"
+       orientation="1,0"
+       id="guide-470" />
+    <sodipodi:guide
+       position="470,0"
+       orientation="1,0"
+       id="guide6847" />
+    <sodipodi:guide
+       position="475,0"
+       orientation="1,0"
+       id="guide-475" />
+    <sodipodi:guide
+       position="505,0"
+       orientation="1,0"
+       id="guide-505" />
+    <sodipodi:guide
+       position="510,0"
+       orientation="1,0"
+       id="guide-510" />
+    <sodipodi:guide
+       position="510,0"
+       orientation="1,0"
+       id="guide6852" />
+    <sodipodi:guide
+       position="515,0"
+       orientation="1,0"
+       id="guide-515" />
+    <sodipodi:guide
+       position="545,0"
+       orientation="1,0"
+       id="guide-545" />
+    <sodipodi:guide
+       position="550,0"
+       orientation="1,0"
+       id="guide-550" />
+    <sodipodi:guide
+       position="550,0"
+       orientation="1,0"
+       id="guide6857" />
+    <sodipodi:guide
+       position="555,0"
+       orientation="1,0"
+       id="guide-555" />
+    <sodipodi:guide
+       position="585,0"
+       orientation="1,0"
+       id="guide-585" />
+    <sodipodi:guide
+       position="590,0"
+       orientation="1,0"
+       id="guide-590" />
+    <sodipodi:guide
+       position="590,0"
+       orientation="1,0"
+       id="guide6862" />
+    <sodipodi:guide
+       position="595,0"
+       orientation="1,0"
+       id="guide-595" />
+    <sodipodi:guide
+       position="625,0"
+       orientation="1,0"
+       id="guide-625" />
+    <sodipodi:guide
+       position="630,0"
+       orientation="1,0"
+       id="guide-630" />
+    <sodipodi:guide
+       position="630,0"
+       orientation="1,0"
+       id="guide6867" />
+    <sodipodi:guide
+       position="635,0"
+       orientation="1,0"
+       id="guide-635" />
+    <sodipodi:guide
+       position="665,0"
+       orientation="1,0"
+       id="guide-665" />
+    <sodipodi:guide
+       position="670,0"
+       orientation="1,0"
+       id="guide-670" />
+    <sodipodi:guide
+       position="670,0"
+       orientation="1,0"
+       id="guide6872" />
+    <sodipodi:guide
+       position="675,0"
+       orientation="1,0"
+       id="guide-675" />
+    <sodipodi:guide
+       position="705,0"
+       orientation="1,0"
+       id="guide-705" />
+    <sodipodi:guide
+       position="710,0"
+       orientation="1,0"
+       id="guide-710" />
+    <sodipodi:guide
+       position="710,0"
+       orientation="1,0"
+       id="guide6877" />
+    <sodipodi:guide
+       position="715,0"
+       orientation="1,0"
+       id="guide-715" />
+    <sodipodi:guide
+       position="745,0"
+       orientation="1,0"
+       id="guide-745" />
+    <sodipodi:guide
+       position="750,0"
+       orientation="1,0"
+       id="guide-750" />
+    <sodipodi:guide
+       position="750,0"
+       orientation="1,0"
+       id="guide6882" />
+    <sodipodi:guide
+       position="755,0"
+       orientation="1,0"
+       id="guide-755" />
+    <sodipodi:guide
+       position="785,0"
+       orientation="1,0"
+       id="guide-785" />
+    <sodipodi:guide
+       position="790,0"
+       orientation="1,0"
+       id="guide-790" />
+    <sodipodi:guide
+       position="790,0"
+       orientation="1,0"
+       id="guide6887" />
+    <sodipodi:guide
+       position="795,0"
+       orientation="1,0"
+       id="guide-795" />
+    <sodipodi:guide
+       position="825,0"
+       orientation="1,0"
+       id="guide-825" />
+    <sodipodi:guide
+       position="830,0"
+       orientation="1,0"
+       id="guide-830" />
+    <sodipodi:guide
+       position="830,0"
+       orientation="1,0"
+       id="guide6892" />
+    <sodipodi:guide
+       position="835,0"
+       orientation="1,0"
+       id="guide-835" />
+    <sodipodi:guide
+       position="865,0"
+       orientation="1,0"
+       id="guide-865" />
+    <sodipodi:guide
+       position="870,0"
+       orientation="1,0"
+       id="guide-870" />
+    <sodipodi:guide
+       position="870,0"
+       orientation="1,0"
+       id="guide6897" />
+    <sodipodi:guide
+       position="875,0"
+       orientation="1,0"
+       id="guide-875" />
+    <sodipodi:guide
+       position="905,0"
+       orientation="1,0"
+       id="guide-905" />
+    <sodipodi:guide
+       position="910,0"
+       orientation="1,0"
+       id="guide-910" />
+    <sodipodi:guide
+       position="910,0"
+       orientation="1,0"
+       id="guide6902" />
+    <sodipodi:guide
+       position="915,0"
+       orientation="1,0"
+       id="guide-915" />
+    <sodipodi:guide
+       position="945,0"
+       orientation="1,0"
+       id="guide-945" />
+    <sodipodi:guide
+       position="950,0"
+       orientation="1,0"
+       id="guide-950" />
+    <sodipodi:guide
+       position="950,0"
+       orientation="1,0"
+       id="guide6907" />
+    <sodipodi:guide
+       position="955,0"
+       orientation="1,0"
+       id="guide-955" />
+    <sodipodi:guide
+       position="985,0"
+       orientation="1,0"
+       id="guide-985" />
+    <sodipodi:guide
+       position="990,0"
+       orientation="1,0"
+       id="guide-990" />
     <inkscape:grid
-       id="g05"
        type="xygrid"
-       visible="true"
-       enabled="false"
-       spacingx="0.5px"
-       spacingy="0.5px"
-       empspacing="2"
-       originx="10.5px"
-       originy="10.5px" />
-    <inkscape:grid
-       id="g1"
-       type="xygrid"
+       id="grid2390"
        visible="true"
        enabled="true"
+       color="#0000ff"
+       opacity="0.0627451"
+       empcolor="#0000ff"
+       empopacity="0.1254902"
+       dotted="false"
        spacingx="1px"
        spacingy="1px"
-       empspacing="20"
-       originx="10px"
-       originy="10px" />
-    <inkscape:grid
-       id="g2"
-       type="xygrid"
-       visible="true"
-       enabled="false"
-       spacingx="2px"
-       spacingy="2px"
-       empspacing="10"
-       originx="10px"
-       originy="10px" />
-    <inkscape:grid
-       id="g4"
-       type="xygrid"
-       visible="true"
-       enabled="false"
-       spacingx="4px"
-       spacingy="4px"
-       empspacing="5"
-       originx="10px"
-       originy="10px" />
-    <inkscape:grid
-       id="g5"
-       type="xygrid"
-       visible="true"
-       enabled="false"
-       spacingx="5px"
-       spacingy="5px"
-       empspacing="4"
-       originx="10px"
-       originy="10px" />
-    <inkscape:grid
-       id="g10"
-       type="xygrid"
-       visible="true"
-       enabled="false"
-       spacingx="10px"
-       spacingy="10px"
-       empspacing="2"
-       originx="10px"
-       originy="10px" />
-    <inkscape:grid
-       id="g20"
-       type="xygrid"
-       visible="true"
-       enabled="false"
-       spacingx="20px"
-       spacingy="20px"
-       empspacing="1"
-       originx="10px"
-       originy="10px" />
-    <!-- Guides -->
-    <sodipodi:guide
-       orientation="1,0"
-       position="0,0"
-       id="x_0px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="10,0"
-       id="x_10px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="50,0"
-       id="x_50px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="60,0"
-       id="x_60px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="70,0"
-       id="x_70px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="110,0"
-       id="x_110px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="120,0"
-       id="x_120px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="130,0"
-       id="x_130px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="170,0"
-       id="x_170px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="180,0"
-       id="x_180px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="190,0"
-       id="x_190px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="230,0"
-       id="x_230px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="240,0"
-       id="x_240px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="250,0"
-       id="x_250px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="290,0"
-       id="x_290px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="300,0"
-       id="x_300px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="310,0"
-       id="x_310px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="350,0"
-       id="x_350px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="360,0"
-       id="x_360px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="370,0"
-       id="x_370px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="410,0"
-       id="x_410px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="420,0"
-       id="x_420px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="430,0"
-       id="x_430px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="470,0"
-       id="x_470px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="480,0"
-       id="x_480px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="490,0"
-       id="x_490px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="530,0"
-       id="x_530px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="540,0"
-       id="x_540px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="550,0"
-       id="x_550px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="590,0"
-       id="x_590px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="600,0"
-       id="x_600px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="610,0"
-       id="x_610px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="650,0"
-       id="x_650px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="660,0"
-       id="x_660px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="670,0"
-       id="x_670px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="710,0"
-       id="x_710px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="720,0"
-       id="x_720px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="730,0"
-       id="x_730px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="770,0"
-       id="x_770px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="780,0"
-       id="x_780px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="790,0"
-       id="x_790px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="830,0"
-       id="x_830px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="840,0"
-       id="x_840px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="850,0"
-       id="x_850px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="890,0"
-       id="x_890px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="900,0"
-       id="x_900px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="910,0"
-       id="x_910px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="950,0"
-       id="x_950px" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="960,0"
-       id="x_960px" />
+       originx="5px"
+       originy="0px" />
   </sodipodi:namedview>
-  <!-- Blocks -->
-  <g
-     inkscape:label="grid_16"
-     inkscape:groupmode="layer"
-     id="layer0"
-     sodipodi:insensitive="true">
-    <rect
-       style="fill:#ffe5e5"
-       width="40"
-       height="2000"
-       x="10"
-       y="0"
-       id="rect62" />
-    <rect
-       style="fill:#ffe5e5"
-       width="40"
-       height="2000"
-       x="70"
-       y="0"
-       id="rect64" />
-    <rect
-       style="fill:#ffe5e5"
-       width="40"
-       height="2000"
-       x="130"
-       y="0"
-       id="rect66" />
-    <rect
-       style="fill:#ffe5e5"
-       width="40"
-       height="2000"
-       x="190"
-       y="0"
-       id="rect68" />
-    <rect
-       style="fill:#ffe5e5"
-       width="40"
-       height="2000"
-       x="250"
-       y="0"
-       id="rect70" />
-    <rect
-       style="fill:#ffe5e5"
-       width="40"
-       height="2000"
-       x="310"
-       y="0"
-       id="rect72" />
-    <rect
-       style="fill:#ffe5e5"
-       width="40"
-       height="2000"
-       x="370"
-       y="0"
-       id="rect74" />
-    <rect
-       style="fill:#ffe5e5"
-       width="40"
-       height="2000"
-       x="430"
-       y="0"
-       id="rect76" />
-    <rect
-       style="fill:#ffe5e5"
-       width="40"
-       height="2000"
-       x="490"
-       y="0"
-       id="rect78" />
-    <rect
-       style="fill:#ffe5e5"
-       width="40"
-       height="2000"
-       x="550"
-       y="0"
-       id="rect80" />
-    <rect
-       style="fill:#ffe5e5"
-       width="40"
-       height="2000"
-       x="610"
-       y="0"
-       id="rect82" />
-    <rect
-       style="fill:#ffe5e5"
-       width="40"
-       height="2000"
-       x="670"
-       y="0"
-       id="rect84" />
-    <rect
-       style="fill:#ffe5e5"
-       width="40"
-       height="2000"
-       x="730"
-       y="0"
-       id="rect86" />
-    <rect
-       style="fill:#ffe5e5"
-       width="40"
-       height="2000"
-       x="790"
-       y="0"
-       id="rect88" />
-    <rect
-       style="fill:#ffe5e5"
-       width="40"
-       height="2000"
-       x="850"
-       y="0"
-       id="rect90" />
-    <rect
-       style="fill:#ffe5e5"
-       width="40"
-       height="2000"
-       x="910"
-       y="0"
-       id="rect92" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="Layer 1">
-    <rect
-       style="color:#000000;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect6027"
-       width="682"
-       height="28.573593"
-       x="1256.7811"
-       y="46.5383" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot6047"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(1241.6949,-158.97852)"><flowRegion
-         id="flowRegion6049"><rect
-           id="rect6051"
-           width="954.59418"
-           height="282.84271"
-           x="19.79899"
-           y="155.64552" /></flowRegion><flowPara
-         id="flowPara6053"
-         style="font-weight:bold;-inkscape-font-specification:Sans Bold">Outreach Program for Women</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot6047-7"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(1235.9375,186.75864)"><flowRegion
-         id="flowRegion6049-6"><rect
-           id="rect6051-8"
-           width="684.47943"
-           height="80.61013"
-           x="19.79899"
-           y="155.64552" /></flowRegion><flowPara
-         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans"
-         id="flowPara6084">Polaroid ut keytar mlkshk. Skateboard kale chips VHS, trust fund enim do vegan sapiente irony tattooed aliqua +1. Pop-up readymade messenger bag vero. Intelligentsia fixie post-ironic, pop-up aesthetic ugh nostrud qui readymade velit umami messenger bag bitters flexitarian cardigan. Kogi disrupt banh mi incididunt, ex messenger bag nesciun</flowPara></flowRoot>    <rect
-       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect6088"
-       width="280.01428"
-       height="94.752312"
-       x="1145.4279"
-       y="1194.7729" />
-    <rect
-       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect6088-8"
-       width="280.01428"
-       height="94.752312"
-       x="1465.4277"
-       y="1194.7729" />
-    <rect
-       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect6088-8-6"
-       width="280.01428"
-       height="94.752312"
-       x="1785.4277"
-       y="1194.7729" />
-    <rect
-       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect6088-86"
-       width="209.90984"
-       height="71.030106"
-       x="1145.4279"
-       y="1342.7729" />
-    <rect
-       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect6088-8-0"
-       width="209.90984"
-       height="71.030106"
-       x="1385.3125"
-       y="1342.7729" />
-    <rect
-       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect6088-8-6-8"
-       width="209.90984"
-       height="71.030106"
-       x="1625.1973"
-       y="1342.7729" />
-    <rect
-       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect6088-8-6-8-8"
-       width="209.90984"
-       height="71.030106"
-       x="1856.4475"
-       y="1342.7729" />
-    <rect
-       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect6088-86-8"
-       width="209.90984"
-       height="71.030106"
-       x="1145.4279"
-       y="1442.7729" />
-    <rect
-       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect6088-8-0-5"
-       width="209.90984"
-       height="71.030106"
-       x="1385.3125"
-       y="1442.7729" />
-    <rect
-       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect6088-8-6-8-1"
-       width="209.90984"
-       height="71.030106"
-       x="1625.1973"
-       y="1442.7729" />
-    <rect
-       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect6088-8-6-8-8-3"
-       width="209.90984"
-       height="71.030106"
-       x="1856.4475"
-       y="1442.7729" />
-    <rect
-       style="color:#000000;fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect6195"
-       width="684.47937"
-       height="264.45795"
-       x="1255.7365"
-       y="73.301544" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot6047-7-0"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(1125.1436,1013.2624)"><flowRegion
-         id="flowRegion6049-6-0"><rect
-           id="rect6051-8-0"
-           width="261.62958"
-           height="24.041592"
-           x="19.79899"
-           y="155.64552" /></flowRegion><flowPara
-         style="font-size:12px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         id="flowPara6084-1">Sealing Breaker Sponsors</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot6047-7-1"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(1122.8004,974.05929)"><flowRegion
-         id="flowRegion6049-6-4"><rect
-           id="rect6051-8-7"
-           width="538.81543"
-           height="33.941082"
-           x="19.79899"
-           y="155.64552" /></flowRegion><flowPara
-         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans"
-         id="flowPara6084-9">Outreach Program for Women is possible with the help of the following sponsors</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot6047-7-0-5"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(1125.1436,1163.2624)"><flowRegion
-         id="flowRegion6049-6-0-9"><rect
-           id="rect6051-8-0-8"
-           width="261.62958"
-           height="24.041592"
-           x="19.79899"
-           y="155.64552" /></flowRegion><flowPara
-         style="font-size:12px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         id="flowPara6084-1-3">X Sponsors</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot6047-8"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(2.2237471,0,0,2.2237471,2116.8104,-826.3024)"><flowRegion
-         id="flowRegion6049-7"><rect
-           id="rect6051-3"
-           width="230.59419"
-           height="70.842697"
-           x="19.79899"
-           y="155.64552" /></flowRegion><flowPara
-         id="flowPara6053-3"
-         style="font-weight:bold;-inkscape-font-specification:Sans Bold">outreach</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot6047-8-0"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(1.0044744,0,0,1.0044744,2144.3816,-544.1616)"><flowRegion
-         id="flowRegion6049-7-0"><rect
-           id="rect6051-3-7"
-           width="478.59421"
-           height="64.842697"
-           x="19.79899"
-           y="155.64552" /></flowRegion><flowPara
-         id="flowPara6053-3-9"
-         style="font-weight:bold;-inkscape-font-specification:Sans Bold">Program for Women</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot6163"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.46586056,0,0,0.46586056,1376.337,211.14345)"><flowRegion
-         id="flowRegion6165"><rect
-           id="rect6167"
-           width="984.68542"
-           height="79.738213"
-           x="82"
-           y="-351"
-           style="fill:#eeeeec" /></flowRegion><flowPara
-         id="flowPara6169">Overview       Participants       Sponsors</flowPara></flowRoot>    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1255.7365,424.02654 690.1362,0"
-       id="path6964"
-       inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1258.5649"
-       y="462.2103"
-       id="text6966"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="1258.5649"
-         y="462.2103"
-         style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         id="tspan7004">Electronic Frontier Foundation</tspan><tspan
-         sodipodi:role="line"
-         x="1258.5649"
-         y="474.7103"
-         style="font-size:10px"
-         id="tspan7197">Yan Zhu (zyan)</tspan><tspan
-         sodipodi:role="line"
-         x="1258.5649"
-         y="487.2103"
-         style="font-size:10px"
-         id="tspan7203" /><tspan
-         sodipodi:role="line"
-         x="1258.5649"
-         y="499.7103"
-         style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         id="tspan7205">GNOME</tspan><tspan
-         sodipodi:role="line"
-         x="1258.5649"
-         y="512.21033"
-         style="font-size:10px"
-         id="tspan7207">Saumya Dwived</tspan><tspan
-         sodipodi:role="line"
-         x="1258.5649"
-         y="524.71033"
-         style="font-size:10px"
-         id="tspan7209">Saumya Pathak</tspan><tspan
-         sodipodi:role="line"
-         x="1258.5649"
-         y="537.21033"
-         style="font-size:10px"
-         id="tspan7211">Shivani Poddar</tspan><tspan
-         sodipodi:role="line"
-         x="1258.5649"
-         y="549.71033"
-         style="font-size:10px"
-         id="tspan7213">Aruna Sankaranarayanan</tspan><tspan
-         sodipodi:role="line"
-         x="1258.5649"
-         y="562.21033"
-         style="font-size:10px"
-         id="tspan7215">Pooja Saxena </tspan><tspan
-         sodipodi:role="line"
-         x="1258.5649"
-         y="574.71033"
-         style="font-size:10px"
-         id="tspan7219">Melissa Wen</tspan><tspan
-         sodipodi:role="line"
-         x="1258.5649"
-         y="587.21033"
-         style="font-size:10px"
-         id="tspan7223">Tiffany Yau</tspan><tspan
-         sodipodi:role="line"
-         x="1258.5649"
-         y="599.71033"
-         style="font-size:10px"
-         id="tspan7225">Magdalen Berns</tspan><tspan
-         sodipodi:role="line"
-         x="1258.5649"
-         y="612.21033"
-         style="font-size:10px"
-         id="tspan7227">Garima Joshi</tspan><tspan
-         sodipodi:role="line"
-         x="1258.5649"
-         y="624.71033"
-         style="font-size:10px"
-         id="tspan7229" /><tspan
-         sodipodi:role="line"
-         x="1258.5649"
-         y="637.21033"
-         style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         id="tspan7231">Linux Kernel</tspan><tspan
-         sodipodi:role="line"
-         x="1258.5649"
-         y="649.71033"
-         style="font-size:10px"
-         id="tspan7233">Tülin İzer</tspan><tspan
-         sodipodi:role="line"
-         x="1258.5649"
-         y="662.21033"
-         style="font-size:10px"
-         id="tspan7237">Lidza Louina</tspan><tspan
-         sodipodi:role="line"
-         x="1258.5649"
-         y="674.71033"
-         style="font-size:10px"
-         id="tspan7239">Lisa T. Nguyen</tspan><tspan
-         sodipodi:role="line"
-         x="1258.5649"
-         y="687.21033"
-         style="font-size:10px"
-         id="tspan7243">Hema Prathaban</tspan><tspan
-         sodipodi:role="line"
-         x="1258.5649"
-         y="699.71033"
-         style="font-size:10px"
-         id="tspan7249">Xenia Ragiadakou</tspan><tspan
-         sodipodi:role="line"
-         x="1258.5649"
-         y="712.21033"
-         style="font-size:10px"
-         id="tspan7266">Elena Ufimtseva</tspan><tspan
-         sodipodi:role="line"
-         x="1258.5649"
-         y="724.71033"
-         style="font-size:10px"
-         id="tspan7253">Laura Vasilescu </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1482.5649"
-       y="462.2103"
-       id="text6966-6"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="1482.5649"
-         y="462.2103"
-         style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         id="tspan7004-3">Electronic Frontier Foundation</tspan><tspan
-         sodipodi:role="line"
-         x="1482.5649"
-         y="474.7103"
-         style="font-size:10px"
-         id="tspan7197-1">Yan Zhu (zyan)</tspan><tspan
-         sodipodi:role="line"
-         x="1482.5649"
-         y="487.2103"
-         style="font-size:10px"
-         id="tspan7203-9" /><tspan
-         sodipodi:role="line"
-         x="1482.5649"
-         y="499.7103"
-         style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         id="tspan7205-8">GNOME</tspan><tspan
-         sodipodi:role="line"
-         x="1482.5649"
-         y="512.21033"
-         style="font-size:10px"
-         id="tspan7207-4">Saumya Dwived</tspan><tspan
-         sodipodi:role="line"
-         x="1482.5649"
-         y="524.71033"
-         style="font-size:10px"
-         id="tspan7209-1">Saumya Pathak</tspan><tspan
-         sodipodi:role="line"
-         x="1482.5649"
-         y="537.21033"
-         style="font-size:10px"
-         id="tspan7211-2">Shivani Poddar</tspan><tspan
-         sodipodi:role="line"
-         x="1482.5649"
-         y="549.71033"
-         style="font-size:10px"
-         id="tspan7213-6">Aruna Sankaranarayanan</tspan><tspan
-         sodipodi:role="line"
-         x="1482.5649"
-         y="562.21033"
-         style="font-size:10px"
-         id="tspan7215-9">Pooja Saxena </tspan><tspan
-         sodipodi:role="line"
-         x="1482.5649"
-         y="574.71033"
-         style="font-size:10px"
-         id="tspan7219-1">Melissa Wen</tspan><tspan
-         sodipodi:role="line"
-         x="1482.5649"
-         y="587.21033"
-         style="font-size:10px"
-         id="tspan7223-6">Tiffany Yau</tspan><tspan
-         sodipodi:role="line"
-         x="1482.5649"
-         y="599.71033"
-         style="font-size:10px"
-         id="tspan7225-6">Magdalen Berns</tspan><tspan
-         sodipodi:role="line"
-         x="1482.5649"
-         y="612.21033"
-         style="font-size:10px"
-         id="tspan7227-1">Garima Joshi</tspan><tspan
-         sodipodi:role="line"
-         x="1482.5649"
-         y="624.71033"
-         style="font-size:10px"
-         id="tspan7229-3" /><tspan
-         sodipodi:role="line"
-         x="1482.5649"
-         y="637.21033"
-         style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         id="tspan7231-9">Linux Kernel</tspan><tspan
-         sodipodi:role="line"
-         x="1482.5649"
-         y="649.71033"
-         style="font-size:10px"
-         id="tspan7233-6">Tülin İzer</tspan><tspan
-         sodipodi:role="line"
-         x="1482.5649"
-         y="662.21033"
-         style="font-size:10px"
-         id="tspan7237-2">Lidza Louina</tspan><tspan
-         sodipodi:role="line"
-         x="1482.5649"
-         y="674.71033"
-         style="font-size:10px"
-         id="tspan7239-6">Lisa T. Nguyen</tspan><tspan
-         sodipodi:role="line"
-         x="1482.5649"
-         y="687.21033"
-         style="font-size:10px"
-         id="tspan7243-6">Hema Prathaban</tspan><tspan
-         sodipodi:role="line"
-         x="1482.5649"
-         y="699.71033"
-         style="font-size:10px"
-         id="tspan7249-3">Xenia Ragiadakou</tspan><tspan
-         sodipodi:role="line"
-         x="1482.5649"
-         y="712.21033"
-         style="font-size:10px"
-         id="tspan7266-4">Elena Ufimtseva</tspan><tspan
-         sodipodi:role="line"
-         x="1482.5649"
-         y="724.71033"
-         style="font-size:10px"
-         id="tspan7253-6">Laura Vasilescu </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1773.5649"
-       y="462.2103"
-       id="text6966-6-0"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="1773.5649"
-         y="462.2103"
-         style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         id="tspan7004-3-7">Electronic Frontier Foundation</tspan><tspan
-         sodipodi:role="line"
-         x="1773.5649"
-         y="474.7103"
-         style="font-size:10px"
-         id="tspan7197-1-9">Yan Zhu (zyan)</tspan><tspan
-         sodipodi:role="line"
-         x="1773.5649"
-         y="487.2103"
-         style="font-size:10px"
-         id="tspan7203-9-3" /><tspan
-         sodipodi:role="line"
-         x="1773.5649"
-         y="499.7103"
-         style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         id="tspan7205-8-7">GNOME</tspan><tspan
-         sodipodi:role="line"
-         x="1773.5649"
-         y="512.21033"
-         style="font-size:10px"
-         id="tspan7207-4-8">Saumya Dwived</tspan><tspan
-         sodipodi:role="line"
-         x="1773.5649"
-         y="524.71033"
-         style="font-size:10px"
-         id="tspan7209-1-4">Saumya Pathak</tspan><tspan
-         sodipodi:role="line"
-         x="1773.5649"
-         y="537.21033"
-         style="font-size:10px"
-         id="tspan7211-2-2">Shivani Poddar</tspan><tspan
-         sodipodi:role="line"
-         x="1773.5649"
-         y="549.71033"
-         style="font-size:10px"
-         id="tspan7213-6-5">Aruna Sankaranarayanan</tspan><tspan
-         sodipodi:role="line"
-         x="1773.5649"
-         y="562.21033"
-         style="font-size:10px"
-         id="tspan7215-9-7">Pooja Saxena </tspan><tspan
-         sodipodi:role="line"
-         x="1773.5649"
-         y="574.71033"
-         style="font-size:10px"
-         id="tspan7219-1-5">Melissa Wen</tspan><tspan
-         sodipodi:role="line"
-         x="1773.5649"
-         y="587.21033"
-         style="font-size:10px"
-         id="tspan7223-6-4">Tiffany Yau</tspan><tspan
-         sodipodi:role="line"
-         x="1773.5649"
-         y="599.71033"
-         style="font-size:10px"
-         id="tspan7225-6-5">Magdalen Berns</tspan><tspan
-         sodipodi:role="line"
-         x="1773.5649"
-         y="612.21033"
-         style="font-size:10px"
-         id="tspan7227-1-2">Garima Joshi</tspan><tspan
-         sodipodi:role="line"
-         x="1773.5649"
-         y="624.71033"
-         style="font-size:10px"
-         id="tspan7229-3-5" /><tspan
-         sodipodi:role="line"
-         x="1773.5649"
-         y="637.21033"
-         style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         id="tspan7231-9-0">Linux Kernel</tspan><tspan
-         sodipodi:role="line"
-         x="1773.5649"
-         y="649.71033"
-         style="font-size:10px"
-         id="tspan7233-6-8">Tülin İzer</tspan><tspan
-         sodipodi:role="line"
-         x="1773.5649"
-         y="662.21033"
-         style="font-size:10px"
-         id="tspan7237-2-6">Lidza Louina</tspan><tspan
-         sodipodi:role="line"
-         x="1773.5649"
-         y="674.71033"
-         style="font-size:10px"
-         id="tspan7239-6-3">Lisa T. Nguyen</tspan><tspan
-         sodipodi:role="line"
-         x="1773.5649"
-         y="687.21033"
-         style="font-size:10px"
-         id="tspan7243-6-6">Hema Prathaban</tspan><tspan
-         sodipodi:role="line"
-         x="1773.5649"
-         y="699.71033"
-         style="font-size:10px"
-         id="tspan7249-3-2">Xenia Ragiadakou</tspan><tspan
-         sodipodi:role="line"
-         x="1773.5649"
-         y="712.21033"
-         style="font-size:10px"
-         id="tspan7266-4-7">Elena Ufimtseva</tspan><tspan
-         sodipodi:role="line"
-         x="1773.5649"
-         y="724.71033"
-         style="font-size:10px"
-         id="tspan7253-6-1">Laura Vasilescu </tspan></text>
-  </g>
+  <rect
+     style="color:#000000;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="rect6027"
+     width="940.94421"
+     height="39.422523"
+     x="28.621006"
+     y="53.819748" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot6047"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     transform="matrix(1.3620842,0,0,1.3620842,8.053909,-226.11146)"><flowRegion
+       id="flowRegion6049"><rect
+         id="rect6051"
+         width="954.59418"
+         height="282.84271"
+         x="19.79899"
+         y="155.64552" /></flowRegion><flowPara
+       id="flowPara6053"
+       style="font-weight:bold;-inkscape-font-specification:Sans Bold">Outreach Program for Women</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot6047-7"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     transform="matrix(1.3620842,0,0,1.3620842,0.21185125,244.81166)"><flowRegion
+       id="flowRegion6049-6"><rect
+         id="rect6051-8"
+         width="684.47943"
+         height="80.61013"
+         x="19.79899"
+         y="155.64552" /></flowRegion><flowPara
+       style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans"
+       id="flowPara6084">Polaroid ut keytar mlkshk. Skateboard kale chips VHS, trust fund enim do vegan sapiente irony tattooed aliqua +1. Pop-up readymade messenger bag vero. Intelligentsia fixie post-ironic, pop-up aesthetic ugh nostrud qui readymade velit umami messenger bag bitters flexitarian cardigan. Kogi disrupt banh mi incididunt, ex messenger bag nesciun</flowPara></flowRoot>  <path
+     style="color:#000000;fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="m 33.008116,91.883163 c 318.454994,0 636.909994,0 955.364994,0 0,120.863707 0,241.727417 0,362.591127 -318.455,0 -636.91,0 -955.364994,0 0,-120.86371 0,-241.72742 0,-362.591127 z"
+     id="rect6195"
+     inkscape:connector-curvature="0" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot6163"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
+     transform="matrix(0.63454131,0,0,0.63454131,191.44779,278.02584)"><flowRegion
+       id="flowRegion6165"><rect
+         id="rect6167"
+         width="984.68542"
+         height="79.738213"
+         x="82"
+         y="-351"
+         style="fill:#eeeeec" /></flowRegion><flowPara
+       id="flowPara6169">Overview       Participants       Sponsors</flowPara></flowRoot>  <path
+     style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 27.179757,627.9905 940.023573,0"
+     id="path6964"
+     inkscape:connector-curvature="0" />
+  <rect
+     style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="rect6748"
+     width="239.64235"
+     height="613.58936"
+     x="30.383656"
+     y="771.28137" />
+  <rect
+     style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="rect6748-7"
+     width="240.47998"
+     height="613.58936"
+     x="391.5549"
+     y="771.28137" />
+  <rect
+     style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="rect6748-7-8"
+     width="239.5267"
+     height="613.58936"
+     x="752.05212"
+     y="771.28137" />
+  <text
+     xml:space="preserve"
+     style="font-size:54.48337173px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="33.769157"
+     y="781.2204"
+     id="text6966"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       x="33.769157"
+       y="781.2204"
+       style="font-size:12px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+       id="tspan7004">Electronic Frontier Foundation</tspan><tspan
+       sodipodi:role="line"
+       x="33.769157"
+       y="798.24646"
+       style="font-size:12px"
+       id="tspan7197">Yan Zhu (zyan)</tspan><tspan
+       sodipodi:role="line"
+       x="33.769157"
+       y="815.27252"
+       style="font-size:12px"
+       id="tspan7203" /><tspan
+       sodipodi:role="line"
+       x="33.769157"
+       y="832.29858"
+       style="font-size:12px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+       id="tspan7205">GNOME</tspan><tspan
+       sodipodi:role="line"
+       x="33.769157"
+       y="849.32458"
+       style="font-size:12px"
+       id="tspan7207">Saumya Dwived</tspan><tspan
+       sodipodi:role="line"
+       x="33.769157"
+       y="866.35065"
+       style="font-size:12px"
+       id="tspan7209">Saumya Pathak</tspan><tspan
+       sodipodi:role="line"
+       x="33.769157"
+       y="883.37671"
+       style="font-size:12px"
+       id="tspan7211">Shivani Poddar</tspan><tspan
+       sodipodi:role="line"
+       x="33.769157"
+       y="900.40277"
+       style="font-size:12px"
+       id="tspan7213">Aruna Sankaranarayanan</tspan><tspan
+       sodipodi:role="line"
+       x="33.769157"
+       y="917.42883"
+       style="font-size:12px"
+       id="tspan7215">Pooja Saxena </tspan><tspan
+       sodipodi:role="line"
+       x="33.769157"
+       y="934.4549"
+       style="font-size:12px"
+       id="tspan7219">Melissa Wen</tspan><tspan
+       sodipodi:role="line"
+       x="33.769157"
+       y="951.48096"
+       style="font-size:12px"
+       id="tspan7223">Tiffany Yau</tspan><tspan
+       sodipodi:role="line"
+       x="33.769157"
+       y="968.50696"
+       style="font-size:12px"
+       id="tspan7225">Magdalen Berns</tspan><tspan
+       sodipodi:role="line"
+       x="33.769157"
+       y="985.53302"
+       style="font-size:12px"
+       id="tspan7227">Garima Joshi</tspan><tspan
+       sodipodi:role="line"
+       x="33.769157"
+       y="1002.5591"
+       style="font-size:12px"
+       id="tspan7229" /><tspan
+       sodipodi:role="line"
+       x="33.769157"
+       y="1019.5851"
+       style="font-size:12px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+       id="tspan7231">Linux Kernel</tspan><tspan
+       sodipodi:role="line"
+       x="33.769157"
+       y="1036.6112"
+       style="font-size:12px"
+       id="tspan7233">Tülin İzer</tspan><tspan
+       sodipodi:role="line"
+       x="33.769157"
+       y="1053.6372"
+       style="font-size:12px"
+       id="tspan7237">Lidza Louina</tspan><tspan
+       sodipodi:role="line"
+       x="33.769157"
+       y="1070.6633"
+       style="font-size:12px"
+       id="tspan7239">Lisa T. Nguyen</tspan><tspan
+       sodipodi:role="line"
+       x="33.769157"
+       y="1087.6893"
+       style="font-size:12px"
+       id="tspan7243">Hema Prathaban</tspan><tspan
+       sodipodi:role="line"
+       x="33.769157"
+       y="1104.7153"
+       style="font-size:12px"
+       id="tspan7249">Xenia Ragiadakou</tspan><tspan
+       sodipodi:role="line"
+       x="33.769157"
+       y="1121.7415"
+       style="font-size:12px"
+       id="tspan7266">Elena Ufimtseva</tspan><tspan
+       sodipodi:role="line"
+       x="33.769157"
+       y="1138.7675"
+       style="font-size:12px"
+       id="tspan7253">Laura Vasilescu </tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:54.48337173px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="393.08514"
+     y="782.63458"
+     id="text6966-6"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       x="393.08514"
+       y="782.63458"
+       style="font-size:12px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+       id="tspan7004-3">Electronic Frontier Foundation</tspan><tspan
+       sodipodi:role="line"
+       x="393.08514"
+       y="799.66064"
+       style="font-size:12px"
+       id="tspan7197-1">Yan Zhu (zyan)</tspan><tspan
+       sodipodi:role="line"
+       x="393.08514"
+       y="816.68671"
+       style="font-size:12px"
+       id="tspan7203-9" /><tspan
+       sodipodi:role="line"
+       x="393.08514"
+       y="833.71277"
+       style="font-size:12px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+       id="tspan7205-8">GNOME</tspan><tspan
+       sodipodi:role="line"
+       x="393.08514"
+       y="850.73877"
+       style="font-size:12px"
+       id="tspan7207-4">Saumya Dwived</tspan><tspan
+       sodipodi:role="line"
+       x="393.08514"
+       y="867.76483"
+       style="font-size:12px"
+       id="tspan7209-1">Saumya Pathak</tspan><tspan
+       sodipodi:role="line"
+       x="393.08514"
+       y="884.79089"
+       style="font-size:12px"
+       id="tspan7211-2">Shivani Poddar</tspan><tspan
+       sodipodi:role="line"
+       x="393.08514"
+       y="901.81696"
+       style="font-size:12px"
+       id="tspan7213-6">Aruna Sankaranarayanan</tspan><tspan
+       sodipodi:role="line"
+       x="393.08514"
+       y="918.84302"
+       style="font-size:12px"
+       id="tspan7215-9">Pooja Saxena </tspan><tspan
+       sodipodi:role="line"
+       x="393.08514"
+       y="935.86908"
+       style="font-size:12px"
+       id="tspan7219-1">Melissa Wen</tspan><tspan
+       sodipodi:role="line"
+       x="393.08514"
+       y="952.89514"
+       style="font-size:12px"
+       id="tspan7223-6">Tiffany Yau</tspan><tspan
+       sodipodi:role="line"
+       x="393.08514"
+       y="969.92114"
+       style="font-size:12px"
+       id="tspan7225-6">Magdalen Berns</tspan><tspan
+       sodipodi:role="line"
+       x="393.08514"
+       y="986.9472"
+       style="font-size:12px"
+       id="tspan7227-1">Garima Joshi</tspan><tspan
+       sodipodi:role="line"
+       x="393.08514"
+       y="1003.9733"
+       style="font-size:12px"
+       id="tspan7229-3" /><tspan
+       sodipodi:role="line"
+       x="393.08514"
+       y="1020.9993"
+       style="font-size:12px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+       id="tspan7231-9">Linux Kernel</tspan><tspan
+       sodipodi:role="line"
+       x="393.08514"
+       y="1038.0254"
+       style="font-size:12px"
+       id="tspan7233-6">Tülin İzer</tspan><tspan
+       sodipodi:role="line"
+       x="393.08514"
+       y="1055.0514"
+       style="font-size:12px"
+       id="tspan7237-2">Lidza Louina</tspan><tspan
+       sodipodi:role="line"
+       x="393.08514"
+       y="1072.0775"
+       style="font-size:12px"
+       id="tspan7239-6">Lisa T. Nguyen</tspan><tspan
+       sodipodi:role="line"
+       x="393.08514"
+       y="1089.1035"
+       style="font-size:12px"
+       id="tspan7243-6">Hema Prathaban</tspan><tspan
+       sodipodi:role="line"
+       x="393.08514"
+       y="1106.1295"
+       style="font-size:12px"
+       id="tspan7249-3">Xenia Ragiadakou</tspan><tspan
+       sodipodi:role="line"
+       x="393.08514"
+       y="1123.1556"
+       style="font-size:12px"
+       id="tspan7266-4">Elena Ufimtseva</tspan><tspan
+       sodipodi:role="line"
+       x="393.08514"
+       y="1140.1816"
+       style="font-size:12px"
+       id="tspan7253-6">Laura Vasilescu </tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:54.48337173px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="751.25684"
+     y="782.63458"
+     id="text6966-6-0"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       x="751.25684"
+       y="782.63458"
+       style="font-size:12px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+       id="tspan7004-3-7">Electronic Frontier Foundation</tspan><tspan
+       sodipodi:role="line"
+       x="751.25684"
+       y="799.66064"
+       style="font-size:12px"
+       id="tspan7197-1-9">Yan Zhu (zyan)</tspan><tspan
+       sodipodi:role="line"
+       x="751.25684"
+       y="816.68671"
+       style="font-size:12px"
+       id="tspan7203-9-3" /><tspan
+       sodipodi:role="line"
+       x="751.25684"
+       y="833.71277"
+       style="font-size:12px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+       id="tspan7205-8-7">GNOME</tspan><tspan
+       sodipodi:role="line"
+       x="751.25684"
+       y="850.73877"
+       style="font-size:12px"
+       id="tspan7207-4-8">Saumya Dwived</tspan><tspan
+       sodipodi:role="line"
+       x="751.25684"
+       y="867.76483"
+       style="font-size:12px"
+       id="tspan7209-1-4">Saumya Pathak</tspan><tspan
+       sodipodi:role="line"
+       x="751.25684"
+       y="884.79089"
+       style="font-size:12px"
+       id="tspan7211-2-2">Shivani Poddar</tspan><tspan
+       sodipodi:role="line"
+       x="751.25684"
+       y="901.81696"
+       style="font-size:12px"
+       id="tspan7213-6-5">Aruna Sankaranarayanan</tspan><tspan
+       sodipodi:role="line"
+       x="751.25684"
+       y="918.84302"
+       style="font-size:12px"
+       id="tspan7215-9-7">Pooja Saxena </tspan><tspan
+       sodipodi:role="line"
+       x="751.25684"
+       y="935.86908"
+       style="font-size:12px"
+       id="tspan7219-1-5">Melissa Wen</tspan><tspan
+       sodipodi:role="line"
+       x="751.25684"
+       y="952.89514"
+       style="font-size:12px"
+       id="tspan7223-6-4">Tiffany Yau</tspan><tspan
+       sodipodi:role="line"
+       x="751.25684"
+       y="969.92114"
+       style="font-size:12px"
+       id="tspan7225-6-5">Magdalen Berns</tspan><tspan
+       sodipodi:role="line"
+       x="751.25684"
+       y="986.9472"
+       style="font-size:12px"
+       id="tspan7227-1-2">Garima Joshi</tspan><tspan
+       sodipodi:role="line"
+       x="751.25684"
+       y="1003.9733"
+       style="font-size:12px"
+       id="tspan7229-3-5" /><tspan
+       sodipodi:role="line"
+       x="751.25684"
+       y="1020.9993"
+       style="font-size:12px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+       id="tspan7231-9-0">Linux Kernel</tspan><tspan
+       sodipodi:role="line"
+       x="751.25684"
+       y="1038.0254"
+       style="font-size:12px"
+       id="tspan7233-6-8">Tülin İzer</tspan><tspan
+       sodipodi:role="line"
+       x="751.25684"
+       y="1055.0514"
+       style="font-size:12px"
+       id="tspan7237-2-6">Lidza Louina</tspan><tspan
+       sodipodi:role="line"
+       x="751.25684"
+       y="1072.0775"
+       style="font-size:12px"
+       id="tspan7239-6-3">Lisa T. Nguyen</tspan><tspan
+       sodipodi:role="line"
+       x="751.25684"
+       y="1089.1035"
+       style="font-size:12px"
+       id="tspan7243-6-6">Hema Prathaban</tspan><tspan
+       sodipodi:role="line"
+       x="751.25684"
+       y="1106.1295"
+       style="font-size:12px"
+       id="tspan7249-3-2">Xenia Ragiadakou</tspan><tspan
+       sodipodi:role="line"
+       x="751.25684"
+       y="1123.1556"
+       style="font-size:12px"
+       id="tspan7266-4-7">Elena Ufimtseva</tspan><tspan
+       sodipodi:role="line"
+       x="751.25684"
+       y="1140.1816"
+       style="font-size:12px"
+       id="tspan7253-6-1">Laura Vasilescu </tspan></text>
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot6047-4"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     transform="matrix(0.77756162,0,0,0.77756162,221.4526,482.53175)"><flowRegion
+       id="flowRegion6049-2"><rect
+         id="rect6051-0"
+         width="688.79663"
+         height="87.647606"
+         x="19.79899"
+         y="155.64552" /></flowRegion><flowPara
+       id="flowPara6053-5"
+       style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">Participants</flowPara></flowRoot>  <rect
+     style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="rect7254"
+     width="241.83052"
+     height="82.024384"
+     x="377.59503"
+     y="583.008" />
 </svg>
