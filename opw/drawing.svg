@@ -9,60 +9,454 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1024px"
-   height="768px"
-   id="svg6019"
-   version="1.1"
+   width="960"
+   height="2000"
+   version="1.0"
+   id="svg2"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="drawing.svg">
-  <defs
-     id="defs6021" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="672.08426"
-     inkscape:cy="461.77128"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="px"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1021"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+   sodipodi:docname="960_grid_16_col.svg">
   <metadata
-     id="metadata6024">
+     id="metadata97">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <defs
+     id="defs95" />
+  <sodipodi:namedview
+     id="base"
+     borderlayer="true"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.3337544"
+     inkscape:cx="820.51672"
+     inkscape:cy="1287.0407"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <!-- Grids -->
+    <inkscape:grid
+       id="g05"
+       type="xygrid"
+       visible="true"
+       enabled="false"
+       spacingx="0.5px"
+       spacingy="0.5px"
+       empspacing="2"
+       originx="10.5px"
+       originy="10.5px" />
+    <inkscape:grid
+       id="g1"
+       type="xygrid"
+       visible="true"
+       enabled="true"
+       spacingx="1px"
+       spacingy="1px"
+       empspacing="20"
+       originx="10px"
+       originy="10px" />
+    <inkscape:grid
+       id="g2"
+       type="xygrid"
+       visible="true"
+       enabled="false"
+       spacingx="2px"
+       spacingy="2px"
+       empspacing="10"
+       originx="10px"
+       originy="10px" />
+    <inkscape:grid
+       id="g4"
+       type="xygrid"
+       visible="true"
+       enabled="false"
+       spacingx="4px"
+       spacingy="4px"
+       empspacing="5"
+       originx="10px"
+       originy="10px" />
+    <inkscape:grid
+       id="g5"
+       type="xygrid"
+       visible="true"
+       enabled="false"
+       spacingx="5px"
+       spacingy="5px"
+       empspacing="4"
+       originx="10px"
+       originy="10px" />
+    <inkscape:grid
+       id="g10"
+       type="xygrid"
+       visible="true"
+       enabled="false"
+       spacingx="10px"
+       spacingy="10px"
+       empspacing="2"
+       originx="10px"
+       originy="10px" />
+    <inkscape:grid
+       id="g20"
+       type="xygrid"
+       visible="true"
+       enabled="false"
+       spacingx="20px"
+       spacingy="20px"
+       empspacing="1"
+       originx="10px"
+       originy="10px" />
+    <!-- Guides -->
+    <sodipodi:guide
+       orientation="1,0"
+       position="0,0"
+       id="x_0px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="10,0"
+       id="x_10px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="50,0"
+       id="x_50px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="60,0"
+       id="x_60px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="70,0"
+       id="x_70px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="110,0"
+       id="x_110px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="120,0"
+       id="x_120px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="130,0"
+       id="x_130px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="170,0"
+       id="x_170px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="180,0"
+       id="x_180px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="190,0"
+       id="x_190px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="230,0"
+       id="x_230px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="240,0"
+       id="x_240px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="250,0"
+       id="x_250px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="290,0"
+       id="x_290px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="300,0"
+       id="x_300px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="310,0"
+       id="x_310px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="350,0"
+       id="x_350px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="360,0"
+       id="x_360px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="370,0"
+       id="x_370px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="410,0"
+       id="x_410px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="420,0"
+       id="x_420px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="430,0"
+       id="x_430px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="470,0"
+       id="x_470px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="480,0"
+       id="x_480px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="490,0"
+       id="x_490px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="530,0"
+       id="x_530px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="540,0"
+       id="x_540px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="550,0"
+       id="x_550px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="590,0"
+       id="x_590px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="600,0"
+       id="x_600px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="610,0"
+       id="x_610px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="650,0"
+       id="x_650px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="660,0"
+       id="x_660px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="670,0"
+       id="x_670px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="710,0"
+       id="x_710px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="720,0"
+       id="x_720px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="730,0"
+       id="x_730px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="770,0"
+       id="x_770px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="780,0"
+       id="x_780px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="790,0"
+       id="x_790px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="830,0"
+       id="x_830px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="840,0"
+       id="x_840px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="850,0"
+       id="x_850px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="890,0"
+       id="x_890px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="900,0"
+       id="x_900px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="910,0"
+       id="x_910px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="950,0"
+       id="x_950px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="960,0"
+       id="x_960px" />
+  </sodipodi:namedview>
+  <!-- Blocks -->
   <g
+     inkscape:label="grid_16"
+     inkscape:groupmode="layer"
+     id="layer0"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ffe5e5"
+       width="40"
+       height="2000"
+       x="10"
+       y="0"
+       id="rect62" />
+    <rect
+       style="fill:#ffe5e5"
+       width="40"
+       height="2000"
+       x="70"
+       y="0"
+       id="rect64" />
+    <rect
+       style="fill:#ffe5e5"
+       width="40"
+       height="2000"
+       x="130"
+       y="0"
+       id="rect66" />
+    <rect
+       style="fill:#ffe5e5"
+       width="40"
+       height="2000"
+       x="190"
+       y="0"
+       id="rect68" />
+    <rect
+       style="fill:#ffe5e5"
+       width="40"
+       height="2000"
+       x="250"
+       y="0"
+       id="rect70" />
+    <rect
+       style="fill:#ffe5e5"
+       width="40"
+       height="2000"
+       x="310"
+       y="0"
+       id="rect72" />
+    <rect
+       style="fill:#ffe5e5"
+       width="40"
+       height="2000"
+       x="370"
+       y="0"
+       id="rect74" />
+    <rect
+       style="fill:#ffe5e5"
+       width="40"
+       height="2000"
+       x="430"
+       y="0"
+       id="rect76" />
+    <rect
+       style="fill:#ffe5e5"
+       width="40"
+       height="2000"
+       x="490"
+       y="0"
+       id="rect78" />
+    <rect
+       style="fill:#ffe5e5"
+       width="40"
+       height="2000"
+       x="550"
+       y="0"
+       id="rect80" />
+    <rect
+       style="fill:#ffe5e5"
+       width="40"
+       height="2000"
+       x="610"
+       y="0"
+       id="rect82" />
+    <rect
+       style="fill:#ffe5e5"
+       width="40"
+       height="2000"
+       x="670"
+       y="0"
+       id="rect84" />
+    <rect
+       style="fill:#ffe5e5"
+       width="40"
+       height="2000"
+       x="730"
+       y="0"
+       id="rect86" />
+    <rect
+       style="fill:#ffe5e5"
+       width="40"
+       height="2000"
+       x="790"
+       y="0"
+       id="rect88" />
+    <rect
+       style="fill:#ffe5e5"
+       width="40"
+       height="2000"
+       x="850"
+       y="0"
+       id="rect90" />
+    <rect
+       style="fill:#ffe5e5"
+       width="40"
+       height="2000"
+       x="910"
+       y="0"
+       id="rect92" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer">
+     inkscape:label="Layer 1">
     <rect
        style="color:#000000;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6027"
        width="682"
        height="28.573593"
-       x="145.29437"
-       y="72.313705" />
+       x="1256.7811"
+       y="46.5383" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot6047"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(130.20815,-133.20311)"><flowRegion
+       transform="translate(1241.6949,-158.97852)"><flowRegion
          id="flowRegion6049"><rect
            id="rect6051"
            width="954.59418"
@@ -74,7 +468,7 @@
        xml:space="preserve"
        id="flowRoot6047-7"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(124.4508,212.53405)"><flowRegion
+       transform="translate(1235.9375,186.75864)"><flowRegion
          id="flowRegion6049-6"><rect
            id="rect6051-8"
            width="684.47943"
@@ -87,90 +481,90 @@
        id="rect6088"
        width="280.01428"
        height="94.752312"
-       x="33.941124"
-       y="1220.5483" />
+       x="1145.4279"
+       y="1194.7729" />
     <rect
        style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6088-8"
        width="280.01428"
        height="94.752312"
-       x="353.9411"
-       y="1220.5483" />
+       x="1465.4277"
+       y="1194.7729" />
     <rect
        style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6088-8-6"
        width="280.01428"
        height="94.752312"
-       x="673.9411"
-       y="1220.5483" />
+       x="1785.4277"
+       y="1194.7729" />
     <rect
        style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6088-86"
        width="209.90984"
        height="71.030106"
-       x="33.941124"
-       y="1368.5483" />
+       x="1145.4279"
+       y="1342.7729" />
     <rect
        style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6088-8-0"
        width="209.90984"
        height="71.030106"
-       x="273.82581"
-       y="1368.5483" />
+       x="1385.3125"
+       y="1342.7729" />
     <rect
        style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6088-8-6-8"
        width="209.90984"
        height="71.030106"
-       x="513.71057"
-       y="1368.5483" />
+       x="1625.1973"
+       y="1342.7729" />
     <rect
        style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6088-8-6-8-8"
        width="209.90984"
        height="71.030106"
-       x="744.96082"
-       y="1368.5483" />
+       x="1856.4475"
+       y="1342.7729" />
     <rect
        style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6088-86-8"
        width="209.90984"
        height="71.030106"
-       x="33.941124"
-       y="1468.5483" />
+       x="1145.4279"
+       y="1442.7729" />
     <rect
        style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6088-8-0-5"
        width="209.90984"
        height="71.030106"
-       x="273.82581"
-       y="1468.5483" />
+       x="1385.3125"
+       y="1442.7729" />
     <rect
        style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6088-8-6-8-1"
        width="209.90984"
        height="71.030106"
-       x="513.71057"
-       y="1468.5483" />
+       x="1625.1973"
+       y="1442.7729" />
     <rect
        style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6088-8-6-8-8-3"
        width="209.90984"
        height="71.030106"
-       x="744.96082"
-       y="1468.5483" />
+       x="1856.4475"
+       y="1442.7729" />
     <rect
        style="color:#000000;fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6195"
        width="684.47937"
        height="264.45795"
-       x="144.2498"
-       y="99.076981" />
+       x="1255.7365"
+       y="73.301544" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot6047-7-0"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(13.656854,1039.0378)"><flowRegion
+       transform="translate(1125.1436,1013.2624)"><flowRegion
          id="flowRegion6049-6-0"><rect
            id="rect6051-8-0"
            width="261.62958"
@@ -182,7 +576,7 @@
        xml:space="preserve"
        id="flowRoot6047-7-1"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(11.313708,999.83471)"><flowRegion
+       transform="translate(1122.8004,974.05929)"><flowRegion
          id="flowRegion6049-6-4"><rect
            id="rect6051-8-7"
            width="538.81543"
@@ -194,7 +588,7 @@
        xml:space="preserve"
        id="flowRoot6047-7-0-5"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(13.656854,1189.0378)"><flowRegion
+       transform="translate(1125.1436,1163.2624)"><flowRegion
          id="flowRegion6049-6-0-9"><rect
            id="rect6051-8-0-8"
            width="261.62958"
@@ -206,7 +600,7 @@
        xml:space="preserve"
        id="flowRoot6047-8"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(2.2237471,0,0,2.2237471,1005.3237,-800.52699)"><flowRegion
+       transform="matrix(2.2237471,0,0,2.2237471,2116.8104,-826.3024)"><flowRegion
          id="flowRegion6049-7"><rect
            id="rect6051-3"
            width="230.59419"
@@ -218,7 +612,7 @@
        xml:space="preserve"
        id="flowRoot6047-8-0"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(1.0044744,0,0,1.0044744,1032.8949,-518.38618)"><flowRegion
+       transform="matrix(1.0044744,0,0,1.0044744,2144.3816,-544.1616)"><flowRegion
          id="flowRegion6049-7-0"><rect
            id="rect6051-3-7"
            width="478.59421"
@@ -230,7 +624,7 @@
        xml:space="preserve"
        id="flowRoot6163"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.46586056,0,0,0.46586056,264.85025,236.91886)"><flowRegion
+       transform="matrix(0.46586056,0,0,0.46586056,1376.337,211.14345)"><flowRegion
          id="flowRegion6165"><rect
            id="rect6167"
            width="984.68542"
@@ -240,358 +634,358 @@
            style="fill:#eeeeec" /></flowRegion><flowPara
          id="flowPara6169">Overview       Participants       Sponsors</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 144.24978,449.80195 690.13622,0"
+       d="m 1255.7365,424.02654 690.1362,0"
        id="path6964"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="147.07822"
-       y="487.98572"
+       x="1258.5649"
+       y="462.2103"
        id="text6966"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="147.07822"
-         y="487.98572"
+         x="1258.5649"
+         y="462.2103"
          style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
          id="tspan7004">Electronic Frontier Foundation</tspan><tspan
          sodipodi:role="line"
-         x="147.07822"
-         y="502.98572"
+         x="1258.5649"
+         y="474.7103"
          style="font-size:10px"
          id="tspan7197">Yan Zhu (zyan)</tspan><tspan
          sodipodi:role="line"
-         x="147.07822"
-         y="517.98572"
+         x="1258.5649"
+         y="487.2103"
          style="font-size:10px"
          id="tspan7203" /><tspan
          sodipodi:role="line"
-         x="147.07822"
-         y="532.98572"
+         x="1258.5649"
+         y="499.7103"
          style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
          id="tspan7205">GNOME</tspan><tspan
          sodipodi:role="line"
-         x="147.07822"
-         y="547.98572"
+         x="1258.5649"
+         y="512.21033"
          style="font-size:10px"
          id="tspan7207">Saumya Dwived</tspan><tspan
          sodipodi:role="line"
-         x="147.07822"
-         y="562.98572"
+         x="1258.5649"
+         y="524.71033"
          style="font-size:10px"
          id="tspan7209">Saumya Pathak</tspan><tspan
          sodipodi:role="line"
-         x="147.07822"
-         y="577.98572"
+         x="1258.5649"
+         y="537.21033"
          style="font-size:10px"
          id="tspan7211">Shivani Poddar</tspan><tspan
          sodipodi:role="line"
-         x="147.07822"
-         y="592.98572"
+         x="1258.5649"
+         y="549.71033"
          style="font-size:10px"
          id="tspan7213">Aruna Sankaranarayanan</tspan><tspan
          sodipodi:role="line"
-         x="147.07822"
-         y="607.98572"
+         x="1258.5649"
+         y="562.21033"
          style="font-size:10px"
          id="tspan7215">Pooja Saxena </tspan><tspan
          sodipodi:role="line"
-         x="147.07822"
-         y="622.98572"
+         x="1258.5649"
+         y="574.71033"
          style="font-size:10px"
          id="tspan7219">Melissa Wen</tspan><tspan
          sodipodi:role="line"
-         x="147.07822"
-         y="637.98572"
+         x="1258.5649"
+         y="587.21033"
          style="font-size:10px"
          id="tspan7223">Tiffany Yau</tspan><tspan
          sodipodi:role="line"
-         x="147.07822"
-         y="652.98572"
+         x="1258.5649"
+         y="599.71033"
          style="font-size:10px"
          id="tspan7225">Magdalen Berns</tspan><tspan
          sodipodi:role="line"
-         x="147.07822"
-         y="667.98572"
+         x="1258.5649"
+         y="612.21033"
          style="font-size:10px"
          id="tspan7227">Garima Joshi</tspan><tspan
          sodipodi:role="line"
-         x="147.07822"
-         y="682.98572"
+         x="1258.5649"
+         y="624.71033"
          style="font-size:10px"
          id="tspan7229" /><tspan
          sodipodi:role="line"
-         x="147.07822"
-         y="697.98572"
+         x="1258.5649"
+         y="637.21033"
          style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
          id="tspan7231">Linux Kernel</tspan><tspan
          sodipodi:role="line"
-         x="147.07822"
-         y="712.98572"
+         x="1258.5649"
+         y="649.71033"
          style="font-size:10px"
          id="tspan7233">Tülin İzer</tspan><tspan
          sodipodi:role="line"
-         x="147.07822"
-         y="727.98572"
+         x="1258.5649"
+         y="662.21033"
          style="font-size:10px"
          id="tspan7237">Lidza Louina</tspan><tspan
          sodipodi:role="line"
-         x="147.07822"
-         y="742.98572"
+         x="1258.5649"
+         y="674.71033"
          style="font-size:10px"
          id="tspan7239">Lisa T. Nguyen</tspan><tspan
          sodipodi:role="line"
-         x="147.07822"
-         y="757.98572"
+         x="1258.5649"
+         y="687.21033"
          style="font-size:10px"
          id="tspan7243">Hema Prathaban</tspan><tspan
          sodipodi:role="line"
-         x="147.07822"
-         y="772.98572"
+         x="1258.5649"
+         y="699.71033"
          style="font-size:10px"
          id="tspan7249">Xenia Ragiadakou</tspan><tspan
          sodipodi:role="line"
-         x="147.07822"
-         y="787.98572"
+         x="1258.5649"
+         y="712.21033"
          style="font-size:10px"
          id="tspan7266">Elena Ufimtseva</tspan><tspan
          sodipodi:role="line"
-         x="147.07822"
-         y="802.98572"
+         x="1258.5649"
+         y="724.71033"
          style="font-size:10px"
          id="tspan7253">Laura Vasilescu </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="371.07822"
-       y="487.98572"
+       x="1482.5649"
+       y="462.2103"
        id="text6966-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="371.07822"
-         y="487.98572"
+         x="1482.5649"
+         y="462.2103"
          style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
          id="tspan7004-3">Electronic Frontier Foundation</tspan><tspan
          sodipodi:role="line"
-         x="371.07822"
-         y="500.48572"
+         x="1482.5649"
+         y="474.7103"
          style="font-size:10px"
          id="tspan7197-1">Yan Zhu (zyan)</tspan><tspan
          sodipodi:role="line"
-         x="371.07822"
-         y="512.98572"
+         x="1482.5649"
+         y="487.2103"
          style="font-size:10px"
          id="tspan7203-9" /><tspan
          sodipodi:role="line"
-         x="371.07822"
-         y="525.48572"
+         x="1482.5649"
+         y="499.7103"
          style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
          id="tspan7205-8">GNOME</tspan><tspan
          sodipodi:role="line"
-         x="371.07822"
-         y="537.98572"
+         x="1482.5649"
+         y="512.21033"
          style="font-size:10px"
          id="tspan7207-4">Saumya Dwived</tspan><tspan
          sodipodi:role="line"
-         x="371.07822"
-         y="550.48572"
+         x="1482.5649"
+         y="524.71033"
          style="font-size:10px"
          id="tspan7209-1">Saumya Pathak</tspan><tspan
          sodipodi:role="line"
-         x="371.07822"
-         y="562.98572"
+         x="1482.5649"
+         y="537.21033"
          style="font-size:10px"
          id="tspan7211-2">Shivani Poddar</tspan><tspan
          sodipodi:role="line"
-         x="371.07822"
-         y="575.48572"
+         x="1482.5649"
+         y="549.71033"
          style="font-size:10px"
          id="tspan7213-6">Aruna Sankaranarayanan</tspan><tspan
          sodipodi:role="line"
-         x="371.07822"
-         y="587.98572"
+         x="1482.5649"
+         y="562.21033"
          style="font-size:10px"
          id="tspan7215-9">Pooja Saxena </tspan><tspan
          sodipodi:role="line"
-         x="371.07822"
-         y="600.48572"
+         x="1482.5649"
+         y="574.71033"
          style="font-size:10px"
          id="tspan7219-1">Melissa Wen</tspan><tspan
          sodipodi:role="line"
-         x="371.07822"
-         y="612.98572"
+         x="1482.5649"
+         y="587.21033"
          style="font-size:10px"
          id="tspan7223-6">Tiffany Yau</tspan><tspan
          sodipodi:role="line"
-         x="371.07822"
-         y="625.48572"
+         x="1482.5649"
+         y="599.71033"
          style="font-size:10px"
          id="tspan7225-6">Magdalen Berns</tspan><tspan
          sodipodi:role="line"
-         x="371.07822"
-         y="637.98572"
+         x="1482.5649"
+         y="612.21033"
          style="font-size:10px"
          id="tspan7227-1">Garima Joshi</tspan><tspan
          sodipodi:role="line"
-         x="371.07822"
-         y="650.48572"
+         x="1482.5649"
+         y="624.71033"
          style="font-size:10px"
          id="tspan7229-3" /><tspan
          sodipodi:role="line"
-         x="371.07822"
-         y="662.98572"
+         x="1482.5649"
+         y="637.21033"
          style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
          id="tspan7231-9">Linux Kernel</tspan><tspan
          sodipodi:role="line"
-         x="371.07822"
-         y="675.48572"
+         x="1482.5649"
+         y="649.71033"
          style="font-size:10px"
          id="tspan7233-6">Tülin İzer</tspan><tspan
          sodipodi:role="line"
-         x="371.07822"
-         y="687.98572"
+         x="1482.5649"
+         y="662.21033"
          style="font-size:10px"
          id="tspan7237-2">Lidza Louina</tspan><tspan
          sodipodi:role="line"
-         x="371.07822"
-         y="700.48572"
+         x="1482.5649"
+         y="674.71033"
          style="font-size:10px"
          id="tspan7239-6">Lisa T. Nguyen</tspan><tspan
          sodipodi:role="line"
-         x="371.07822"
-         y="712.98572"
+         x="1482.5649"
+         y="687.21033"
          style="font-size:10px"
          id="tspan7243-6">Hema Prathaban</tspan><tspan
          sodipodi:role="line"
-         x="371.07822"
-         y="725.48572"
+         x="1482.5649"
+         y="699.71033"
          style="font-size:10px"
          id="tspan7249-3">Xenia Ragiadakou</tspan><tspan
          sodipodi:role="line"
-         x="371.07822"
-         y="737.98572"
+         x="1482.5649"
+         y="712.21033"
          style="font-size:10px"
          id="tspan7266-4">Elena Ufimtseva</tspan><tspan
          sodipodi:role="line"
-         x="371.07822"
-         y="750.48572"
+         x="1482.5649"
+         y="724.71033"
          style="font-size:10px"
          id="tspan7253-6">Laura Vasilescu </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="662.07825"
-       y="487.98572"
+       x="1773.5649"
+       y="462.2103"
        id="text6966-6-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="662.07825"
-         y="487.98572"
+         x="1773.5649"
+         y="462.2103"
          style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
          id="tspan7004-3-7">Electronic Frontier Foundation</tspan><tspan
          sodipodi:role="line"
-         x="662.07825"
-         y="500.48572"
+         x="1773.5649"
+         y="474.7103"
          style="font-size:10px"
          id="tspan7197-1-9">Yan Zhu (zyan)</tspan><tspan
          sodipodi:role="line"
-         x="662.07825"
-         y="512.98572"
+         x="1773.5649"
+         y="487.2103"
          style="font-size:10px"
          id="tspan7203-9-3" /><tspan
          sodipodi:role="line"
-         x="662.07825"
-         y="525.48572"
+         x="1773.5649"
+         y="499.7103"
          style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
          id="tspan7205-8-7">GNOME</tspan><tspan
          sodipodi:role="line"
-         x="662.07825"
-         y="537.98572"
+         x="1773.5649"
+         y="512.21033"
          style="font-size:10px"
          id="tspan7207-4-8">Saumya Dwived</tspan><tspan
          sodipodi:role="line"
-         x="662.07825"
-         y="550.48572"
+         x="1773.5649"
+         y="524.71033"
          style="font-size:10px"
          id="tspan7209-1-4">Saumya Pathak</tspan><tspan
          sodipodi:role="line"
-         x="662.07825"
-         y="562.98572"
+         x="1773.5649"
+         y="537.21033"
          style="font-size:10px"
          id="tspan7211-2-2">Shivani Poddar</tspan><tspan
          sodipodi:role="line"
-         x="662.07825"
-         y="575.48572"
+         x="1773.5649"
+         y="549.71033"
          style="font-size:10px"
          id="tspan7213-6-5">Aruna Sankaranarayanan</tspan><tspan
          sodipodi:role="line"
-         x="662.07825"
-         y="587.98572"
+         x="1773.5649"
+         y="562.21033"
          style="font-size:10px"
          id="tspan7215-9-7">Pooja Saxena </tspan><tspan
          sodipodi:role="line"
-         x="662.07825"
-         y="600.48572"
+         x="1773.5649"
+         y="574.71033"
          style="font-size:10px"
          id="tspan7219-1-5">Melissa Wen</tspan><tspan
          sodipodi:role="line"
-         x="662.07825"
-         y="612.98572"
+         x="1773.5649"
+         y="587.21033"
          style="font-size:10px"
          id="tspan7223-6-4">Tiffany Yau</tspan><tspan
          sodipodi:role="line"
-         x="662.07825"
-         y="625.48572"
+         x="1773.5649"
+         y="599.71033"
          style="font-size:10px"
          id="tspan7225-6-5">Magdalen Berns</tspan><tspan
          sodipodi:role="line"
-         x="662.07825"
-         y="637.98572"
+         x="1773.5649"
+         y="612.21033"
          style="font-size:10px"
          id="tspan7227-1-2">Garima Joshi</tspan><tspan
          sodipodi:role="line"
-         x="662.07825"
-         y="650.48572"
+         x="1773.5649"
+         y="624.71033"
          style="font-size:10px"
          id="tspan7229-3-5" /><tspan
          sodipodi:role="line"
-         x="662.07825"
-         y="662.98572"
+         x="1773.5649"
+         y="637.21033"
          style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
          id="tspan7231-9-0">Linux Kernel</tspan><tspan
          sodipodi:role="line"
-         x="662.07825"
-         y="675.48572"
+         x="1773.5649"
+         y="649.71033"
          style="font-size:10px"
          id="tspan7233-6-8">Tülin İzer</tspan><tspan
          sodipodi:role="line"
-         x="662.07825"
-         y="687.98572"
+         x="1773.5649"
+         y="662.21033"
          style="font-size:10px"
          id="tspan7237-2-6">Lidza Louina</tspan><tspan
          sodipodi:role="line"
-         x="662.07825"
-         y="700.48572"
+         x="1773.5649"
+         y="674.71033"
          style="font-size:10px"
          id="tspan7239-6-3">Lisa T. Nguyen</tspan><tspan
          sodipodi:role="line"
-         x="662.07825"
-         y="712.98572"
+         x="1773.5649"
+         y="687.21033"
          style="font-size:10px"
          id="tspan7243-6-6">Hema Prathaban</tspan><tspan
          sodipodi:role="line"
-         x="662.07825"
-         y="725.48572"
+         x="1773.5649"
+         y="699.71033"
          style="font-size:10px"
          id="tspan7249-3-2">Xenia Ragiadakou</tspan><tspan
          sodipodi:role="line"
-         x="662.07825"
-         y="737.98572"
+         x="1773.5649"
+         y="712.21033"
          style="font-size:10px"
          id="tspan7266-4-7">Elena Ufimtseva</tspan><tspan
          sodipodi:role="line"
-         x="662.07825"
-         y="750.48572"
+         x="1773.5649"
+         y="724.71033"
          style="font-size:10px"
          id="tspan7253-6-1">Laura Vasilescu </tspan></text>
   </g>
