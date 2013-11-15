@@ -1,0 +1,216 @@
+/**
+ * Styles that are not a part of page layout.
+ *
+ * For example:
+ *  Fonts
+ *  Sizes
+ *  Decoration
+ *  Separators
+ */
+body {
+	font-family: 'Cantarell', sans-serif;
+	background-color: white;
+        background: #fff url(html-bg.png) 0 10px repeat-x;
+        color: black;
+}
+
+div#content a {
+	color: #3465a4;
+	border-bottom: 1px dotted #888;
+	text-decoration: none;
+}
+
+div#content a:hover {
+	border-bottom: 1px solid #888;
+}
+
+h1.first {
+	margin-top: 0;
+	padding-top: 0;
+}
+
+h2, h3, h4, h5, h6 {
+	color: #3f3f3f;
+}
+
+h1 {
+	font-size: 1.4em;
+	margin-bottom: 1.5em;
+}
+
+h2 {
+	font-size: 1.2em;
+}
+
+h3 {
+	font-size: 1.0em;
+}
+
+/* Anchors */
+a img {
+        border: 0px;
+}
+
+a {
+        color: #0000ff;
+}
+
+a:visited {
+        color: #551a8b;
+}
+
+a:active {
+        color: #ff0000;
+}
+
+/*  lists  */
+.list {
+  margin-top:.5em;
+}
+.list tr td {
+  padding:.2em;
+  text-align:left;
+}
+.list td label {
+  border-bottom:1px dashed #999;
+  font-weight:normal;
+}
+.list th {
+  background: #ccf;
+  border: 1px solid #000;
+  font-weight: bold;
+  padding: 2px;
+}
+.list th a {
+  display: block;
+  padding:.2em 1.2em .2em .2em;
+  text-align: left;
+}
+.list th a:hover {
+  background-color: #fff;
+}
+.row1 {
+  background-color: #eee;
+}
+.row2 {
+  background-color: #ddd;
+}
+.row1:hover, .row2:hover {
+  background-color: #fff;
+}
+
+.record th {
+  text-align: right;
+}
+
+/* styling page content */
+
+input {
+	border-radius: 2px;
+}
+
+input.login_small {
+ border-style: none;
+}
+
+input[type="submit"] {
+        cursor: pointer;
+        text-transform: none;
+        border: 1px solid #888888;
+        border-radius: 5px;
+	margin-right: 5px;
+}
+
+
+option {
+ border: 0px none #ffffff;
+}
+
+/* footer */
+
+#header {
+	font-size: 12px;
+}
+
+#footer_image {
+	background-image: url(default.png);
+	height: 180px;
+	margin: auto;
+	width: 960px;
+}
+
+#footer_grass {
+	background: url(grass.png) top center repeat-x;
+	height: 39px;
+	margin-top: -33px;
+}
+
+#footer_container {
+	background: #d3d7cf;
+	padding: 1em;
+	line-height: 1.5em;
+}
+
+#header ul,
+#footer ul {
+	margin: 0;
+	padding: 0;
+}
+
+#header li,
+#footer li {
+	display: inline;
+	padding: 0 1em;
+}
+
+#header a,
+#footer a {
+	color: #3465a4;
+	text-decoration: none;
+}
+
+#footer a:hover {
+	border-bottom: 1px solid #888
+}
+
+
+/* Copyright footer */
+
+#copyright {
+        text-align: center;
+        font-size: small;
+        clear: both;
+
+        margin-top: 2em;
+}
+
+div#content div.rcrss a,
+div#content td.rcicon1 a,
+div#content td.rcicon2 a {
+	border: none;
+}
+
+div.recentchanges table {
+	clear: both;
+}
+
+h1.editortitle {
+	margin-left: 1.5em;
+}
+
+div#editor-help {
+	font-size: 90%;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	padding: 0ex 2ex 2ex 2ex;
+	background: #f7f6f2;
+}
+
+div#preview {
+	margin-top: 1em;
+}
+
+.strike {
+	text-decoration: line-through;
+}
+

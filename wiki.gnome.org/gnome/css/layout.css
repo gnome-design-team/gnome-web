@@ -1,0 +1,258 @@
+/* Basic structure */
+html,
+body {
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+}
+
+#body {
+	margin: 90px 230px 0px 10px;
+}
+
+#container {
+	min-height: 100%;
+	position: relative;
+}
+
+#header {
+	margin: 0px;
+	padding: 0px;
+}
+
+#main_content {
+	padding: 10px;
+	padding-bottom: 15em;   /* Height of the footer */
+}
+
+#footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+
+#main_content,
+#header_tabs,
+#footer_content {
+	width: 960px;
+	margin: auto;
+}
+
+div#content { 
+        /* so it gets on top of sidebar when overflowing
+         * (necessary so wide diff tables are readable) */
+        position: relative;
+        z-index: 1000;
+}
+
+div.editor div#content {
+        max-width: none;
+        margin-right: 1em;
+}
+
+
+/* Basic classes */
+
+.none { /* to add paragraph spacing to various elements for ttys */
+	margin: 0px;
+	padding: 0px;
+}
+
+.invisible { /* stuff that should appear when this css isn't used */
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+	height: 0px;
+	visibility: hidden;
+}
+
+.left {
+	margin: 10px;
+	padding: 0px;
+	float: left;
+}
+
+.right {
+	margin: 10px;
+	padding: 0px;
+	float: right;
+}
+
+.center {
+	text-align: center;
+}
+
+/* Common page elements: Header, footer, etc. */
+
+/* Search thingy */
+
+#search {
+	margin: auto;
+	text-align: center;
+	font-size: 80%;
+	margin-top: 1.5em;
+}
+
+div#search form {
+        background: transparent;
+}
+
+input#searchinput {
+	border: 1px solid #888888;
+	margin-right: 6px;
+}
+
+/* News Sections */
+
+p.newsitem {
+	clear: left;
+	margin-bottom: 20px;
+}
+
+p.newsitem img.newsicon {
+	float: left;
+	margin: 0px 10px 10px 10px;
+	border: 0px;
+}
+
+
+/* Generic Classes */
+
+div.code {
+	background-color: #e0e0e0;
+	color: #000000;
+	white-space: pre;
+	font-family: monospace;
+}
+
+
+div.in-column {
+	margin: 0 0 2em 1em;
+	float: right;
+	max-width: 12em;
+}
+
+hr {
+	color: #888;
+	background: #888;
+	border: 0;
+	height: 1px;
+	width: 90%;
+	text-align: center;
+	clear: both;
+}
+
+
+ul.toc {
+	padding: 0;
+	padding-left: 20px;
+	margin-left: 0;
+	margin-right: 10px;
+	list-style: none;
+}
+
+ul.toc li {
+	list-style: circle;
+}
+
+ul.toc li a {
+	text-decoration: none;
+	color: black;
+}
+
+ul.toc li a:hover {
+	text-decoration: underline;
+}
+
+/* Global Domain Bar */
+
+#global_domain_bar {
+    background: #fff;
+    height: 10px;
+    -moz-box-shadow: 0 4px 2px -2px #666;
+    -webkit-box-shadow: 0 4px 2px -2px #666;
+    box-shadow: 0 4px 2px -2px #666;
+    position: relative;
+}
+
+/* Tab */
+
+#global_domain_bar .tab {
+    background: #fff;
+    padding: 6px 8px;
+    font-size: 12px;
+    line-height: 16px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    -moz-box-shadow: 0 4px 2px -2px #666;
+    -webkit-box-shadow: 0 4px 2px -2px #666;
+    box-shadow: 0 4px 2px -2px #666;
+    white-space: nowrap;
+}
+#site_tab {
+    float: right;
+}
+#user_tab {
+    float: left;
+}
+#global_domain_bar .tab a.root {
+    color: #555753 !important;
+    font-weight: bold;
+    text-decoration: none;
+    background: #fff url(favicon.png) 0 0 no-repeat;
+    padding-left: 18px;
+    border-right: 1px solid #ccc;
+    padding-right: 6px;
+    margin-right: 3px;
+}
+#global_domain_bar .tab a.root:last-child {
+    border-right: 0;
+    padding-right: 0;
+    margin-right: 0;
+}
+#global_domain_bar .tab a.root:hover {
+    text-decoration: underline;
+}
+
+
+/* page content */
+
+div#content,
+p#pageinfo {
+	clear: both;
+	padding: 1em;
+	margin: 1em;
+}
+
+div.table-of-contents {
+	border: 1px solid #ccc;
+	background: #f0f0f0;
+	margin: 1em;
+	padding: 0.5em;
+	float: right;
+	font-size: 85%;
+	border-radius: 5px;
+}
+
+div.table-of-contents p.table-of-contents-heading {
+	font-weight: bold;
+	margin: 0.5em 1em;
+}
+
+div.table-of-contents ol {
+	margin: 1em 0.5em 1em 1em;
+	padding: 0;
+}
+
+div.table-of-contents ol li {
+	margin: 0;
+	padding: 0;
+	margin-left: 1em;
+}
+
+div.table-of-contents ol ol {
+	margin: 0.5em 0.5em 0.5em 1em;
+	padding: 0;
+}
+
