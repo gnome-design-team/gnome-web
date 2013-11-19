@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   id="svg6118"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="assets.svg">
+  <defs
+     id="defs6120" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="277.4432"
+     inkscape:cy="14.499073"
+     inkscape:current-layer="g19358"
+     showgrid="false"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-nodes="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid6151"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata6123">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,64)">
+    <g
+       id="g19560"
+       transform="translate(-46.726989,-364.65901)">
+      <g
+         transform="matrix(1.1722378,0,0,1.1722378,-102.51082,162.24915)"
+         id="g19358">
+        <rect
+           style="opacity:0;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect6921-6-3-2"
+           width="109.19286"
+           height="109.19286"
+           x="485.59909"
+           y="118.0732"
+           inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/build.gnome.org/status-smoketest-failed.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="opacity:0;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect6921-6"
+           width="109.19286"
+           height="109.19286"
+           x="246.73988"
+           y="118.0732"
+           inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/build.gnome.org/status-build-failed.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="opacity:0;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect6921"
+           width="109.19286"
+           height="109.19286"
+           x="127.31018"
+           y="118.07319"
+           inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/build.gnome.org/status-jenkins-failed.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           sodipodi:type="arc"
+           style="color:#000000;fill:none;stroke:#cc0000;stroke-width:10.48108373;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="path14048"
+           sodipodi:cx="180.66579"
+           sodipodi:cy="172.26254"
+           sodipodi:rx="87.32769"
+           sodipodi:ry="87.32769"
+           d="m 267.99348,172.26254 a 87.32769,87.32769 0 1 1 -174.655383,0 87.32769,87.32769 0 1 1 174.655383,0 z"
+           transform="matrix(0.48846567,0,0,0.48823019,93.657579,88.56585)"
+           inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/build.gnome.org/status-jenkins-failed.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <g
+           id="g6923"
+           transform="translate(0.90152,-0.46306975)"
+           inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/build.gnome.org/status-jenkins-failed.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             transform="translate(2.1213203,0)"
+             d="m 187.3833,173.85353 c 0,4.58866 -3.71984,8.30851 -8.3085,8.30851 -4.58866,0 -8.30851,-3.71985 -8.30851,-8.30851 0,-4.58866 3.71985,-8.3085 8.30851,-8.3085 4.58866,0 8.3085,3.71984 8.3085,8.3085 z"
+             sodipodi:ry="8.3085051"
+             sodipodi:rx="8.3085051"
+             sodipodi:cy="173.85353"
+             sodipodi:cx="179.0748"
+             id="path14558"
+             style="color:#000000;fill:#cc0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             sodipodi:type="arc" />
+          <path
+             transform="matrix(2.0781573,0,0,2.0781573,-54.093462,-90.80928)"
+             inkscape:transform-center-x="-0.27888226"
+             d="m 123.97967,132.31542 c -0.9427,0.54427 -4.25627,-1.06628 -5.19897,-1.61055 -0.94271,-0.54427 -3.99426,-2.60863 -3.99426,-3.69717 0,-1.08855 3.05155,-3.1529 3.99426,-3.69717 0.94271,-0.54427 4.25627,-2.15482 5.19897,-1.61055 0.94271,0.54427 1.20472,4.21917 1.20472,5.30772 0,1.08854 -0.26201,4.76344 -1.20472,5.30772 z"
+             inkscape:randomized="0"
+             inkscape:rounded="0.2"
+             inkscape:flatsided="false"
+             sodipodi:arg2="2.0943952"
+             sodipodi:arg1="1.0471976"
+             sodipodi:r2="4.269125"
+             sodipodi:r1="6.1288252"
+             sodipodi:cy="127.0077"
+             sodipodi:cx="120.91526"
+             sodipodi:sides="3"
+             id="path14564"
+             style="color:#000000;fill:#cc0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             sodipodi:type="star" />
+          <path
+             transform="matrix(-2.0781573,0,0,2.0781573,416.10365,-90.809283)"
+             inkscape:transform-center-x="0.27888652"
+             d="m 123.97967,132.31542 c -0.9427,0.54427 -4.25627,-1.06628 -5.19897,-1.61055 -0.94271,-0.54427 -3.99426,-2.60863 -3.99426,-3.69717 0,-1.08855 3.05155,-3.1529 3.99426,-3.69717 0.94271,-0.54427 4.25627,-2.15482 5.19897,-1.61055 0.94271,0.54427 1.20472,4.21917 1.20472,5.30772 0,1.08854 -0.26201,4.76344 -1.20472,5.30772 z"
+             inkscape:randomized="0"
+             inkscape:rounded="0.2"
+             inkscape:flatsided="false"
+             sodipodi:arg2="2.0943952"
+             sodipodi:arg1="1.0471976"
+             sodipodi:r2="4.269125"
+             sodipodi:r1="6.1288252"
+             sodipodi:cy="127.0077"
+             sodipodi:cx="120.91526"
+             sodipodi:sides="3"
+             id="path14564-6"
+             style="color:#000000;fill:#cc0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             sodipodi:type="star" />
+        </g>
+        <path
+           sodipodi:nodetypes="sccccccccccsccccccccccsccccccccccsccccccccccssssss"
+           inkscape:connector-curvature="0"
+           id="path35543-6-4"
+           d="m 301.33632,151.88855 c -0.65505,0 -1.30865,0.0335 -1.94824,0.0926 l -1.20605,6.21583 c -0.99293,0.2176 -1.96843,0.52217 -2.87598,0.92773 l -4.5459,-4.36035 c -1.15374,0.68314 -2.15813,1.52617 -3.1543,2.41211 l 2.69043,5.65918 c -0.6603,0.73919 -1.25949,1.55117 -1.76269,2.41211 l -6.21582,-0.83496 c -0.52761,1.21353 -0.91651,2.48297 -1.20606,3.80371 l 5.47364,2.96875 c -0.0508,0.49901 -0.0926,0.97197 -0.0926,1.48437 0,0.51241 0.0422,0.98536 0.0926,1.48438 l -5.47364,2.96875 c 0.28946,1.32073 0.67845,2.59017 1.20606,3.80371 l 6.21582,-0.83496 c 0.5032,0.86093 1.10239,1.67292 1.76269,2.41211 l -2.69043,5.65918 c 0.99617,0.88593 2.00056,1.72897 3.1543,2.4121 l 4.5459,-4.36035 c 0.90755,0.40556 1.88305,0.71001 2.87598,0.92774 l 1.20605,6.21582 c 0.63959,0.0594 1.29319,0.0926 1.94824,0.0926 0.65506,0 1.30866,-0.0335 1.94825,-0.0926 l 1.20605,-6.21582 c 0.99293,-0.21761 1.96843,-0.52218 2.87598,-0.92774 l 4.5459,4.36035 c 1.15374,-0.68313 2.15813,-1.52617 3.15429,-2.4121 l -2.69043,-5.65918 c 0.66031,-0.73919 1.25949,-1.55118 1.7627,-2.41211 l 6.21582,0.83496 c 0.5276,-1.21354 0.91651,-2.48298 1.20605,-3.80371 l -5.47363,-2.96875 c 0.0508,-0.49902 0.0926,-0.97197 0.0926,-1.48438 0,-0.5124 -0.0422,-0.98536 -0.0926,-1.48437 l 5.47363,-2.96875 c -0.28945,-1.32074 -0.67845,-2.59018 -1.20605,-3.80371 l -6.21582,0.83496 c -0.50321,-0.86094 -1.10239,-1.67292 -1.7627,-2.41211 l 2.69043,-5.65918 c -0.99616,-0.88594 -2.00055,-1.72897 -3.15429,-2.41211 l -4.5459,4.36035 c -0.90755,-0.40556 -1.88305,-0.71001 -2.87598,-0.92773 l -1.20605,-6.21583 c -0.63959,-0.0594 -1.29319,-0.0926 -1.94825,-0.0926 z m 0,11.875 c 4.91878,0 8.90625,3.98748 8.90625,8.90625 0,4.91877 -3.98747,8.90625 -8.90625,8.90625 -4.91877,0 -8.90625,-3.98748 -8.90625,-8.90625 0,-4.91877 3.98748,-8.90625 8.90625,-8.90625 z"
+           style="color:#000000;fill:#cc0000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/build.gnome.org/status-build-failed.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="fill:#cc0000;fill-opacity:1;stroke:none"
+           d="m 536.69238,150.38855 c -10.48756,-0.12744 -22.12648,2.07936 -22.12648,2.07936 0,0 31.00462,-3.13922 31.61688,7.01116 0.61225,10.15038 -25.97855,3.01743 -27.00498,9.49039 -0.71254,4.49358 3.6302,5.86323 6.37136,6.29139 -1.36503,-0.47169 -2.70434,-1.78408 -1.73279,-5.27837 1.72719,-6.21206 30.97742,-1.21493 29.24428,-12.87601 -0.75825,-5.10172 -8.21127,-6.6188 -16.36827,-6.71792 z m -11.14322,24.8723 c 1.0617,0.36687 2.13268,0.21327 2.13268,0.21327 0,0 -0.92519,-0.0247 -2.13268,-0.21327 z m -6.10477,0.85307 c -0.6412,5.65458 -0.5256,11.71261 2.2393,16.50156 25.0541,-0.19597 37.62221,-10.92274 46.49228,-8.26411 -7.99937,-3.7314 -25.83681,2.26596 -33.98948,2.26596 l 0,-10.50341 -14.7421,0 z"
+           id="path14611"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/build.gnome.org/status-smoketest-failed.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           sodipodi:type="arc"
+           style="color:#000000;fill:none;stroke:#cc0000;stroke-width:10.48108387;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="path14048-82"
+           sodipodi:cx="180.66579"
+           sodipodi:cy="172.26254"
+           sodipodi:rx="87.32769"
+           sodipodi:ry="87.32769"
+           d="m 267.99348,172.26254 a 87.32769,87.32769 0 1 1 -174.655383,0 87.32769,87.32769 0 1 1 174.655383,0 z"
+           transform="matrix(0.48846567,0,0,0.48823019,213.08728,88.565854)"
+           inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/build.gnome.org/status-build-failed.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="opacity:0;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect6921-6-3"
+           width="109.19286"
+           height="109.19286"
+           x="366.16949"
+           y="118.0732"
+           inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/build.gnome.org/status-Integrationtest-failed.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           sodipodi:type="arc"
+           style="color:#000000;fill:none;stroke:#cc0000;stroke-width:10.48108387;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="path14048-82-6"
+           sodipodi:cx="180.66579"
+           sodipodi:cy="172.26254"
+           sodipodi:rx="87.32769"
+           sodipodi:ry="87.32769"
+           d="m 267.99348,172.26254 a 87.32769,87.32769 0 1 1 -174.655383,0 87.32769,87.32769 0 1 1 174.655383,0 z"
+           transform="matrix(0.48846567,0,0,0.48823019,332.51695,88.565848)"
+           inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/build.gnome.org/status-Integrationtest-failed.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="color:#000000;fill:#cc0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 411.78211,147.39745 c -3.44077,0 -6.21141,2.77063 -6.21141,6.21141 0,3.44077 2.77064,6.23806 6.21141,6.23806 3.44078,0 6.23807,-2.79729 6.23807,-6.23806 0,-3.44078 -2.79729,-6.21141 -6.23807,-6.21141 z m 8.18414,12.6894 1.25294,4.71854 1.27961,4.7452 2.10601,-2.10602 4.87849,5.22505 2.18599,-2.0527 -4.95846,-5.27836 2.71915,-2.71916 -4.74519,-1.2796 -4.71854,-1.25295 z m 16.74148,10.4501 c -3.44078,0 -6.21141,2.79729 -6.21141,6.23807 0,3.44077 2.77063,6.23807 6.21141,6.23807 3.44078,0 6.23807,-2.7973 6.23807,-6.23807 0,-3.44078 -2.79729,-6.23807 -6.23807,-6.23807 z m -17.4346,7.99752 1.49287,2.55921 -6.31805,3.38562 1.4129,2.63918 6.39802,-3.41228 1.91941,3.33231 2.45257,-4.26535 2.42592,-4.23869 -4.87849,0 -4.90515,0 z m -13.67577,3.86547 c -3.44078,0 -6.21141,2.77064 -6.21141,6.21141 0,3.44078 2.77063,6.23807 6.21141,6.23807 3.44078,0 6.23807,-2.79729 6.23807,-6.23807 0,-3.44077 -2.79729,-6.21141 -6.23807,-6.21141 z"
+           id="path14643"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/build.gnome.org/status-Integrationtest-failed.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           sodipodi:type="arc"
+           style="color:#000000;fill:none;stroke:#cc0000;stroke-width:10.48108387;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="path14048-82-6-4"
+           sodipodi:cx="180.66579"
+           sodipodi:cy="172.26254"
+           sodipodi:rx="87.32769"
+           sodipodi:ry="87.32769"
+           d="m 267.99348,172.26254 a 87.32769,87.32769 0 1 1 -174.655383,0 87.32769,87.32769 0 1 1 174.655383,0 z"
+           transform="matrix(0.48846567,0,0,0.48823019,451.94661,88.565842)"
+           inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/build.gnome.org/status-smoketest-failed.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="opacity:0;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect6921-6-3-2-4"
+           width="109.19286"
+           height="109.19286"
+           x="605.02887"
+           y="118.0732"
+           inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/build.gnome.org/status-applicationtest-failed.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           sodipodi:type="arc"
+           style="color:#000000;fill:none;stroke:#cc0000;stroke-width:10.48108387;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="path14048-82-6-4-3"
+           sodipodi:cx="180.66579"
+           sodipodi:cy="172.26254"
+           sodipodi:rx="87.32769"
+           sodipodi:ry="87.32769"
+           d="m 267.99348,172.26254 a 87.32769,87.32769 0 1 1 -174.655383,0 87.32769,87.32769 0 1 1 174.655383,0 z"
+           transform="matrix(0.48846567,0,0,0.48823019,571.37627,88.565836)"
+           inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/build.gnome.org/status-applicationtest-failed.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           sodipodi:nodetypes="cssssccsssscc"
+           inkscape:connector-curvature="0"
+           id="rect14740-0-4"
+           d="m 635.72302,167.56299 0,20.79356 c 0,1.69118 1.40119,3.09237 3.09238,3.09237 l 40.81403,0 c 1.69118,0 3.09237,-1.40119 3.09237,-3.09237 l 0,-20.79356 -3.45226,0 0,20.36012 c 0,0.0811 -0.0256,0.10663 -0.10663,0.10663 l -39.90765,0 c -0.0811,0 -0.0799,-0.0257 -0.0799,-0.10663 l 0,-20.36012 z"
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#cc0000;fill-opacity:1;stroke:none;stroke-width:3.41227698;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+           inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/build.gnome.org/status-applicationtest-failed.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="color:#000000;fill:#cc0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect14740-6"
+           width="46.965881"
+           height="8.5306997"
+           x="635.73944"
+           y="157.31438"
+           inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/build.gnome.org/status-applicationtest-failed.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="opacity:0;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect6921-6-3-2-6"
+           width="109.19286"
+           height="109.19286"
+           x="485.59909"
+           y="237.5029"
+           inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/build.gnome.org/status-smoketest-succeeded.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="opacity:0;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect6921-6-9"
+           width="109.19286"
+           height="109.19286"
+           x="246.73988"
+           y="237.5029"
+           inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/build.gnome.org/status-build-succeeded.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="opacity:0;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect6921-8"
+           width="109.19286"
+           height="109.19286"
+           x="127.31018"
+           y="237.5029"
+           inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/build.gnome.org/status-jenkins-succeeded.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           sodipodi:type="arc"
+           style="color:#000000;fill:none;stroke:#4e9a06;stroke-width:10.48108387000000086;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="path14048-7"
+           sodipodi:cx="180.66579"
+           sodipodi:cy="172.26254"
+           sodipodi:rx="87.32769"
+           sodipodi:ry="87.32769"
+           d="m 267.99348,172.26254 a 87.32769,87.32769 0 1 1 -174.655383,0 87.32769,87.32769 0 1 1 174.655383,0 z"
+           transform="matrix(0.48846567,0,0,0.48823019,93.657582,207.99552)"
+           inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/build.gnome.org/status-jenkins-succeeded.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <g
+           id="g6923-0"
+           transform="translate(0.90152271,118.96661)"
+           style="fill:#4e9a06"
+           inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/build.gnome.org/status-jenkins-succeeded.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             transform="translate(2.1213203,0)"
+             d="m 187.3833,173.85353 c 0,4.58866 -3.71984,8.30851 -8.3085,8.30851 -4.58866,0 -8.30851,-3.71985 -8.30851,-8.30851 0,-4.58866 3.71985,-8.3085 8.30851,-8.3085 4.58866,0 8.3085,3.71984 8.3085,8.3085 z"
+             sodipodi:ry="8.3085051"
+             sodipodi:rx="8.3085051"
+             sodipodi:cy="173.85353"
+             sodipodi:cx="179.0748"
+             id="path14558-5"
+             style="color:#000000;fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             sodipodi:type="arc" />
+          <path
+             transform="matrix(2.0781573,0,0,2.0781573,-54.093462,-90.80928)"
+             inkscape:transform-center-x="-0.27888226"
+             d="m 123.97967,132.31542 c -0.9427,0.54427 -4.25627,-1.06628 -5.19897,-1.61055 -0.94271,-0.54427 -3.99426,-2.60863 -3.99426,-3.69717 0,-1.08855 3.05155,-3.1529 3.99426,-3.69717 0.94271,-0.54427 4.25627,-2.15482 5.19897,-1.61055 0.94271,0.54427 1.20472,4.21917 1.20472,5.30772 0,1.08854 -0.26201,4.76344 -1.20472,5.30772 z"
+             inkscape:randomized="0"
+             inkscape:rounded="0.2"
+             inkscape:flatsided="false"
+             sodipodi:arg2="2.0943952"
+             sodipodi:arg1="1.0471976"
+             sodipodi:r2="4.269125"
+             sodipodi:r1="6.1288252"
+             sodipodi:cy="127.0077"
+             sodipodi:cx="120.91526"
+             sodipodi:sides="3"
+             id="path14564-7"
+             style="color:#000000;fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             sodipodi:type="star" />
+          <path
+             transform="matrix(-2.0781573,0,0,2.0781573,416.10365,-90.809283)"
+             inkscape:transform-center-x="0.27888652"
+             d="m 123.97967,132.31542 c -0.9427,0.54427 -4.25627,-1.06628 -5.19897,-1.61055 -0.94271,-0.54427 -3.99426,-2.60863 -3.99426,-3.69717 0,-1.08855 3.05155,-3.1529 3.99426,-3.69717 0.94271,-0.54427 4.25627,-2.15482 5.19897,-1.61055 0.94271,0.54427 1.20472,4.21917 1.20472,5.30772 0,1.08854 -0.26201,4.76344 -1.20472,5.30772 z"
+             inkscape:randomized="0"
+             inkscape:rounded="0.2"
+             inkscape:flatsided="false"
+             sodipodi:arg2="2.0943952"
+             sodipodi:arg1="1.0471976"
+             sodipodi:r2="4.269125"
+             sodipodi:r1="6.1288252"
+             sodipodi:cy="127.0077"
+             sodipodi:cx="120.91526"
+             sodipodi:sides="3"
+             id="path14564-6-1"
+             style="color:#000000;fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             sodipodi:type="star" />
+        </g>
+        <path
+           sodipodi:nodetypes="sccccccccccsccccccccccsccccccccccsccccccccccssssss"
+           inkscape:connector-curvature="0"
+           id="path35543-6-4-7"
+           d="m 301.33632,271.31821 c -0.65505,0 -1.30865,0.0335 -1.94824,0.0926 l -1.20605,6.21583 c -0.99293,0.2176 -1.96843,0.52217 -2.87598,0.92773 l -4.5459,-4.36035 c -1.15374,0.68314 -2.15813,1.52617 -3.1543,2.41211 l 2.69044,5.65918 c -0.66031,0.73919 -1.2595,1.55117 -1.7627,2.41211 l -6.21581,-0.83496 c -0.52762,1.21353 -0.91652,2.48297 -1.20606,3.80371 l 5.47363,2.96875 c -0.0508,0.49901 -0.0926,0.97197 -0.0926,1.48437 0,0.51241 0.0422,0.98536 0.0926,1.48438 l -5.47363,2.96875 c 0.28945,1.32073 0.67844,2.59017 1.20606,3.80371 l 6.21581,-0.83496 c 0.5032,0.86093 1.10239,1.67292 1.7627,2.41211 l -2.69044,5.65918 c 0.99617,0.88593 2.00056,1.72897 3.1543,2.4121 l 4.5459,-4.36035 c 0.90755,0.40556 1.88305,0.71001 2.87598,0.92774 l 1.20605,6.21582 c 0.63959,0.0594 1.29319,0.0926 1.94824,0.0926 0.65506,0 1.30866,-0.0335 1.94825,-0.0926 l 1.20605,-6.21582 c 0.99293,-0.21761 1.96844,-0.52218 2.87598,-0.92774 l 4.54591,4.36035 c 1.15373,-0.68313 2.15812,-1.52617 3.15428,-2.4121 l -2.69043,-5.65918 c 0.66031,-0.73919 1.25949,-1.55118 1.7627,-2.41211 l 6.21582,0.83496 c 0.52761,-1.21354 0.91651,-2.48298 1.20605,-3.80371 l -5.47362,-2.96875 c 0.0507,-0.49902 0.0926,-0.97197 0.0926,-1.48438 0,-0.5124 -0.0422,-0.98536 -0.0926,-1.48437 l 5.47362,-2.96875 c -0.28944,-1.32074 -0.67844,-2.59018 -1.20605,-3.80371 l -6.21582,0.83496 c -0.50321,-0.86094 -1.10239,-1.67292 -1.7627,-2.41211 l 2.69043,-5.65918 c -0.99616,-0.88594 -2.00055,-1.72897 -3.15428,-2.41211 l -4.54591,4.36035 c -0.90754,-0.40556 -1.88305,-0.71001 -2.87598,-0.92773 l -1.20605,-6.21583 c -0.63959,-0.0594 -1.29319,-0.0926 -1.94825,-0.0926 z m 0,11.875 c 4.91878,0 8.90625,3.98748 8.90625,8.90625 0,4.91877 -3.98747,8.90625 -8.90625,8.90625 -4.91877,0 -8.90624,-3.98748 -8.90624,-8.90625 0,-4.91877 3.98747,-8.90625 8.90624,-8.90625 z"
+           style="color:#000000;fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/build.gnome.org/status-build-succeeded.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="fill:#4e9a06;fill-opacity:1;stroke:none"
+           d="m 536.69238,269.81821 c -10.48756,-0.12744 -22.12648,2.07936 -22.12648,2.07936 0,0 31.00462,-3.13922 31.61688,7.01116 0.61226,10.15038 -25.97854,3.01743 -27.00497,9.49039 -0.71255,4.49358 3.63019,5.86323 6.37136,6.29139 -1.36503,-0.47169 -2.70434,-1.78408 -1.7328,-5.27837 1.72719,-6.21206 30.97743,-1.21493 29.24428,-12.87601 -0.75825,-5.10172 -8.21127,-6.6188 -16.36827,-6.71792 z m -11.14321,24.8723 c 1.06169,0.36687 2.13267,0.21327 2.13267,0.21327 0,0 -0.92519,-0.0247 -2.13267,-0.21327 z m -6.10478,0.85307 c -0.6412,5.65458 -0.5256,11.71261 2.2393,16.50156 25.0541,-0.19597 37.62221,-10.92274 46.49228,-8.26411 -7.99937,-3.7314 -25.83681,2.26596 -33.98948,2.26596 l 0,-10.50341 -14.7421,0 z"
+           id="path14611-2"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/build.gnome.org/status-smoketest-succeeded.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           sodipodi:type="arc"
+           style="color:#000000;fill:none;stroke:#4e9a06;stroke-width:10.48108387000000086;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="path14048-82-5"
+           sodipodi:cx="180.66579"
+           sodipodi:cy="172.26254"
+           sodipodi:rx="87.32769"
+           sodipodi:ry="87.32769"
+           d="m 267.99348,172.26254 a 87.32769,87.32769 0 1 1 -174.655383,0 87.32769,87.32769 0 1 1 174.655383,0 z"
+           transform="matrix(0.48846567,0,0,0.48823019,213.08728,207.99552)"
+           inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/build.gnome.org/status-build-succeeded.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="opacity:0;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect6921-6-3-21"
+           width="109.19286"
+           height="109.19286"
+           x="366.16949"
+           y="237.5029"
+           inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/build.gnome.org/status-Integrationtest-succeeded.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           sodipodi:type="arc"
+           style="color:#000000;fill:none;stroke:#4e9a06;stroke-width:10.48108387000000086;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="path14048-82-6-0"
+           sodipodi:cx="180.66579"
+           sodipodi:cy="172.26254"
+           sodipodi:rx="87.32769"
+           sodipodi:ry="87.32769"
+           d="m 267.99348,172.26254 a 87.32769,87.32769 0 1 1 -174.655383,0 87.32769,87.32769 0 1 1 174.655383,0 z"
+           transform="matrix(0.48846567,0,0,0.48823019,332.51695,207.99551)"
+           inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/build.gnome.org/status-Integrationtest-succeeded.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="color:#000000;fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 411.78211,266.82711 c -3.44077,0 -6.21141,2.77063 -6.21141,6.21141 0,3.44077 2.77064,6.23806 6.21141,6.23806 3.44078,0 6.23807,-2.79729 6.23807,-6.23806 0,-3.44078 -2.79729,-6.21141 -6.23807,-6.21141 z m 8.18415,12.6894 1.25293,4.71854 1.27961,4.7452 2.10601,-2.10602 4.87849,5.22505 2.18599,-2.0527 -4.95846,-5.27836 2.71915,-2.71916 -4.74519,-1.2796 -4.71853,-1.25295 z m 16.74147,10.4501 c -3.44078,0 -6.21141,2.79729 -6.21141,6.23807 0,3.44077 2.77063,6.23807 6.21141,6.23807 3.44078,0 6.23807,-2.7973 6.23807,-6.23807 0,-3.44078 -2.79729,-6.23807 -6.23807,-6.23807 z m -17.43459,7.99752 1.49286,2.55921 -6.31804,3.38562 1.41289,2.63918 6.39802,-3.41228 1.91941,3.33231 2.45257,-4.26535 2.42592,-4.23869 -4.87849,0 -4.90514,0 z m -13.67578,3.86547 c -3.44078,0 -6.21141,2.77064 -6.21141,6.21141 0,3.44078 2.77063,6.23807 6.21141,6.23807 3.44078,0 6.23807,-2.79729 6.23807,-6.23807 0,-3.44077 -2.79729,-6.21141 -6.23807,-6.21141 z"
+           id="path14643-7"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/build.gnome.org/status-Integrationtest-succeeded.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           sodipodi:type="arc"
+           style="color:#000000;fill:none;stroke:#4e9a06;stroke-width:10.48108387000000086;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="path14048-82-6-4-8"
+           sodipodi:cx="180.66579"
+           sodipodi:cy="172.26254"
+           sodipodi:rx="87.32769"
+           sodipodi:ry="87.32769"
+           d="m 267.99348,172.26254 a 87.32769,87.32769 0 1 1 -174.655383,0 87.32769,87.32769 0 1 1 174.655383,0 z"
+           transform="matrix(0.48846567,0,0,0.48823019,451.94661,207.99551)"
+           inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/build.gnome.org/status-smoketest-succeeded.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="opacity:0;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect6921-6-3-2-4-0"
+           width="109.19286"
+           height="109.19286"
+           x="605.02887"
+           y="237.5029"
+           inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/build.gnome.org/status-applicationtest-succeeded.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           sodipodi:type="arc"
+           style="color:#000000;fill:none;stroke:#4e9a06;stroke-width:10.48108387000000086;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="path14048-82-6-4-3-3"
+           sodipodi:cx="180.66579"
+           sodipodi:cy="172.26254"
+           sodipodi:rx="87.32769"
+           sodipodi:ry="87.32769"
+           d="m 267.99348,172.26254 a 87.32769,87.32769 0 1 1 -174.655383,0 87.32769,87.32769 0 1 1 174.655383,0 z"
+           transform="matrix(0.48846567,0,0,0.48823019,571.37627,207.9955)"
+           inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/build.gnome.org/status-applicationtest-succeeded.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           sodipodi:nodetypes="cssssccsssscc"
+           inkscape:connector-curvature="0"
+           id="rect14740-0-4-8"
+           d="m 635.72302,286.99265 0,20.79356 c 0,1.69118 1.4012,3.09237 3.09238,3.09237 l 40.81403,0 c 1.69119,0 3.09237,-1.40119 3.09237,-3.09237 l 0,-20.79356 -3.45225,0 0,20.36012 c 0,0.0811 -0.0256,0.10663 -0.10664,0.10663 l -39.90765,0 c -0.0811,0 -0.0799,-0.0257 -0.0799,-0.10663 l 0,-20.36012 z"
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:3.41227698000000013;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+           inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/build.gnome.org/status-applicationtest-succeeded.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="color:#000000;fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect14740-6-2"
+           width="46.965881"
+           height="8.5306997"
+           x="635.73944"
+           y="276.74405"
+           inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/build.gnome.org/status-applicationtest-succeeded.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+      </g>
+    </g>
+  </g>
+</svg>
