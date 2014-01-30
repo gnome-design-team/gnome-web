@@ -669,8 +669,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="444.14218"
-     inkscape:cy="577.29223"
+     inkscape:cx="611.84658"
+     inkscape:cy="604.72485"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
@@ -713,7 +713,7 @@
            x="-337.02478"
            y="112.97605" /></flowRegion><flowPara
          id="flowPara6423" /></flowRoot>    <rect
-       style="fill:#eeeeec;fill-opacity:1;stroke:none"
+       style="fill:#f5f5f4;fill-opacity:1;stroke:none"
        id="rect6470-2"
        width="1025.3048"
        height="1108.816"
@@ -1517,22 +1517,7 @@
            x="310.38281"
            y="180.86719" /></flowRegion><flowPara
          style="font-size:33.42625809px"
-         id="flowPara6656">GUADEC is the annual conference of the GNOME community, held in Europe since 2000. GUADEC 2014 will be held in Strassbourg, France.</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot6242-2-3-7"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.46539727,0,0,0.46539727,61.512986,48.180282)"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><flowRegion
-         id="flowRegion6244-4-6-9"><rect
-           id="rect6246-3-2-9"
-           width="1348.104"
-           height="543.47778"
-           x="310.38281"
-           y="180.86719" /></flowRegion><flowPara
-         style="font-size:33.42625809px"
-         id="flowPara6692">July 25th - August 1st      -    Universitede Strassbourg  - Strassbourg, France</flowPara></flowRoot>    <image
+         id="flowPara6656">GUADEC is the annual conference of the GNOME community, held in Europe since 2000. GUADEC 2014 will be held in Strassbourg, France.</flowPara></flowRoot>    <image
        y="-153.69257"
        x="203.75143"
        id="image7369"
@@ -1622,7 +1607,7 @@
        xml:space="preserve"
        id="flowRoot6242-2-3-7-3"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.46539727,0,0,0.46539727,53.946867,90.35309)"
+       transform="matrix(0.46539727,0,0,0.46539727,53.946867,54.35309)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -1644,6 +1629,8 @@
          id="flowPara7465" /><flowPara
          style="font-size:25.78442192px"
          id="flowPara7467">A call for papers will be announced before the end of February. There will be a group accomondation avaiable close to the conference venue, and possibilities of travel assistance for speakers needing such.</flowPara><flowPara
+         style="font-size:25.78442192px"
+         id="flowPara7471" /><flowPara
          style="font-size:25.78442192px"
          id="flowPara7469">More info to follow shortly!</flowPara></flowRoot>  </g>
 </svg>
