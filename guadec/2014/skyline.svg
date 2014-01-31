@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 2">
+   sodipodi:docname="New document 15">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,11 +24,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="394.24066"
-     inkscape:cy="50.651353"
+     inkscape:zoom="1"
+     inkscape:cx="375.75974"
+     inkscape:cy="-145.24181"
      inkscape:document-units="px"
-     inkscape:current-layer="g5052-0"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
@@ -37,22 +37,16 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      showborder="true"
-     inkscape:showpageshadow="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0">
+     inkscape:showpageshadow="false">
     <inkscape:grid
        type="xygrid"
        id="grid6061"
        empspacing="5"
        visible="true"
        enabled="true"
-       snapvisiblegridlinesonly="true"
-       originx="-442.5px"
-       originy="-365.92859px" />
+       snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -70,9 +64,9 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-442.5,-536.43359)">
+     transform="translate(0,-902.36217)">
     <g
-       transform="matrix(0.55877953,0,0,0.55877953,288.75319,284.80492)"
+       transform="matrix(0.55877953,0,0,0.55877953,-154.24805,650.8041)"
        id="g5052-0"
        style="fill:#6b8e9f;fill-opacity:1"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-speakers.png"
@@ -86,14 +80,14 @@
          sodipodi:cy="701.36218"
          sodipodi:rx="6"
          sodipodi:ry="6"
-         d="m 889,701.36218 a 6,6 0 1 1 -12,0 6,6 0 1 1 12,0 z"
+         d="m 889,701.36218 c 0,3.31371 -2.68629,6 -6,6 -3.31371,0 -6,-2.68629 -6,-6 0,-3.31371 2.68629,-6 6,-6 3.31371,0 6,2.68629 6,6 z"
          transform="matrix(1.1930731,0,0,1.1930731,-170.76184,-136.03974)" />
       <rect
          style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
          id="rect5056-9"
-         width="3.5190542"
+         width="3.5819705"
          height="12.770549"
-         x="880.99225"
+         x="880.92932"
          y="705.86218" />
       <path
          sodipodi:type="arc"
@@ -103,12 +97,12 @@
          sodipodi:cy="701.36218"
          sodipodi:rx="6"
          sodipodi:ry="6"
-         d="m 889,701.36218 a 6,6 0 1 1 -12,0 6,6 0 1 1 12,0 z"
+         d="m 889,701.36218 c 0,3.31371 -2.68629,6 -6,6 -3.31371,0 -6,-2.68629 -6,-6 0,-3.31371 2.68629,-6 6,-6 3.31371,0 6,2.68629 6,6 z"
          transform="matrix(1.1930731,0,0,1.1930731,-149.34664,-136.03974)" />
       <rect
          style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
          id="rect5056-9-1"
-         width="3.5190542"
+         width="3.578372"
          height="12.770549"
          x="902.40747"
          y="705.86218" />
@@ -120,14 +114,14 @@
          sodipodi:cy="701.36218"
          sodipodi:rx="6"
          sodipodi:ry="6"
-         d="m 889,701.36218 a 6,6 0 1 1 -12,0 6,6 0 1 1 12,0 z"
+         d="m 889,701.36218 c 0,3.31371 -2.68629,6 -6,6 -3.31371,0 -6,-2.68629 -6,-6 0,-3.31371 2.68629,-6 6,-6 3.31371,0 6,2.68629 6,6 z"
          transform="matrix(1.1930731,0,0,1.1930731,-127.8111,-136.03974)" />
       <rect
          style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
          id="rect5056-9-1-4"
-         width="3.5190542"
+         width="3.5792236"
          height="12.770549"
-         x="923.94299"
+         x="923.88281"
          y="705.86218" />
       <path
          sodipodi:type="arc"
@@ -137,19 +131,19 @@
          sodipodi:cy="701.36218"
          sodipodi:rx="6"
          sodipodi:ry="6"
-         d="m 889,701.36218 a 6,6 0 1 1 -12,0 6,6 0 1 1 12,0 z"
+         d="m 889,701.36218 c 0,3.31371 -2.68629,6 -6,6 -3.31371,0 -6,-2.68629 -6,-6 0,-3.31371 2.68629,-6 6,-6 3.31371,0 6,2.68629 6,6 z"
          transform="matrix(1.1930731,0,0,1.1930731,-106.33571,-136.03974)" />
       <rect
          style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
          id="rect5056-9-1-4-2"
-         width="3.5190542"
+         width="3.5889609"
          height="12.770549"
-         x="945.4184"
+         x="945.34851"
          y="705.86218" />
     </g>
     <path
        style="fill:#6b8e9f;fill-opacity:1;stroke:none"
-       d="m 929.12733,545.35506 0,7.67139 -1.5175,0 0,3.21802 0.9712,0 0,4.42278 -0.8498,4.60594 -0.607,0.13723 -0.046,3.70605 -0.8802,0.0455 0.015,4.04159 -0.5464,0 -0.1517,4.20931 -0.5463,0.0152 0.015,3.7517 -0.6374,0 0,3.44683 -0.9408,0.0303 -0.091,6.67891 -4.2946,0 -0.0156,42.02206 -29.95968,0.007 -0.9937,-3.32017 -1.06049,0 0.0223,56.39707 59.67526,0 0,-32.80347 -2.6558,-9.9285 1.9273,-1.0981 -2.2004,-2.2114 0,-3.5841 1.6389,-0.4423 0.63425,-4.00213 -5.02488,0.0118 0.003,-41.01705 -4.08366,0 -0.091,-6.71016 -0.9408,-0.0303 0,-3.44683 -0.6374,0 0.015,-3.7517 -0.5463,-0.0151 -0.1518,-4.20932 -0.5462,0 0.015,-4.04159 -0.8802,-0.0455 -0.046,-3.70605 -0.607,-0.13723 -0.8499,-4.60593 0,-4.42279 0.9713,0 0,-3.21802 -1.5479,0 0,-7.67139 -1.9577,0 z m -7.1298,48.06177 1.01045,0 0,12.93635 -1.01045,0 z m 15.0325,0 0.9792,0 0,12.93635 -0.9792,0 z"
+       d="m 486.12609,911.35424 0,7.67139 -1.5175,0 0,3.21802 0.9712,0 0,4.42278 -0.8498,4.60594 -0.607,0.13723 -0.046,3.70605 -0.8802,0.0455 0.015,4.04159 -0.5464,0 -0.1517,4.20931 -0.5463,0.0152 0.015,3.7517 -0.6374,0 0,3.44683 -0.9408,0.0303 -0.091,6.71016 -4.30632,0 -0.004,41.99081 -29.95968,0.007 -0.9937,-3.32017 -1.06049,0 0.0223,56.39712 59.99014,0 0,-32.8035 -2.97068,-9.9285 1.9273,-1.0981 -1.94628,-2.2114 0,-3.5841 1.38478,-0.4423 0.63425,-4.00215 -5.02488,0.0118 0.003,-41.01705 -4.08366,0 -0.091,-6.71016 -0.9408,-0.0303 0,-3.44683 -0.6374,0 0.015,-3.7517 -0.5463,-0.0151 -0.1518,-4.20932 -0.5462,0 0.015,-4.04159 -0.8802,-0.0455 -0.046,-3.70605 -0.607,-0.13723 -0.8499,-4.60593 0,-4.42279 0.9713,0 0,-3.21802 -1.5479,0 0,-7.67139 -1.9577,0 z m -7.1298,48.06177 1.01045,0 0,12.93635 -1.01045,0 z m 15.0325,0 0.9792,0 0,12.93635 -0.9792,0 z"
        id="path13425"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
@@ -158,7 +152,7 @@
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
        style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 489.01482,634.41331 18.97499,-15.02234 45.01054,-0.002 18.06804,15.02462 0,52.0179 -82.05357,0 z"
+       d="m 46.005756,1000.3913 18.962342,-15.0285 44.980562,-0.002 18.05599,15.0308 0,52.0391 -81.998894,0 z"
        id="rect13502"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc"
@@ -170,56 +164,58 @@
        id="rect13504"
        width="50.000004"
        height="38.96545"
-       x="444.01437"
-       y="647.39673"
+       x="0.99874741"
+       y="1013.3614"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 642,673.36218 0,9.4792 c 0.0853,-0.0304 15.38969,-5.5 27.32452,-5.5 11.04836,0 24.5809,4.52685 26.67548,5.25 l 0,-9.2292 z"
+       d="m 198.99876,1039.3614 0,9.4792 c 0.0853,-0.03 15.38969,-5.5 27.32452,-5.5 11.04836,0 24.5809,4.5268 26.67548,5.25 l 0,-9.2292 z"
        id="rect13511"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccsccc" />
     <rect
        style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect14387"
-       width="30.017857"
-       height="30.006712"
-       x="961.97528"
-       y="656.35547"
+       width="30"
+       height="30.000002"
+       x="518.99878"
+       y="1022.3614"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
        style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect14389"
-       width="57.59198"
-       height="17.967161"
-       x="979.4306"
-       y="668.39502"
+       width="57.572449"
+       height="18.002317"
+       x="536.42938"
+       y="1034.3591"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 630.058,642.36218 -5.90502,11.42164 -0.15298,0 0,0.29889 0,32.27947 18.96947,0 0,-32.27947 0.0305,0 -0.0305,-0.064 0,-0.23482 -0.12239,0 -6.18038,-11.42164 -6.6087,0 z"
+       d="m 187.05677,1008.3614 -5.90503,11.4216 -0.15298,0 0,0.2989 0,32.2795 19.00466,0 c -0.01,-10.8293 0.001,-21.7346 -0.008,-32.4924 l -0.14973,-0.086 -6.18039,-11.4216 -6.60871,0 z"
        id="rect13506-5-4"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccccccccccc" />
     <path
        style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 701.02461,642.36218 -5.92026,11.42164 -0.15337,0 0,0.29889 0,32.27947 19.01842,0 0,-32.27947 0.0306,0 -0.0306,-0.064 0,-0.23482 -0.1227,0 -6.19633,-11.42164 -6.62576,0 z"
+       d="m 258.05676,1008.3614 -5.90502,11.4216 -0.15298,0 0,0.2989 0,32.2795 18.96948,0 0.0352,-32.5783 -0.15755,0 -6.18038,-11.4216 -6.60871,0 z"
        id="rect13506-5-4-5"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccccccccccc" />
     <path
        style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 571,673.36218 0,9.4792 c 0.0853,-0.0304 15.38969,-5.5 27.32452,-5.5 11.04836,0 24.5809,4.52685 26.67548,5.25 l 0,-9.2292 z"
+       d="m 126.99876,1039.3614 0,9.4792 c 0.0869,-0.03 15.67468,-5.5 27.83053,-5.5 11.25296,0 25.0361,4.5268 27.16947,5.25 l 0,-9.2292 z"
        id="rect13511-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccsccc" />
