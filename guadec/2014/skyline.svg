@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 15">
+   sodipodi:docname="skyline.svg"
+   inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/skyline.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="375.75974"
-     inkscape:cy="-145.24181"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="473.70196"
+     inkscape:cy="48.133269"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -143,13 +146,13 @@
     </g>
     <path
        style="fill:#6b8e9f;fill-opacity:1;stroke:none"
-       d="m 486.12609,911.35424 0,7.67139 -1.5175,0 0,3.21802 0.9712,0 0,4.42278 -0.8498,4.60594 -0.607,0.13723 -0.046,3.70605 -0.8802,0.0455 0.015,4.04159 -0.5464,0 -0.1517,4.20931 -0.5463,0.0152 0.015,3.7517 -0.6374,0 0,3.44683 -0.9408,0.0303 -0.091,6.71016 -4.30632,0 -0.004,41.99081 -29.95968,0.007 -0.9937,-3.32017 -1.06049,0 0.0223,56.39712 59.99014,0 0,-32.8035 -2.97068,-9.9285 1.9273,-1.0981 -1.94628,-2.2114 0,-3.5841 1.38478,-0.4423 0.63425,-4.00215 -5.02488,0.0118 0.003,-41.01705 -4.08366,0 -0.091,-6.71016 -0.9408,-0.0303 0,-3.44683 -0.6374,0 0.015,-3.7517 -0.5463,-0.0151 -0.1518,-4.20932 -0.5462,0 0.015,-4.04159 -0.8802,-0.0455 -0.046,-3.70605 -0.607,-0.13723 -0.8499,-4.60593 0,-4.42279 0.9713,0 0,-3.21802 -1.5479,0 0,-7.67139 -1.9577,0 z m -7.1298,48.06177 1.01045,0 0,12.93635 -1.01045,0 z m 15.0325,0 0.9792,0 0,12.93635 -0.9792,0 z"
+       d="m 486.12609,911.35424 0,7.67139 -1.5175,0 0,3.21802 0.9712,0 0,4.42278 -0.8498,4.60594 -0.607,0.13723 -2.778,19.21618 -0.9408,0.0303 -0.091,6.71016 -4.30632,0 -0.004,41.99081 -29.95968,0.007 -0.9937,-3.32017 -1.06049,0 0.0223,56.39712 59.99014,0 0,-32.8035 -2.97068,-9.9285 1.9273,-1.0981 -1.94628,-2.2114 0,-3.5841 1.38478,-0.4423 0.63425,-4.00215 -5.02488,0.0118 0.003,-41.01705 -4.08366,0 -0.091,-6.71016 -0.9408,-0.0303 -2.7779,-19.21609 -0.607,-0.13723 -0.8499,-4.60593 0,-4.42279 0.9713,0 0,-3.21802 -1.5479,0 0,-7.67139 -1.9577,0 z m -7.1298,48.06177 1.01045,0 0,12.93635 -1.01045,0 z m 15.0325,0 0.9792,0 0,12.93635 -0.9792,0 z"
        id="path13425"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
        style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 46.005756,1000.3913 18.962342,-15.0285 44.980562,-0.002 18.05599,15.0308 0,52.0391 -81.998894,0 z"
