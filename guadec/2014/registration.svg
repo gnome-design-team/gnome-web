@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="394.63944"
-     inkscape:cy="605.45405"
+     inkscape:zoom="1"
+     inkscape:cx="577.48071"
+     inkscape:cy="468.18113"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
@@ -125,9 +125,9 @@
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#888a85;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6045-9-8-5"
        width="270"
-       height="79"
+       height="104"
        x="289.5"
-       y="203.5"
+       y="178.50618"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -137,7 +137,7 @@
        width="11"
        height="11"
        x="292.5"
-       y="206.5"
+       y="181.50618"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -147,7 +147,7 @@
        width="270"
        height="70.021828"
        x="289.5"
-       y="287.5"
+       y="302.5062"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -157,7 +157,7 @@
        width="11"
        height="11"
        x="292.5"
-       y="290.5"
+       y="305.5062"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -167,7 +167,7 @@
        width="270"
        height="79"
        x="289.5"
-       y="362.5"
+       y="377.5062"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -177,7 +177,7 @@
        width="11"
        height="11"
        x="292.5"
-       y="365.5"
+       y="380.5062"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -185,7 +185,7 @@
        xml:space="preserve"
        id="flowRoot6027-0"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(269.34375,118.93648)"
+       transform="translate(269.34375,93.942666)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -203,7 +203,7 @@
        xml:space="preserve"
        id="flowRoot6027-0-8"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(269.34375,204.93648)"
+       transform="translate(269.34375,219.94267)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -221,7 +221,7 @@
        xml:space="preserve"
        id="flowRoot6027-0-8-8"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(269.34375,280.64937)"
+       transform="translate(269.34375,295.65556)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -239,7 +239,7 @@
        xml:space="preserve"
        id="flowRoot6027-0-3"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(185.48438,118.43746)"
+       transform="translate(185.48438,93.443646)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -257,7 +257,7 @@
        xml:space="preserve"
        id="flowRoot6027-0-3-6"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(185.48438,202.43746)"
+       transform="translate(185.48438,217.44365)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -275,7 +275,7 @@
        xml:space="preserve"
        id="flowRoot6027-0-3-6-5"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(185.48438,277.43746)"
+       transform="translate(185.48438,292.44365)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -293,7 +293,7 @@
        xml:space="preserve"
        id="flowRoot6027-0-3-6-5-6"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(185.48438,293.43746)"
+       transform="translate(185.48438,308.44365)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -315,7 +315,7 @@
        width="63.88625"
        height="18"
        x="351.5"
-       y="380.5"
+       y="395.5062"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -325,13 +325,13 @@
        width="63.88625"
        height="18"
        x="351.5"
-       y="403.5"
+       y="418.5062"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 402.4626,387.13654 4.02757,6.56618 4.02756,-6.56618 -8.05513,0 z"
+       d="m 402.4626,402.14273 4.02757,6.56618 4.02756,-6.56618 -8.05513,0 z"
        id="rect6438"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
@@ -339,7 +339,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 402.4626,409.13654 4.02757,6.56618 4.02756,-6.56618 -8.05513,0 z"
+       d="m 402.4626,424.14273 4.02757,6.56618 4.02756,-6.56618 -8.05513,0 z"
        id="rect6438-9"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
@@ -347,7 +347,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#3465a4;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 295.0026,369.96443 3.27264,3.74637 8.03282,-9.19562"
+       d="m 295.0026,384.97062 3.27264,3.74637 8.03282,-9.19562"
        id="path7229"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
@@ -355,7 +355,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#3465a4;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 295.0026,294.96443 3.27264,3.74637 8.03282,-9.19562"
+       d="m 295.0026,309.97062 3.27264,3.74637 8.03282,-9.19562"
        id="path7229-4"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
@@ -363,7 +363,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#3465a4;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 295.0026,210.96443 3.27264,3.74637 8.03282,-9.19562"
+       d="m 295.0026,185.97062 3.27264,3.74637 8.03282,-9.19562"
        id="path7229-4-3"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
@@ -373,7 +373,7 @@
        xml:space="preserve"
        id="flowRoot6027-0-3-6-5-6-4"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(182.98438,223.43746)"
+       transform="translate(182.98438,238.44365)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -395,7 +395,7 @@
        width="122"
        height="18"
        x="431.5"
-       y="332.5"
+       y="347.5062"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -405,13 +405,13 @@
        width="63.88625"
        height="18"
        x="431.61374"
-       y="309.5"
+       y="324.5062"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 482.57636,316.13654 4.02757,6.56618 4.02756,-6.56618 -8.05513,0 z"
+       d="m 482.57636,331.14273 4.02757,6.56618 4.02756,-6.56618 -8.05513,0 z"
        id="rect6438-0"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
@@ -421,7 +421,7 @@
        xml:space="preserve"
        id="flowRoot6027-0-3-8"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(185.48438,144.43746)"
+       transform="translate(185.48438,119.44365)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -443,7 +443,7 @@
        width="63.88625"
        height="18"
        x="379.5"
-       y="228.5"
+       y="203.50618"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -453,13 +453,13 @@
        width="63.88625"
        height="18"
        x="379.5"
-       y="251.49998"
+       y="226.50616"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 430.4626,235.13654 4.02757,6.56618 4.02756,-6.56618 -8.05513,0 z"
+       d="m 430.4626,210.14273 4.02757,6.56618 4.02756,-6.56618 -8.05513,0 z"
        id="rect6438-7"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
@@ -467,7 +467,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 430.4626,257.13654 4.02757,6.56618 4.02756,-6.56618 -8.05513,0 z"
+       d="m 430.4626,232.14273 4.02757,6.56618 4.02756,-6.56618 -8.05513,0 z"
        id="rect6438-9-3"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
@@ -475,7 +475,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#babdb6;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 4;stroke-dashoffset:0"
-       d="m 450,238 249.5,0"
+       d="m 450,213.00619 249.5,0"
        id="path7397"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
@@ -483,7 +483,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#babdb6;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 4;stroke-dashoffset:0"
-       d="m 450.5,262.5 249.5,0"
+       d="m 450.5,237.50619 249.5,0"
        id="path7399"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
@@ -491,7 +491,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#babdb6;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 4;stroke-dashoffset:0"
-       d="M 500.5,320 697,320"
+       d="m 500.5,335.00619 196.5,0"
        id="path7401"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
@@ -499,7 +499,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#babdb6;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 4;stroke-dashoffset:0"
-       d="m 557,342.5 142.5,0"
+       d="m 557,357.50619 142.5,0"
        id="path7403"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
@@ -507,7 +507,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#babdb6;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 4;stroke-dashoffset:0"
-       d="m 420.5,390.5 276,0"
+       d="m 420.5,405.50619 276,0"
        id="path7405"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
@@ -515,7 +515,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#babdb6;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 4;stroke-dashoffset:0"
-       d="M 421.5,414 699,414"
+       d="m 421.5,429.00619 277.5,0"
        id="path7407"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
@@ -549,7 +549,7 @@
        xml:space="preserve"
        id="flowRoot6027-0-3-8-5-8"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(578.02777,144.17435)"
+       transform="translate(578.02777,119.18054)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -565,7 +565,7 @@
        xml:space="preserve"
        id="flowRoot6027-0-3-8-5-8-1"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(578.02777,164.17435)"
+       transform="translate(578.02777,139.18054)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -581,7 +581,7 @@
        xml:space="preserve"
        id="flowRoot6027-0-3-8-5-8-1-7"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(578.02777,224.17435)"
+       transform="translate(578.02777,239.18054)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -597,7 +597,7 @@
        xml:space="preserve"
        id="flowRoot6027-0-3-8-5-8-1-7-5"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(578.02777,246.17435)"
+       transform="translate(578.02777,261.18054)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -613,7 +613,7 @@
        xml:space="preserve"
        id="flowRoot6027-0-3-8-5-8-1-7-5-6"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(587.92726,291.93171)"
+       transform="translate(587.92726,306.9379)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -629,7 +629,7 @@
        xml:space="preserve"
        id="flowRoot6027-0-3-8-5-8-1-7-5-6-5"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(578.02777,320.17435)"
+       transform="translate(578.02777,335.18054)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -645,7 +645,7 @@
        xml:space="preserve"
        id="flowRoot6027-5"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-1.6562544,384.81929)"
+       transform="translate(-1.6562544,399.82548)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -663,13 +663,13 @@
        width="51"
        height="18"
        x="508.5"
-       y="448.53809"
+       y="463.54428"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 290.5,457.5 205,0"
+       d="m 290.5,472.50619 205,0"
        id="path7693"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
@@ -687,12 +687,12 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="translate(0,25)" />
+       transform="translate(0,40.006186)" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot6027-0-8-8-7"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(407.20189,363.68746)"
+       transform="translate(407.20189,378.69365)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -710,7 +710,7 @@
        xml:space="preserve"
        id="flowRoot6027-0-8-8-2"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(271.84375,395.64937)"
+       transform="translate(271.84375,410.65556)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -730,7 +730,7 @@
        width="97.842094"
        height="21.5"
        x="461.65784"
-       y="508.53809"
+       y="523.54425"
        rx="3.8890872"
        ry="3.8890872"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
@@ -740,7 +740,7 @@
        xml:space="preserve"
        id="flowRoot6027-0-8-8-2-3"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(363.7321,425.41714)"
+       transform="translate(363.7321,440.42333)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -769,32 +769,16 @@
        id="rect6146-2"
        width="11"
        height="11"
-       x="292.5"
-       y="182.52943"
+       x="300.5"
+       y="258.5062"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
        xml:space="preserve"
-       id="flowRoot6027-1"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-1.6562469,93.455331)"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><flowRegion
-         id="flowRegion6029-88"><rect
-           id="rect6031-8"
-           width="161.5739"
-           height="29.344921"
-           x="123.03658"
-           y="79.9851"
-           style="fill:#555753" /></flowRegion><flowPara
-         style="font-size:12px;text-align:end;line-height:189.99999762%;text-anchor:end;fill:#555753"
-         id="flowPara6041-3">Sponsorship</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
        id="flowRoot6027-0-3-4"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(185.48438,94.43746)"
+       transform="matrix(0.9321979,0,0,0.9321979,201.90601,176.45292)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
