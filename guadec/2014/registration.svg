@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="458.52281"
-     inkscape:cy="420.92796"
+     inkscape:zoom="2"
+     inkscape:cx="608.96679"
+     inkscape:cy="581.94636"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
@@ -112,9 +112,9 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6045-9-8"
-       width="94.5"
+       width="270"
        height="18"
        x="289.5"
        y="155.52943"
@@ -522,16 +522,8 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 367.94487,161.02944 4.02757,6.56618 4.02756,-6.56618 -8.05513,0 z"
-       id="rect6438-7-8"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
        style="fill:none;stroke:#babdb6;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 4;stroke-dashoffset:0"
-       d="m 390.11978,164.02944 309.26049,0"
+       d="m 565.33696,164.02944 134.32614,0"
        id="path7397-9"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2014/registration.png"
@@ -553,7 +545,7 @@
            y="79.9851"
            style="text-align:start;text-anchor:start;fill:#555753" /></flowRegion><flowPara
          style="font-size:12px;text-align:start;line-height:189.99999762%;text-anchor:start;fill:#555753"
-         id="flowPara6041-5-8-2-5">Male/Female/Other</flowPara></flowRoot>    <flowRoot
+         id="flowPara6041-5-8-2-5">freeform</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6027-0-3-8-5-8"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
