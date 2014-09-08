@@ -10,7 +10,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="6500"
+   width="5500"
    height="2400"
    id="svg2"
    version="1.1"
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="2360.3982"
-     inkscape:cy="1575.9031"
+     inkscape:zoom="0.5"
+     inkscape:cx="749.7565"
+     inkscape:cy="1699.864"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1531,7 +1531,7 @@
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
          id="flowPara5107">Welcome</flowPara></flowRoot>    <g
        style="fill:#2e3436"
-       transform="translate(222.9789,-332.66968)"
+       transform="translate(222.9789,-300.66968)"
        id="g7594">
       <g
          inkscape:label="status"
@@ -1672,16 +1672,16 @@
        xml:space="preserve"
        id="flowRoot7650"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#3465a4;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans"
-       transform="translate(889.2236,-960.51537)"><flowRegion
+       transform="translate(92,-708.19343)"><flowRegion
          id="flowRegion7652"><rect
            id="rect7654"
            width="202.30643"
            height="179.01538"
            x="37.101448"
            y="139.21223"
-           style="font-weight:normal;line-height:200%;fill:#3465a4;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
+           style="font-size:14px;font-weight:normal;line-height:200%;fill:#3465a4;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara7656"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:200%;fill:#3465a4;font-family:Open Sans;-inkscape-font-specification:Open Sans">View All</flowPara></flowRoot>    <rect
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:200%;fill:#3465a4;font-family:Open Sans;-inkscape-font-specification:Open Sans">View All</flowPara></flowRoot>    <rect
        y="-639.13782"
        x="416.5"
        height="55"
@@ -1797,7 +1797,7 @@
        xml:space="preserve"
        id="flowRoot7774"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans Bold"
-       transform="translate(92,-702.51537)"><flowRegion
+       transform="translate(92,-670.51537)"><flowRegion
          id="flowRegion7776"><rect
            id="rect7778"
            width="202.30643"
@@ -1812,9 +1812,9 @@
        width="200"
        height="200"
        x="126.5"
-       y="-508.13782" />
+       y="-476.13782" />
     <rect
-       y="-508.13782"
+       y="-476.13782"
        x="779.5"
        height="200"
        width="200"
@@ -1826,32 +1826,19 @@
        width="200"
        height="200"
        x="561.5"
-       y="-508.13782" />
+       y="-476.13782" />
     <rect
-       y="-508.13782"
+       y="-476.13782"
        x="344.5"
        height="200"
        width="200"
        id="rect7788"
        style="color:#000000;fill:none;stroke:#babdb6;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <flowRoot
-       transform="translate(889.2236,-683.67851)"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#3465a4;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans"
-       id="flowRoot7790"
-       xml:space="preserve"><flowRegion
-         id="flowRegion7792"><rect
-           style="font-weight:normal;line-height:200%;fill:#3465a4;-inkscape-font-specification:Open Sans"
-           y="139.21223"
-           x="37.101448"
-           height="179.01538"
-           width="202.30643"
-           id="rect7794" /></flowRegion><flowPara
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:200%;fill:#3465a4;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         id="flowPara7796">View All</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot7798"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans"
-       transform="translate(53.5332,-475.51242)"><flowRegion
+       transform="translate(53.5332,-443.51242)"><flowRegion
          id="flowRegion7800"><rect
            id="rect7802"
            width="271.30643"
@@ -1861,7 +1848,7 @@
            style="font-weight:normal;text-align:center;text-anchor:middle;fill:#2e3436;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara7804"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans">Guitar Tuner</flowPara></flowRoot>    <flowRoot
-       transform="translate(271.1998,-475.51242)"
+       transform="translate(271.1998,-443.51242)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans"
        id="flowRoot7806"
        xml:space="preserve"><flowRegion
@@ -1877,7 +1864,7 @@
        xml:space="preserve"
        id="flowRoot7814"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans"
-       transform="translate(489.0012,-475.51242)"><flowRegion
+       transform="translate(489.0012,-443.51242)"><flowRegion
          id="flowRegion7816"><rect
            id="rect7818"
            width="271.30643"
@@ -1887,7 +1874,7 @@
            style="font-weight:normal;text-align:center;text-anchor:middle;fill:#2e3436;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara7820"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans">Image Viewer</flowPara></flowRoot>    <flowRoot
-       transform="translate(706.668,-475.51242)"
+       transform="translate(706.668,-443.51242)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans"
        id="flowRoot7822"
        xml:space="preserve"><flowRegion
@@ -2673,16 +2660,16 @@
        width="981.00018"
        height="1079"
        x="2218.5"
-       y="-1267.1378" />
+       y="-2567.1377" />
     <rect
-       y="-1267.1378"
+       y="-2567.1377"
        x="2218.5"
        height="37"
        width="981"
        id="rect4889"
        style="color:#000000;fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:#729fcf;stroke-width:0.99999988;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <flowRoot
-       transform="translate(2268,-1395.1296)"
+       transform="translate(2268,-2695.1296)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans Bold"
        id="flowRoot4891"
        xml:space="preserve"><flowRegion
@@ -2696,7 +2683,7 @@
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
          id="flowPara4898">GNOME Developer Center</flowPara></flowRoot>    <g
        style="fill:#ffffff;fill-opacity:1"
-       transform="translate(3122.9789,-1256.6697)"
+       transform="translate(3122.9789,-2556.6697)"
        id="g4900">
       <g
          inkscape:label="status"
@@ -2754,7 +2741,7 @@
        xml:space="preserve"
        id="flowRoot4984"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fbfbfa;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans"
-       transform="translate(2464,-1395.1296)"><flowRegion
+       transform="translate(2464,-2695.1296)"><flowRegion
          id="flowRegion4986"><rect
            id="rect4988"
            width="164.30641"
@@ -2764,7 +2751,7 @@
            style="font-weight:normal;fill:#fbfbfa;fill-opacity:1;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara4990"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#fbfbfa;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans">Guides</flowPara></flowRoot>    <flowRoot
-       transform="translate(2526,-1395.1296)"
+       transform="translate(2526,-2695.1296)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans Bold"
        id="flowRoot4992"
        xml:space="preserve"><flowRegion
@@ -2780,7 +2767,7 @@
        xml:space="preserve"
        id="flowRoot5000"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans"
-       transform="translate(2586,-1395.1296)"><flowRegion
+       transform="translate(2586,-2695.1296)"><flowRegion
          id="flowRegion5002"><rect
            id="rect5004"
            width="164.30641"
@@ -2790,7 +2777,7 @@
            style="font-weight:normal;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara5006"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans">Design</flowPara></flowRoot>    <flowRoot
-       transform="translate(2646,-1395.1296)"
+       transform="translate(2646,-2695.1296)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans"
        id="flowRoot5008"
        xml:space="preserve"><flowRegion
@@ -2803,7 +2790,7 @@
            id="rect5013" /></flowRegion><flowPara
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          id="flowPara5015">Reference</flowPara></flowRoot>    <g
-       transform="matrix(0.16911889,0,0,0.16911889,2286.0004,-1258.6378)"
+       transform="matrix(0.16911889,0,0,0.16911889,2286.0004,-2558.6378)"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="g5017">
       <g
@@ -2840,7 +2827,7 @@
        xml:space="preserve"
        id="flowRoot5031"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans Bold"
-       transform="translate(2252,-1332.5154)"><flowRegion
+       transform="translate(2252,-2632.5154)"><flowRegion
          id="flowRegion5033"><rect
            id="rect5035"
            width="423.30643"
@@ -2850,7 +2837,7 @@
            style="font-size:48px;font-weight:bold;line-height:200%;fill:#2e3436;-inkscape-font-specification:Open Sans Bold" /></flowRegion><flowPara
          id="flowPara5037"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans Light">Demos</flowPara></flowRoot>    <rect
-       y="-1077.1378"
+       y="-2377.1377"
        x="2286.5"
        height="250"
        width="418"
@@ -2862,16 +2849,16 @@
        width="418"
        height="250"
        x="2721.5"
-       y="-1077.1378" />
+       y="-2377.1377" />
     <rect
        style="color:#000000;fill:none;stroke:#babdb6;stroke-width:0.99999988;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect5122"
        width="418"
        height="250"
        x="2286.5"
-       y="-809.13782" />
+       y="-2109.1377" />
     <rect
-       y="-809.13782"
+       y="-2109.1377"
        x="2721.5"
        height="250"
        width="418"
@@ -5296,7 +5283,7 @@
        y="-701.13782" />
     <rect
        y="-1267.1378"
-       x="3298.5"
+       x="2218.5"
        height="1079"
        width="981.00018"
        id="rect14282"
@@ -5306,13 +5293,13 @@
        id="rect14284"
        width="981"
        height="37"
-       x="3298.5"
+       x="2218.5"
        y="-1267.1378" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot14286"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans Bold"
-       transform="translate(3348,-1395.1296)"><flowRegion
+       transform="translate(2268,-1395.1296)"><flowRegion
          id="flowRegion14288"><rect
            id="rect14290"
            width="164.30641"
@@ -5323,7 +5310,7 @@
          id="flowPara14292"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold">GNOME Developer Center</flowPara></flowRoot>    <g
        id="g14294"
-       transform="translate(4202.9789,-1256.6697)"
+       transform="translate(3122.9789,-1256.6697)"
        style="fill:#ffffff;fill-opacity:1">
       <g
          style="fill:#ffffff;fill-opacity:1;display:inline"
@@ -5378,7 +5365,7 @@
          inkscape:label="categories" />
     </g>
     <flowRoot
-       transform="translate(3544,-1395.1296)"
+       transform="translate(2464,-1395.1296)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans"
        id="flowRoot14316"
        xml:space="preserve"><flowRegion
@@ -5394,7 +5381,7 @@
        xml:space="preserve"
        id="flowRoot14324"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans"
-       transform="translate(3606,-1395.1296)"><flowRegion
+       transform="translate(2526,-1395.1296)"><flowRegion
          id="flowRegion14326"><rect
            id="rect14328"
            width="164.30641"
@@ -5404,7 +5391,7 @@
            style="font-weight:normal;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara14330"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans">Demos</flowPara></flowRoot>    <flowRoot
-       transform="translate(3666,-1395.1296)"
+       transform="translate(2586,-1395.1296)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans"
        id="flowRoot14332"
        xml:space="preserve"><flowRegion
@@ -5420,7 +5407,7 @@
        xml:space="preserve"
        id="flowRoot14340"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fce94f;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans"
-       transform="translate(3726,-1395.1296)"><flowRegion
+       transform="translate(2646,-1395.1296)"><flowRegion
          id="flowRegion14342"><rect
            id="rect14344"
            width="164.30641"
@@ -5432,7 +5419,7 @@
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#fce94f;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans">Reference</flowPara></flowRoot>    <g
        id="g14348"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       transform="matrix(0.16911889,0,0,0.16911889,3366.0004,-1258.6378)">
+       transform="matrix(0.16911889,0,0,0.16911889,2286.0004,-1258.6378)">
       <g
          id="g14350"
          style="fill:#ffffff;fill-opacity:1">
@@ -5464,7 +5451,7 @@
       </g>
     </g>
     <flowRoot
-       transform="translate(3344,-1292.6296)"
+       transform="translate(2264,-1292.6296)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans Bold"
        id="flowRoot14394"
        xml:space="preserve"><flowRegion
@@ -5477,7 +5464,7 @@
            id="rect14398" /></flowRegion><flowPara
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#888a85;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
          id="flowPara14400">Essentials</flowPara></flowRoot>    <flowRoot
-       transform="translate(3344,-1267.6884)"
+       transform="translate(2264,-1267.6884)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans Bold"
        id="flowRoot14402"
        xml:space="preserve"><flowRegion
@@ -5493,7 +5480,7 @@
        xml:space="preserve"
        id="flowRoot14410"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans Bold"
-       transform="translate(3344,-1242.7472)"><flowRegion
+       transform="translate(2264,-1242.7472)"><flowRegion
          id="flowRegion14412"><rect
            id="rect14414"
            width="271.30643"
@@ -5503,7 +5490,7 @@
            style="font-weight:bold;fill:#888a85;-inkscape-font-specification:Open Sans Bold" /></flowRegion><flowPara
          id="flowPara14416"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#888a85;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold">UI Elements</flowPara></flowRoot>    <flowRoot
-       transform="translate(3552,-1332.5154)"
+       transform="translate(2472,-1332.5154)"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans Bold"
        id="flowRoot5206"
        xml:space="preserve"><flowRegion
@@ -5519,7 +5506,7 @@
        xml:space="preserve"
        id="flowRoot5222"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="translate(-1196.9063,-25.637817)"><flowRegion
+       transform="translate(-2276.9063,-25.637817)"><flowRegion
          id="flowRegion5224"><rect
            id="rect5226"
            width="554.21625"
@@ -5529,7 +5516,7 @@
            style="fill:#2e3436" /></flowRegion><flowPara
          id="flowPara5252"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans">The GNOME Human Interface Guidelines contain guidance on how to design an effective application using GTK+. The guidelines give access to a complete set of design guidance, from high-level design of your application, through to specific arrangements of user interface elements. It incorporates a blend of modern design thinking, along with a concern for practicality and ease of use.</flowPara></flowRoot>    <flowRoot
-       transform="translate(-1196.9063,92.36218)"
+       transform="translate(-2276.9063,92.36218)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans Bold"
        id="flowRoot5274"
        xml:space="preserve"><flowRegion
@@ -5542,7 +5529,7 @@
            id="rect5278" /></flowRegion><flowPara
          style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
          id="flowPara5324">Audience</flowPara></flowRoot>    <flowRoot
-       transform="translate(-1196.9063,134.3622)"
+       transform="translate(-2276.9063,134.3622)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot5887"
        xml:space="preserve"><flowRegion
@@ -5555,7 +5542,7 @@
            id="rect5891" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          id="flowPara5937">If you are a developer with limited design experience, the HIG is intended to assist you in easily creating an effective user interface. For designers, the HIG provides an introduction to the possibilities in using GTK+, as well as common design patterns that are used in GNOME applications.</flowPara></flowRoot>    <flowRoot
-       transform="translate(-1196.9063,220.3622)"
+       transform="translate(-2276.9063,220.3622)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot6137"
        xml:space="preserve"><flowRegion
@@ -5568,7 +5555,7 @@
            id="rect6141" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          id="flowPara6187">GTK+ is a flexible user interface toolkit. As such, these guidelines do not cover every possible design. Instead, they document recommended practices for creating desktop applications.</flowPara></flowRoot>    <flowRoot
-       transform="translate(-1196.9063,286.3622)"
+       transform="translate(-2276.9063,286.3622)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot6368"
        xml:space="preserve"><flowRegion
@@ -5581,7 +5568,7 @@
            id="rect6372" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          id="flowPara6418">Similarly, while the HIG does provide guidance on GNOME 3 integration, and can be used to ensure consistency with other GNOME 3 applications, it can be used as a resource for those creating cross-platform applications, or applications which do not closely follow GNOME 3 application design practices.</flowPara></flowRoot>    <flowRoot
-       transform="translate(-1196.9063,386.3622)"
+       transform="translate(-2276.9063,386.3622)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans Bold"
        id="flowRoot6563"
        xml:space="preserve"><flowRegion
@@ -5596,7 +5583,7 @@
          id="flowPara6589">Structure of the HIG</flowPara><flowPara
          style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
          id="flowPara6613" /></flowRoot>    <flowRoot
-       transform="translate(-1196.9063,428.3622)"
+       transform="translate(-2276.9063,428.3622)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot6757"
        xml:space="preserve"><flowRegion
@@ -5612,7 +5599,7 @@
        xml:space="preserve"
        id="flowRoot6878"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="translate(-1196.9063,686.3622)"><flowRegion
+       transform="translate(-2276.9063,686.3622)"><flowRegion
          id="flowRegion6880"><rect
            id="rect6882"
            width="555.63043"
@@ -5624,7 +5611,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans">If you have never read the Human Interface Guidelines before, it is recommended that you start with the essentials section, in particular the design principles page, before continuing to learn about the design patterns.</flowPara><flowPara
          id="flowPara6904"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRoot>    <flowRoot
-       transform="translate(-1196.9063,492.3622)"
+       transform="translate(-2276.9063,492.3622)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot6947"
        xml:space="preserve"><flowRegion
@@ -5639,7 +5626,7 @@
          id="flowPara6957">Essentials - these pages include overarching guidance on thematic topics. They include sections on recommended design principles, as well as guidance on themes like writing style and artwork.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          id="flowPara6973" /></flowRoot>    <flowRoot
-       transform="translate(-1196.9063,556.3622)"
+       transform="translate(-2276.9063,556.3622)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot7014"
        xml:space="preserve"><flowRegion
@@ -5654,7 +5641,7 @@
          id="flowPara7028">Patterns - design patterns make up the core of the HIG. Each pattern is a particular arrangement of user interface elements which can be used to construct an application design. The patterns allow key design decisions to be abstracted away from the nitty gritty of individual user interface elements.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          id="flowPara7040" /></flowRoot>    <flowRoot
-       transform="translate(-1196.9063,638.3622)"
+       transform="translate(-2276.9063,638.3622)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot7071"
        xml:space="preserve"><flowRegion
@@ -5670,7 +5657,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          id="flowPara7097" /></flowRoot>    <rect
        y="-139.13782"
-       x="4378.5"
+       x="3298.5"
        height="1079"
        width="981.00018"
        id="rect14664"
@@ -5680,13 +5667,13 @@
        id="rect14666"
        width="981"
        height="37"
-       x="4378.5"
+       x="3298.5"
        y="-139.13782" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot14668"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans Bold"
-       transform="translate(4428,-267.1296)"><flowRegion
+       transform="translate(3348,-267.1296)"><flowRegion
          id="flowRegion14670"><rect
            id="rect14672"
            width="164.30641"
@@ -5697,7 +5684,7 @@
          id="flowPara14674"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold">GNOME Developer Center</flowPara></flowRoot>    <g
        id="g14676"
-       transform="translate(5282.9789,-128.6697)"
+       transform="translate(4202.9789,-128.6697)"
        style="fill:#ffffff;fill-opacity:1">
       <g
          style="fill:#ffffff;fill-opacity:1;display:inline"
@@ -5752,7 +5739,7 @@
          inkscape:label="categories" />
     </g>
     <flowRoot
-       transform="translate(4624,-267.1296)"
+       transform="translate(3544,-267.1296)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans"
        id="flowRoot14698"
        xml:space="preserve"><flowRegion
@@ -5768,7 +5755,7 @@
        xml:space="preserve"
        id="flowRoot14706"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans"
-       transform="translate(4686,-267.1296)"><flowRegion
+       transform="translate(3606,-267.1296)"><flowRegion
          id="flowRegion14708"><rect
            id="rect14710"
            width="164.30641"
@@ -5778,7 +5765,7 @@
            style="font-weight:normal;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara14712"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans">Demos</flowPara></flowRoot>    <flowRoot
-       transform="translate(4746,-267.1296)"
+       transform="translate(3666,-267.1296)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans"
        id="flowRoot14714"
        xml:space="preserve"><flowRegion
@@ -5794,7 +5781,7 @@
        xml:space="preserve"
        id="flowRoot14722"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans Bold"
-       transform="translate(4806,-267.1296)"><flowRegion
+       transform="translate(3726,-267.1296)"><flowRegion
          id="flowRegion14724"><rect
            id="rect14726"
            width="164.30641"
@@ -5806,7 +5793,7 @@
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold">Reference</flowPara></flowRoot>    <g
        id="g14730"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       transform="matrix(0.16911889,0,0,0.16911889,4446.0004,-130.6378)">
+       transform="matrix(0.16911889,0,0,0.16911889,3366.0004,-130.6378)">
       <g
          id="g14732"
          style="fill:#ffffff;fill-opacity:1">
@@ -5838,7 +5825,7 @@
       </g>
     </g>
     <flowRoot
-       transform="translate(-114.9062,1096.3622)"
+       transform="translate(-1194.9062,1096.3622)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot14744"
        xml:space="preserve"><flowRegion
@@ -5854,7 +5841,7 @@
        xml:space="preserve"
        id="flowRoot14752"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans Bold"
-       transform="translate(-114.9062,1192.3622)"><flowRegion
+       transform="translate(-1194.9062,1192.3622)"><flowRegion
          id="flowRegion14754"><rect
            id="rect14756"
            width="742.30664"
@@ -5867,7 +5854,7 @@
        xml:space="preserve"
        id="flowRoot14760"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="translate(-114.9062,1234.3622)"><flowRegion
+       transform="translate(-1194.9062,1234.3622)"><flowRegion
          id="flowRegion14762"><rect
            id="rect14764"
            width="555.63043"
@@ -5880,7 +5867,7 @@
        xml:space="preserve"
        id="flowRoot14768"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans Bold"
-       transform="translate(4632,-216.5154)"><flowRegion
+       transform="translate(3552,-216.5154)"><flowRegion
          id="flowRegion14770"><rect
            id="rect14772"
            width="699.07806"
@@ -5890,7 +5877,7 @@
            style="font-size:48px;font-weight:bold;line-height:200%;fill:#2e3436;-inkscape-font-specification:Open Sans Bold" /></flowRegion><flowPara
          id="flowPara14774"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans Light">Getting Started with GTK+</flowPara></flowRoot>    <flowRoot
-       transform="translate(4424,-136.6296)"
+       transform="translate(3344,-136.6296)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans Bold"
        id="flowRoot14776"
        xml:space="preserve"><flowRegion
@@ -5903,7 +5890,7 @@
            id="rect14780" /></flowRegion><flowPara
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#888a85;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
          id="flowPara14782">GTK+ Overview</flowPara></flowRoot>    <flowRoot
-       transform="translate(4424,-111.6884)"
+       transform="translate(3344,-111.6884)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#729fcf;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans Bold"
        id="flowRoot14784"
        xml:space="preserve"><flowRegion
@@ -5919,7 +5906,7 @@
        xml:space="preserve"
        id="flowRoot14792"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans"
-       transform="translate(4424,-86.7472)"><flowRegion
+       transform="translate(3344,-86.7472)"><flowRegion
          id="flowRegion14794"><rect
            id="rect14796"
            width="271.30643"
@@ -5929,7 +5916,7 @@
            style="font-weight:normal;fill:#2e3436;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara14798"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans">Basics</flowPara></flowRoot>    <flowRoot
-       transform="translate(4424,-61.8061)"
+       transform="translate(3344,-61.8061)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans"
        id="flowRoot14800"
        xml:space="preserve"><flowRegion
@@ -5945,7 +5932,7 @@
        xml:space="preserve"
        id="flowRoot14808"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans"
-       transform="translate(4424,-36.8649)"><flowRegion
+       transform="translate(3344,-36.8649)"><flowRegion
          id="flowRegion14810"><rect
            id="rect14812"
            width="271.30643"
@@ -5955,7 +5942,7 @@
            style="font-weight:normal;fill:#2e3436;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara14814"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans">Drawing</flowPara></flowRoot>    <flowRoot
-       transform="translate(4424,-11.9237)"
+       transform="translate(3344,-11.9237)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans"
        id="flowRoot14816"
        xml:space="preserve"><flowRegion
@@ -5969,7 +5956,7 @@
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          id="flowPara14822">Building user interfaces</flowPara></flowRoot>    <g
        style="fill:#888a85;fill-opacity:1"
-       transform="matrix(0,1,-1,0,4452.9759,27.3459)"
+       transform="matrix(0,1,-1,0,3372.9759,27.3459)"
        id="g14824">
       <g
          id="g14826"
@@ -6046,7 +6033,7 @@
     <g
        style="fill:#888a85;fill-opacity:1"
        id="g14850"
-       transform="matrix(0,1,-1,0,4452.9759,2.3459)">
+       transform="matrix(0,1,-1,0,3372.9759,2.3459)">
       <g
          transform="translate(-181.0002,-747)"
          style="fill:#888a85;fill-opacity:1;display:inline"
@@ -6120,7 +6107,7 @@
       </g>
     </g>
     <flowRoot
-       transform="translate(4424,-174.0974)"
+       transform="translate(3344,-174.0974)"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans Bold"
        id="flowRoot14876"
        xml:space="preserve"><flowRegion
@@ -6137,13 +6124,13 @@
        id="rect14884"
        width="201"
        height="39"
-       x="4438.5"
+       x="3358.5"
        y="812.86218" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot14886"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans"
-       transform="translate(4416,685.9026)"><flowRegion
+       transform="translate(3336,685.9026)"><flowRegion
          id="flowRegion14888"><rect
            id="rect14890"
            width="271.30643"
@@ -6154,7 +6141,7 @@
          id="flowPara14892"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans">C</flowPara></flowRoot>    <g
        style="fill:#2e3436"
-       transform="matrix(-1,0,0,-1,4623,840.4247)"
+       transform="matrix(-1,0,0,-1,3543,840.4247)"
        id="g14894">
       <g
          id="g14896"
@@ -6210,7 +6197,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0,1,-1,0,4452.9759,-32.6541)"
+       transform="matrix(0,1,-1,0,3372.9759,-32.6541)"
        id="g14916"
        style="fill:#2e3436;fill-opacity:1">
       <g
@@ -6287,13 +6274,13 @@
     </g>
     <rect
        y="866.86218"
-       x="4438.5"
+       x="3358.5"
        height="39"
        width="201"
        id="rect14942"
        style="color:#000000;fill:none;stroke:#babdb6;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <flowRoot
-       transform="translate(4416,739.9026)"
+       transform="translate(3336,739.9026)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans"
        id="flowRoot14944"
        xml:space="preserve"><flowRegion
@@ -6307,7 +6294,7 @@
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          id="flowPara14950">3.12</flowPara></flowRoot>    <g
        id="g14952"
-       transform="matrix(-1,0,0,-1,4623,894.4247)"
+       transform="matrix(-1,0,0,-1,3543,894.4247)"
        style="fill:#2e3436">
       <g
          transform="translate(-321.0002,-807.00001)"
@@ -6363,7 +6350,7 @@
       </g>
     </g>
     <flowRoot
-       transform="translate(-114.9062,1286.3622)"
+       transform="translate(-1194.9062,1286.3622)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot14974"
        xml:space="preserve"><flowRegion
@@ -6378,69 +6365,15 @@
          id="flowPara14980">To begin our introduction to GTK, we'll start with the simplest program possible. This program will create an empty 200 × 200 pixel window.</flowPara></flowRoot>    <image
        width="202"
        height="233"
-       xlink:href="data:image/png;base64,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
-AABJRU5ErkJggg==
-"
+       xlink:href="data:image/png;base64,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 AABJRU5ErkJggg== "
        id="image14982"
-       x="4671"
+       x="3591"
        y="295.36218" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot14984"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="translate(-114.9062,1610.3622)"><flowRegion
+       transform="translate(-1194.9062,1610.3622)"><flowRegion
          id="flowRegion14986"><rect
            id="rect14988"
            width="555.63043"
@@ -6451,17 +6384,17 @@ AABJRU5ErkJggg==
          id="flowPara14990"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans">Create a new file with the following content named example-0.c.</flowPara><flowPara
          id="flowPara14992"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans"></flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans" /><flowPara
          id="flowPara14994"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRoot>    <rect
        y="590.86218"
-       x="4671.499"
+       x="3591.499"
        height="329.00003"
        width="569"
        id="rect14996"
        style="color:#000000;fill:#fafafa;fill-opacity:1;stroke:#eeeeec;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <flowRoot
-       transform="translate(-104.9062,1652.3622)"
+       transform="translate(-1184.9062,1652.3622)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot14998"
        xml:space="preserve"><flowRegion
@@ -6518,17 +6451,17 @@ AABJRU5ErkJggg==
        id="rect15046"
        width="981.00018"
        height="1079"
-       x="4378.5"
+       x="3298.5"
        y="-1267.1378" />
     <rect
        y="-1267.1378"
-       x="4378.5"
+       x="3298.5"
        height="37"
        width="981"
        id="rect15048"
        style="color:#000000;fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:#729fcf;stroke-width:0.99999988;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <flowRoot
-       transform="translate(4428,-1395.1296)"
+       transform="translate(3348,-1395.1296)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans Bold"
        id="flowRoot15050"
        xml:space="preserve"><flowRegion
@@ -6542,7 +6475,7 @@ AABJRU5ErkJggg==
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
          id="flowPara15056">GNOME Developer Center</flowPara></flowRoot>    <g
        style="fill:#ffffff;fill-opacity:1"
-       transform="translate(5282.9789,-1256.6697)"
+       transform="translate(4202.9789,-1256.6697)"
        id="g15058">
       <g
          inkscape:label="status"
@@ -6601,17 +6534,17 @@ AABJRU5ErkJggg==
        id="rect15080"
        width="273"
        height="130.99994"
-       x="4736.5"
+       x="3656.5"
        y="-1037.1378" />
     <rect
        y="-1037.1378"
-       x="5026.5"
+       x="3946.5"
        height="130.99994"
        width="273"
        id="rect15084"
        style="color:#000000;fill:none;stroke:#babdb6;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <flowRoot
-       transform="translate(4424,-1162.3374)"
+       transform="translate(3344,-1162.3374)"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot15086"
        xml:space="preserve"><flowRegion
@@ -6627,7 +6560,7 @@ AABJRU5ErkJggg==
        xml:space="preserve"
        id="flowRoot15094"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="translate(4424,-1134.3374)"><flowRegion
+       transform="translate(3344,-1134.3374)"><flowRegion
          id="flowRegion15096"><rect
            id="rect15098"
            width="243.27698"
@@ -6637,7 +6570,7 @@ AABJRU5ErkJggg==
            style="fill:#888a85" /></flowRegion><flowPara
          id="flowPara15100"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#888a85;font-family:Open Sans;-inkscape-font-specification:Open Sans">GLib provides the core application building blocks for libraries and applications written in C. It provides the core object system used in GNOME, the main loop implementation, and a large set of utility ...</flowPara></flowRoot>    <flowRoot
-       transform="translate(4718,-1162.3374)"
+       transform="translate(3638,-1162.3374)"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot15102"
        xml:space="preserve"><flowRegion
@@ -6653,7 +6586,7 @@ AABJRU5ErkJggg==
        xml:space="preserve"
        id="flowRoot15110"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="translate(4718,-1134.3374)"><flowRegion
+       transform="translate(3638,-1134.3374)"><flowRegion
          id="flowRegion15112"><rect
            id="rect15114"
            width="240.30643"
@@ -6663,7 +6596,7 @@ AABJRU5ErkJggg==
            style="fill:#888a85" /></flowRegion><flowPara
          id="flowPara15116"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#888a85;font-family:Open Sans;-inkscape-font-specification:Open Sans">GIO provides a modern and easy-to-use VFS API. It provides a file system abstraction which allows applications to access local and remote files with a single consistent API.</flowPara></flowRoot>    <flowRoot
-       transform="translate(5006,-1164.3374)"
+       transform="translate(3926,-1164.3374)"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot15118"
        xml:space="preserve"><flowRegion
@@ -6679,7 +6612,7 @@ AABJRU5ErkJggg==
        xml:space="preserve"
        id="flowRoot15126"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="translate(5006,-1136.3374)"><flowRegion
+       transform="translate(3926,-1136.3374)"><flowRegion
          id="flowRegion15128"><rect
            id="rect15130"
            width="244.30643"
@@ -6689,7 +6622,7 @@ AABJRU5ErkJggg==
            style="fill:#888a85" /></flowRegion><flowPara
          id="flowPara15132"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#888a85;font-family:Open Sans;-inkscape-font-specification:Open Sans">GObject provides the object system used for Pango and GTK+.</flowPara></flowRoot>    <flowRoot
-       transform="translate(4412,-1232.5154)"
+       transform="translate(3332,-1232.5154)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans Bold"
        id="flowRoot15134"
        xml:space="preserve"><flowRegion
@@ -6705,7 +6638,7 @@ AABJRU5ErkJggg==
        xml:space="preserve"
        id="flowRoot15142"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans"
-       transform="translate(4624,-1395.1296)"><flowRegion
+       transform="translate(3544,-1395.1296)"><flowRegion
          id="flowRegion15144"><rect
            id="rect15146"
            width="164.30641"
@@ -6715,7 +6648,7 @@ AABJRU5ErkJggg==
            style="font-weight:normal;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara15148"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans">Guides</flowPara></flowRoot>    <flowRoot
-       transform="translate(4686,-1395.1296)"
+       transform="translate(3606,-1395.1296)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans"
        id="flowRoot15150"
        xml:space="preserve"><flowRegion
@@ -6731,7 +6664,7 @@ AABJRU5ErkJggg==
        xml:space="preserve"
        id="flowRoot15158"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans"
-       transform="translate(4746,-1395.1296)"><flowRegion
+       transform="translate(3666,-1395.1296)"><flowRegion
          id="flowRegion15160"><rect
            id="rect15162"
            width="164.30641"
@@ -6741,7 +6674,7 @@ AABJRU5ErkJggg==
            style="font-weight:normal;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara15164"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans">Design</flowPara></flowRoot>    <flowRoot
-       transform="translate(4806,-1395.1296)"
+       transform="translate(3726,-1395.1296)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans Bold"
        id="flowRoot15166"
        xml:space="preserve"><flowRegion
@@ -6754,7 +6687,7 @@ AABJRU5ErkJggg==
            id="rect15170" /></flowRegion><flowPara
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
          id="flowPara15172">Reference</flowPara></flowRoot>    <g
-       transform="matrix(0.16911889,0,0,0.16911889,4446.0004,-1258.6378)"
+       transform="matrix(0.16911889,0,0,0.16911889,3366.0004,-1258.6378)"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="g15174">
       <g
@@ -6791,7 +6724,7 @@ AABJRU5ErkJggg==
        xml:space="preserve"
        id="flowRoot15188"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans Bold"
-       transform="translate(4412,-1332.5154)"><flowRegion
+       transform="translate(3332,-1332.5154)"><flowRegion
          id="flowRegion15190"><rect
            id="rect15192"
            width="423.30643"
@@ -6802,14 +6735,14 @@ AABJRU5ErkJggg==
          id="flowPara15194"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans Light">API Reference</flowPara></flowRoot>    <rect
        y="-1037.1378"
-       x="4446.5"
+       x="3366.5"
        height="130.99994"
        width="273"
        id="rect15272"
        style="color:#000000;fill:none;stroke:#babdb6;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <rect
        y="-831.13782"
-       x="4736.5"
+       x="3656.5"
        height="130.99994"
        width="273"
        id="rect15274"
@@ -6819,13 +6752,13 @@ AABJRU5ErkJggg==
        id="rect15276"
        width="273"
        height="130.99994"
-       x="5026.5"
+       x="3946.5"
        y="-831.13782" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot15278"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="translate(4424,-956.3374)"><flowRegion
+       transform="translate(3344,-956.3374)"><flowRegion
          id="flowRegion15280"><rect
            id="rect15282"
            width="238.30643"
@@ -6835,7 +6768,7 @@ AABJRU5ErkJggg==
            style="font-size:18px;font-weight:normal;fill:#2e3436;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
          id="flowPara15284"
          style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Cantarell">Pango</flowPara></flowRoot>    <flowRoot
-       transform="translate(4424,-928.3374)"
+       transform="translate(3344,-928.3374)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot15286"
        xml:space="preserve"><flowRegion
@@ -6851,7 +6784,7 @@ AABJRU5ErkJggg==
        xml:space="preserve"
        id="flowRoot15294"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="translate(4718,-956.3374)"><flowRegion
+       transform="translate(3638,-956.3374)"><flowRegion
          id="flowRegion15296"><rect
            id="rect15298"
            width="236.30643"
@@ -6861,7 +6794,7 @@ AABJRU5ErkJggg==
            style="font-size:18px;font-weight:normal;fill:#2e3436;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
          id="flowPara15300"
          style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Cantarell">GDK-PixBuf</flowPara></flowRoot>    <flowRoot
-       transform="translate(4718,-928.3374)"
+       transform="translate(3638,-928.3374)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot15302"
        xml:space="preserve"><flowRegion
@@ -6877,7 +6810,7 @@ AABJRU5ErkJggg==
        xml:space="preserve"
        id="flowRoot15310"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="translate(5006,-958.3374)"><flowRegion
+       transform="translate(3926,-958.3374)"><flowRegion
          id="flowRegion15312"><rect
            id="rect15314"
            width="217.30643"
@@ -6887,7 +6820,7 @@ AABJRU5ErkJggg==
            style="font-size:18px;font-weight:normal;fill:#2e3436;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
          id="flowPara15316"
          style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Cantarell">GDK 3</flowPara></flowRoot>    <flowRoot
-       transform="translate(5006,-930.3374)"
+       transform="translate(3926,-930.3374)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot15318"
        xml:space="preserve"><flowRegion
@@ -6905,7 +6838,7 @@ AABJRU5ErkJggg==
        xml:space="preserve"
        id="flowRoot15326"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans Bold"
-       transform="translate(4412,-1026.5154)"><flowRegion
+       transform="translate(3332,-1026.5154)"><flowRegion
          id="flowRegion15328"><rect
            id="rect15330"
            width="202.30643"
@@ -6919,24 +6852,24 @@ AABJRU5ErkJggg==
        id="rect15334"
        width="273"
        height="130.99994"
-       x="4446.5"
+       x="3366.5"
        y="-831.13782" />
     <rect
        style="color:#000000;fill:none;stroke:#babdb6;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect15336"
        width="273"
        height="130.99994"
-       x="4736.5"
+       x="3656.5"
        y="-683.13782" />
     <rect
        y="-683.13782"
-       x="5026.5"
+       x="3946.5"
        height="130.99994"
        width="273"
        id="rect15338"
        style="color:#000000;fill:none;stroke:#babdb6;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <flowRoot
-       transform="translate(4424,-808.3374)"
+       transform="translate(3344,-808.3374)"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot15340"
        xml:space="preserve"><flowRegion
@@ -6952,7 +6885,7 @@ AABJRU5ErkJggg==
        xml:space="preserve"
        id="flowRoot15348"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="translate(4424,-780.3374)"><flowRegion
+       transform="translate(3344,-780.3374)"><flowRegion
          id="flowRegion15350"><rect
            id="rect15352"
            width="243.27698"
@@ -6962,7 +6895,7 @@ AABJRU5ErkJggg==
            style="fill:#888a85" /></flowRegion><flowPara
          id="flowPara15354"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#888a85;font-family:Open Sans;-inkscape-font-specification:Open Sans">GTK+ is the primary library used to construct user interfaces in GNOME applications. It provides user interface controls and signal callbacks to control user interfaces.</flowPara></flowRoot>    <flowRoot
-       transform="translate(4718,-808.3374)"
+       transform="translate(3638,-808.3374)"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot15356"
        xml:space="preserve"><flowRegion
@@ -6978,7 +6911,7 @@ AABJRU5ErkJggg==
        xml:space="preserve"
        id="flowRoot15364"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="translate(4718,-780.3374)"><flowRegion
+       transform="translate(3638,-780.3374)"><flowRegion
          id="flowRegion15366"><rect
            id="rect15368"
            width="240.30643"
@@ -6988,7 +6921,7 @@ AABJRU5ErkJggg==
            style="fill:#888a85" /></flowRegion><flowPara
          id="flowPara15370"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#888a85;font-family:Open Sans;-inkscape-font-specification:Open Sans">Cairo is a 2D graphics library with support for multiple output devices. It is designed to produce consistent output on all output media while taking advantage of display hardware acceleration when available.</flowPara></flowRoot>    <flowRoot
-       transform="translate(5006,-810.3374)"
+       transform="translate(3926,-810.3374)"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot15372"
        xml:space="preserve"><flowRegion
@@ -7004,7 +6937,7 @@ AABJRU5ErkJggg==
        xml:space="preserve"
        id="flowRoot15380"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="translate(5006,-782.3374)"><flowRegion
+       transform="translate(3926,-782.3374)"><flowRegion
          id="flowRegion15382"><rect
            id="rect15384"
            width="244.30643"
@@ -7017,7 +6950,7 @@ AABJRU5ErkJggg==
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#888a85;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          id="flowPara15392" /></flowRoot>    <rect
        y="-683.13782"
-       x="4446.5"
+       x="3366.5"
        height="130.99994"
        width="273"
        id="rect15388"
@@ -7027,17 +6960,17 @@ AABJRU5ErkJggg==
        id="rect15394"
        width="273"
        height="130.99994"
-       x="4736.5"
+       x="3656.5"
        y="-475.13782" />
     <rect
        y="-475.13782"
-       x="5026.5"
+       x="3946.5"
        height="130.99994"
        width="273"
        id="rect15396"
        style="color:#000000;fill:none;stroke:#babdb6;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <flowRoot
-       transform="translate(4424,-600.3374)"
+       transform="translate(3344,-600.3374)"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot15398"
        xml:space="preserve"><flowRegion
@@ -7053,7 +6986,7 @@ AABJRU5ErkJggg==
        xml:space="preserve"
        id="flowRoot15406"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="translate(4424,-572.3374)"><flowRegion
+       transform="translate(3344,-572.3374)"><flowRegion
          id="flowRegion15408"><rect
            id="rect15410"
            width="243.27698"
@@ -7065,23 +6998,10 @@ AABJRU5ErkJggg==
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#888a85;font-family:Open Sans;-inkscape-font-specification:Open Sans">Powerful framework for creating multimedia applications. Supports both Audio and Video.</flowPara><flowPara
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#888a85;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          id="flowPara15653" /></flowRoot>    <flowRoot
-       transform="translate(4718,-956.3374)"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       id="flowRoot15414"
-       xml:space="preserve"><flowRegion
-         id="flowRegion15416"><rect
-           style="font-size:18px;font-weight:normal;fill:#2e3436;-inkscape-font-specification:Cantarell"
-           y="139.21223"
-           x="37.101448"
-           height="87.015381"
-           width="236.30643"
-           id="rect15418" /></flowRegion><flowPara
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Cantarell"
-         id="flowPara15420">GDK-PixBuf</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot15422"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="translate(4718,-572.3374)"><flowRegion
+       transform="translate(3638,-572.3374)"><flowRegion
          id="flowRegion15424"><rect
            id="rect15426"
            width="240.30643"
@@ -7093,7 +7013,7 @@ AABJRU5ErkJggg==
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#888a85;font-family:Open Sans;-inkscape-font-specification:Open Sans">Powerful framework for creating multimedia applications. Supports both Audio and Video.</flowPara><flowPara
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#888a85;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          id="flowPara15655" /></flowRoot>    <flowRoot
-       transform="translate(5006,-602.3374)"
+       transform="translate(3926,-602.3374)"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot15430"
        xml:space="preserve"><flowRegion
@@ -7109,7 +7029,7 @@ AABJRU5ErkJggg==
        xml:space="preserve"
        id="flowRoot15438"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="translate(5006,-574.3374)"><flowRegion
+       transform="translate(3926,-574.3374)"><flowRegion
          id="flowRegion15440"><rect
            id="rect15442"
            width="244.30643"
@@ -7121,7 +7041,7 @@ AABJRU5ErkJggg==
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#888a85;font-family:Open Sans;-inkscape-font-specification:Open Sans">Powerful framework for creating multimedia applications. Supports both Audio and Video.</flowPara><flowPara
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#888a85;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          id="flowPara15659" /></flowRoot>    <flowRoot
-       transform="translate(4412,-670.5154)"
+       transform="translate(3332,-670.5154)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans Bold"
        id="flowRoot15448"
        xml:space="preserve"><flowRegion
@@ -7135,14 +7055,14 @@ AABJRU5ErkJggg==
          style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:200%;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
          id="flowPara15454">Multimedia</flowPara></flowRoot>    <rect
        y="-475.13782"
-       x="4446.5"
+       x="3366.5"
        height="130.99994"
        width="273"
        id="rect15456"
        style="color:#000000;fill:none;stroke:#babdb6;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <rect
        y="-327.13782"
-       x="4736.5"
+       x="3656.5"
        height="130.99994"
        width="273"
        id="rect15458"
@@ -7152,13 +7072,13 @@ AABJRU5ErkJggg==
        id="rect15460"
        width="273"
        height="130.99994"
-       x="5026.5"
+       x="3946.5"
        y="-327.13782" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot15462"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="translate(4424,-452.3374)"><flowRegion
+       transform="translate(3344,-452.3374)"><flowRegion
          id="flowRegion15464"><rect
            id="rect15466"
            width="238.30643"
@@ -7168,7 +7088,7 @@ AABJRU5ErkJggg==
            style="font-size:18px;font-weight:normal;fill:#2e3436;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
          id="flowPara15468"
          style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Cantarell">GUPnP A/V</flowPara></flowRoot>    <flowRoot
-       transform="translate(4424,-424.3374)"
+       transform="translate(3344,-424.3374)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot15470"
        xml:space="preserve"><flowRegion
@@ -7186,7 +7106,7 @@ AABJRU5ErkJggg==
        xml:space="preserve"
        id="flowRoot15478"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="translate(4718,-452.3374)"><flowRegion
+       transform="translate(3638,-452.3374)"><flowRegion
          id="flowRegion15480"><rect
            id="rect15482"
            width="236.30643"
@@ -7196,7 +7116,7 @@ AABJRU5ErkJggg==
            style="font-size:18px;font-weight:normal;fill:#2e3436;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
          id="flowPara15484"
          style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Cantarell">GUPnp DLNA</flowPara></flowRoot>    <flowRoot
-       transform="translate(4718,-424.3374)"
+       transform="translate(3638,-424.3374)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot15486"
        xml:space="preserve"><flowRegion
@@ -7214,7 +7134,7 @@ AABJRU5ErkJggg==
        xml:space="preserve"
        id="flowRoot15494"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="translate(5006,-454.3374)"><flowRegion
+       transform="translate(3926,-454.3374)"><flowRegion
          id="flowRegion15496"><rect
            id="rect15498"
            width="217.30643"
@@ -7224,7 +7144,7 @@ AABJRU5ErkJggg==
            style="font-size:18px;font-weight:normal;fill:#2e3436;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
          id="flowPara15500"
          style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Cantarell">libcanberra</flowPara></flowRoot>    <flowRoot
-       transform="translate(5006,-426.3374)"
+       transform="translate(3926,-426.3374)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot15502"
        xml:space="preserve"><flowRegion
@@ -7243,7 +7163,7 @@ AABJRU5ErkJggg==
        id="rect15512"
        width="273"
        height="130.99994"
-       x="4446.5"
+       x="3366.5"
        y="-327.13782" />
     <flowRoot
        transform="translate(1478,-1163.3376)"
@@ -7271,114 +7191,110 @@ AABJRU5ErkJggg==
            y="139.21223"
            style="fill:#888a85" /></flowRegion><flowPara
          id="flowPara15568"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#888a85;font-family:Open Sans;-inkscape-font-specification:Open Sans">How to integrate with GNOME 3</flowPara></flowRoot>    <g
-       id="g15624"
-       transform="translate(-3580,202.00006)">
-      <rect
-         y="-987.13782"
-         x="3996.5"
-         height="130.99994"
-         width="273"
-         id="rect15570"
-         style="color:#000000;fill:none;stroke:#babdb6;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <rect
-         style="color:#000000;fill:none;stroke:#babdb6;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect15572"
-         width="273"
-         height="130.99994"
-         x="3706.5"
-         y="-987.13782" />
-      <rect
-         style="color:#000000;fill:none;stroke:#babdb6;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect15574"
-         width="273"
-         height="130.99994"
-         x="4286.5"
-         y="-987.13782" />
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot15576"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-         transform="translate(3684,-1111.3376)"><flowRegion
-           id="flowRegion15578"><rect
-             id="rect15580"
-             width="236.30643"
-             height="87.015381"
-             x="37.101448"
-             y="139.21223"
-             style="font-size:18px;font-weight:normal;fill:#2e3436;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
-           id="flowPara15582"
-           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Cantarell">GNOME Application Development Overview</flowPara></flowRoot>      <flowRoot
-         transform="translate(3684,-1057.3376)"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-         id="flowRoot15584"
-         xml:space="preserve"><flowRegion
-           id="flowRegion15586"><rect
-             style="fill:#888a85"
-             y="139.21223"
-             x="37.101448"
-             height="39.015381"
-             width="225.30643"
-             id="rect15588" /></flowRegion><flowPara
-           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#888a85;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-           id="flowPara15590">Learn about GNOME technologies and tools</flowPara></flowRoot>      <flowRoot
-         xml:space="preserve"
-         id="flowRoot15592"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-         transform="translate(4266,-1113.3376)"><flowRegion
-           id="flowRegion15594"><rect
-             id="rect15596"
-             width="217.30643"
-             height="61.015381"
-             x="37.101448"
-             y="139.21223"
-             style="font-size:18px;font-weight:normal;fill:#2e3436;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
-           id="flowPara15598"
-           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Cantarell">Custom Widgets</flowPara></flowRoot>      <flowRoot
-         transform="translate(4266,-1085.3376)"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-         id="flowRoot15600"
-         xml:space="preserve"><flowRegion
-           id="flowRegion15602"><rect
-             style="fill:#888a85"
-             y="139.21223"
-             x="37.101448"
-             height="60.015381"
-             width="247.30643"
-             id="rect15604" /></flowRegion><flowPara
-           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#888a85;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-           id="flowPara15606">Create custom user interface widgets with GTK+.</flowPara></flowRoot>      <flowRoot
-         transform="translate(3978,-1113.3376)"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-         id="flowRoot15608"
-         xml:space="preserve"><flowRegion
-           id="flowRegion15610"><rect
-             style="font-size:18px;font-weight:normal;fill:#2e3436;-inkscape-font-specification:Cantarell"
-             y="139.21223"
-             x="37.101448"
-             height="61.015381"
-             width="217.30643"
-             id="rect15612" /></flowRegion><flowPara
-           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Cantarell"
-           id="flowPara15614">Integration Guide</flowPara></flowRoot>      <flowRoot
-         xml:space="preserve"
-         id="flowRoot15616"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-         transform="translate(3978,-1085.3376)"><flowRegion
-           id="flowRegion15618"><rect
-             id="rect15620"
-             width="294.30643"
-             height="45.015381"
-             x="37.101448"
-             y="139.21223"
-             style="fill:#888a85" /></flowRegion><flowPara
-           id="flowPara15622"
-           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#888a85;font-family:Open Sans;-inkscape-font-specification:Open Sans">How to integrate with GNOME 3</flowPara></flowRoot>    </g>
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#888a85;font-family:Open Sans;-inkscape-font-specification:Open Sans">How to integrate with GNOME 3</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:none;stroke:#babdb6;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect15570"
+       width="273"
+       height="130.99994"
+       x="416.5"
+       y="-785.13776" />
+    <rect
+       y="-785.13776"
+       x="126.5"
+       height="130.99994"
+       width="273"
+       id="rect15572"
+       style="color:#000000;fill:none;stroke:#babdb6;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       y="-785.13776"
+       x="706.5"
+       height="130.99994"
+       width="273"
+       id="rect15574"
+       style="color:#000000;fill:none;stroke:#babdb6;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <flowRoot
+       transform="translate(104,-909.33754)"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       id="flowRoot15576"
+       xml:space="preserve"><flowRegion
+         id="flowRegion15578"><rect
+           style="font-size:18px;font-weight:normal;fill:#2e3436;-inkscape-font-specification:Cantarell"
+           y="139.21223"
+           x="37.101448"
+           height="87.015381"
+           width="236.30643"
+           id="rect15580" /></flowRegion><flowPara
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Cantarell"
+         id="flowPara15582">GNOME Application Development Overview</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot15584"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       transform="translate(104,-855.33754)"><flowRegion
+         id="flowRegion15586"><rect
+           id="rect15588"
+           width="225.30643"
+           height="39.015381"
+           x="37.101448"
+           y="139.21223"
+           style="fill:#888a85" /></flowRegion><flowPara
+         id="flowPara15590"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#888a85;font-family:Open Sans;-inkscape-font-specification:Open Sans">Learn about GNOME technologies and tools</flowPara></flowRoot>    <flowRoot
+       transform="translate(686,-911.33754)"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       id="flowRoot15592"
+       xml:space="preserve"><flowRegion
+         id="flowRegion15594"><rect
+           style="font-size:18px;font-weight:normal;fill:#2e3436;-inkscape-font-specification:Cantarell"
+           y="139.21223"
+           x="37.101448"
+           height="61.015381"
+           width="217.30643"
+           id="rect15596" /></flowRegion><flowPara
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Cantarell"
+         id="flowPara15598">Custom Widgets</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot15600"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       transform="translate(686,-883.33754)"><flowRegion
+         id="flowRegion15602"><rect
+           id="rect15604"
+           width="247.30643"
+           height="60.015381"
+           x="37.101448"
+           y="139.21223"
+           style="fill:#888a85" /></flowRegion><flowPara
+         id="flowPara15606"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#888a85;font-family:Open Sans;-inkscape-font-specification:Open Sans">Create custom user interface widgets with GTK+.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot15608"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       transform="translate(398,-911.33754)"><flowRegion
+         id="flowRegion15610"><rect
+           id="rect15612"
+           width="217.30643"
+           height="61.015381"
+           x="37.101448"
+           y="139.21223"
+           style="font-size:18px;font-weight:normal;fill:#2e3436;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
+         id="flowPara15614"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Cantarell">Integration Guide</flowPara></flowRoot>    <flowRoot
+       transform="translate(398,-883.33754)"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       id="flowRoot15616"
+       xml:space="preserve"><flowRegion
+         id="flowRegion15618"><rect
+           style="fill:#888a85"
+           y="139.21223"
+           x="37.101448"
+           height="45.015381"
+           width="294.30643"
+           id="rect15620" /></flowRegion><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#888a85;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         id="flowPara15622">How to integrate with GNOME 3</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot15661"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="translate(4718,-600.3374)"><flowRegion
+       transform="translate(3638,-600.3374)"><flowRegion
          id="flowRegion15663"><rect
            id="rect15665"
            width="236.30643"
@@ -7389,7 +7305,7 @@ AABJRU5ErkJggg==
          id="flowPara15667"
          style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Cantarell">GStreamer Core</flowPara></flowRoot>    <rect
        y="-1267.1378"
-       x="5458.5"
+       x="4378.5"
        height="1079"
        width="981.00018"
        id="rect15677"
@@ -7399,13 +7315,13 @@ AABJRU5ErkJggg==
        id="rect15679"
        width="981"
        height="37"
-       x="5458.5"
+       x="4378.5"
        y="-1267.1378" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot15681"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans Bold"
-       transform="translate(5508,-1395.1296)"><flowRegion
+       transform="translate(4428,-1395.1296)"><flowRegion
          id="flowRegion15683"><rect
            id="rect15685"
            width="164.30641"
@@ -7416,7 +7332,7 @@ AABJRU5ErkJggg==
          id="flowPara15687"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold">GNOME Developer Center</flowPara></flowRoot>    <g
        id="g15689"
-       transform="translate(6362.9789,-1256.6697)"
+       transform="translate(5282.9789,-1256.6697)"
        style="fill:#ffffff;fill-opacity:1">
       <g
          style="fill:#ffffff;fill-opacity:1;display:inline"
@@ -7471,7 +7387,7 @@ AABJRU5ErkJggg==
          inkscape:label="categories" />
     </g>
     <flowRoot
-       transform="translate(5704,-1395.1296)"
+       transform="translate(4624,-1395.1296)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans"
        id="flowRoot15771"
        xml:space="preserve"><flowRegion
@@ -7487,7 +7403,7 @@ AABJRU5ErkJggg==
        xml:space="preserve"
        id="flowRoot15779"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans"
-       transform="translate(5766,-1395.1296)"><flowRegion
+       transform="translate(4686,-1395.1296)"><flowRegion
          id="flowRegion15781"><rect
            id="rect15783"
            width="164.30641"
@@ -7497,7 +7413,7 @@ AABJRU5ErkJggg==
            style="font-weight:normal;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara15785"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans">Demos</flowPara></flowRoot>    <flowRoot
-       transform="translate(5826,-1395.1296)"
+       transform="translate(4746,-1395.1296)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans"
        id="flowRoot15787"
        xml:space="preserve"><flowRegion
@@ -7513,19 +7429,19 @@ AABJRU5ErkJggg==
        xml:space="preserve"
        id="flowRoot15795"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans"
-       transform="translate(5886,-1395.1296)"><flowRegion
+       transform="translate(4806,-1395.1296)"><flowRegion
          id="flowRegion15797"><rect
            id="rect15799"
            width="164.30641"
            height="28.015381"
            x="37.101448"
            y="139.21223"
-           style="font-weight:normal;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Open Sans;font-style:normal" /></flowRegion><flowPara
+           style="font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara15801"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans">Reference</flowPara></flowRoot>    <g
        id="g15803"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       transform="matrix(0.16911889,0,0,0.16911889,5526.0004,-1258.6378)">
+       transform="matrix(0.16911889,0,0,0.16911889,4446.0004,-1258.6378)">
       <g
          id="g15805"
          style="fill:#ffffff;fill-opacity:1">
@@ -7557,7 +7473,7 @@ AABJRU5ErkJggg==
       </g>
     </g>
     <flowRoot
-       transform="translate(5492,-1332.5154)"
+       transform="translate(4412,-1332.5154)"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Open Sans Bold"
        id="flowRoot15817"
        xml:space="preserve"><flowRegion
@@ -7573,7 +7489,7 @@ AABJRU5ErkJggg==
        xml:space="preserve"
        id="flowRoot15839"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="translate(5502,-1203.3418)"><flowRegion
+       transform="translate(4422,-1203.3418)"><flowRegion
          id="flowRegion15841"><rect
            id="rect15843"
            width="243.27698"
@@ -7586,7 +7502,7 @@ AABJRU5ErkJggg==
        xml:space="preserve"
        id="flowRoot15855"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="translate(5792,-1203.3418)"><flowRegion
+       transform="translate(4712,-1203.3418)"><flowRegion
          id="flowRegion15857"><rect
            id="rect15859"
            width="240.30643"
@@ -7596,7 +7512,7 @@ AABJRU5ErkJggg==
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara15861"
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans">Cairo: A Vector Graphics Toolkit</flowPara></flowRoot>    <flowRoot
-       transform="translate(5502,-1167.3418)"
+       transform="translate(4422,-1167.3418)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot16193"
        xml:space="preserve"><flowRegion
@@ -7612,7 +7528,7 @@ AABJRU5ErkJggg==
        xml:space="preserve"
        id="flowRoot16223"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="translate(5502,-1131.3418)"><flowRegion
+       transform="translate(4422,-1131.3418)"><flowRegion
          id="flowRegion16225"><rect
            id="rect16227"
            width="243.27698"
@@ -7622,7 +7538,7 @@ AABJRU5ErkJggg==
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara16229"
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans">...</flowPara></flowRoot>    <flowRoot
-       transform="translate(5502,-1095.3418)"
+       transform="translate(4422,-1095.3418)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot16253"
        xml:space="preserve"><flowRegion
@@ -7638,7 +7554,7 @@ AABJRU5ErkJggg==
        xml:space="preserve"
        id="flowRoot16283"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="translate(5502,-1059.3418)"><flowRegion
+       transform="translate(4422,-1059.3418)"><flowRegion
          id="flowRegion16285"><rect
            id="rect16287"
            width="243.27698"
@@ -7648,7 +7564,7 @@ AABJRU5ErkJggg==
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara16289"
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans">...</flowPara></flowRoot>    <flowRoot
-       transform="translate(5502,-1023.3418)"
+       transform="translate(4422,-1023.3418)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot16313"
        xml:space="preserve"><flowRegion
@@ -7664,7 +7580,7 @@ AABJRU5ErkJggg==
        xml:space="preserve"
        id="flowRoot16343"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="translate(5502,-987.34184)"><flowRegion
+       transform="translate(4422,-987.34184)"><flowRegion
          id="flowRegion16345"><rect
            id="rect16347"
            width="243.27698"
@@ -7674,7 +7590,7 @@ AABJRU5ErkJggg==
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara16349"
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans">...</flowPara></flowRoot>    <flowRoot
-       transform="translate(5502,-951.34184)"
+       transform="translate(4422,-951.34184)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot16373"
        xml:space="preserve"><flowRegion
@@ -7690,7 +7606,7 @@ AABJRU5ErkJggg==
        xml:space="preserve"
        id="flowRoot16403"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="translate(5502,-915.34184)"><flowRegion
+       transform="translate(4422,-915.34184)"><flowRegion
          id="flowRegion16405"><rect
            id="rect16407"
            width="243.27698"
@@ -7700,7 +7616,7 @@ AABJRU5ErkJggg==
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara16409"
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans">...</flowPara></flowRoot>    <flowRoot
-       transform="translate(5502,-879.34184)"
+       transform="translate(4422,-879.34184)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot16433"
        xml:space="preserve"><flowRegion
@@ -7716,7 +7632,7 @@ AABJRU5ErkJggg==
        xml:space="preserve"
        id="flowRoot16463"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="translate(5502,-843.34184)"><flowRegion
+       transform="translate(4422,-843.34184)"><flowRegion
          id="flowRegion16465"><rect
            id="rect16467"
            width="243.27698"
@@ -7726,7 +7642,7 @@ AABJRU5ErkJggg==
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara16469"
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans">...</flowPara></flowRoot>    <flowRoot
-       transform="translate(5502,-807.34184)"
+       transform="translate(4422,-807.34184)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot16493"
        xml:space="preserve"><flowRegion
@@ -7742,7 +7658,7 @@ AABJRU5ErkJggg==
        xml:space="preserve"
        id="flowRoot16523"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="translate(5502,-771.34184)"><flowRegion
+       transform="translate(4422,-771.34184)"><flowRegion
          id="flowRegion16525"><rect
            id="rect16527"
            width="243.27698"
@@ -7752,7 +7668,7 @@ AABJRU5ErkJggg==
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara16529"
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans">...</flowPara></flowRoot>    <flowRoot
-       transform="translate(5502,-735.34184)"
+       transform="translate(4422,-735.34184)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot16553"
        xml:space="preserve"><flowRegion
@@ -7768,7 +7684,7 @@ AABJRU5ErkJggg==
        xml:space="preserve"
        id="flowRoot16583"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="translate(5502,-699.34184)"><flowRegion
+       transform="translate(4422,-699.34184)"><flowRegion
          id="flowRegion16585"><rect
            id="rect16587"
            width="243.27698"
@@ -7778,7 +7694,7 @@ AABJRU5ErkJggg==
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
          id="flowPara16589"
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans">...</flowPara></flowRoot>    <flowRoot
-       transform="translate(5502,-663.34184)"
+       transform="translate(4422,-663.34184)"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot16613"
        xml:space="preserve"><flowRegion
@@ -7792,7 +7708,7 @@ AABJRU5ErkJggg==
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          id="flowPara16619">...</flowPara></flowRoot>    <g
        id="g16639"
-       transform="translate(-2500,-280)">
+       transform="translate(-3580,-280)">
       <flowRoot
          xml:space="preserve"
          id="flowRoot16201"
@@ -7991,7 +7907,7 @@ AABJRU5ErkJggg==
            style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans">...</flowPara></flowRoot>    </g>
     <g
        id="g16701"
-       transform="translate(-2500,-280)">
+       transform="translate(-3580,-280)">
       <flowRoot
          transform="translate(8582,-923.34184)"
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
