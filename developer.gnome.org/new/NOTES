@@ -1,0 +1,38 @@
+developer.gnome.org - Design Notes
+==================================
+
+Content and Structure
+---------------------
+
+The design has five main sections:
+
+1. Guides
+
+ - platform-overview (from gnomes-devel-docs)
+ - accessibility guide
+ - HowDoI...? pages
+
+2. Demos
+
+ - platform-demos (gnome-devel-docs)
+
+3. Design
+
+ - hig (gnome-devel-docs)
+
+4. API Reference
+
+ - Selected manuals from git.gnome.org modules
+ - Could also import manuals from freedesktop.org or elsewhere?
+
+5. Index
+
+ - All guides, demos, and api reference documentation
+ - Includes manuals that aren't selected for includsion be on the API Reference page
+
+Design To Do
+------------
+
+ - Search
+ - Demo page
+ - Translations/language options
