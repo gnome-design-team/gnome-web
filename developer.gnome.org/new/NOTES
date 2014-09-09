@@ -23,7 +23,7 @@ The design has five main sections:
 4. API Reference
 
  - Selected manuals from git.gnome.org modules
- - Could also import manuals from freedesktop.org or elsewhere?
+ - Could also import manuals from freedesktop.org or elsewhere (not sure what current practice is)
 
 5. Index
 
@@ -36,3 +36,5 @@ Design To Do
  - Search
  - Demo page
  - Translations/language options
+ - How to navigate to the index page
+ - Footer
