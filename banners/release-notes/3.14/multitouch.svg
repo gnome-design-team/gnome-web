@@ -16,7 +16,7 @@
    height="250"
    viewBox="0 0 940 250"
    sodipodi:docname="multitouch.svg"
-   inkscape:export-filename="/home/jimmac/SparkleShare/gnome-web/banners/release-notes/3.14/new-animations.png"
+   inkscape:export-filename="/home/jimmac/SparkleShare/gnome-web/banners/release-notes/3.14/multitouch.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <metadata
@@ -205,21 +205,12 @@
      borderlayer="true"
      inkscape:showpageshadow="false"
      inkscape:zoom="1"
-     inkscape:cx="633.75144"
+     inkscape:cx="627.75144"
      inkscape:cy="59.086263"
      inkscape:window-x="2560"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg34370" />
-  <rect
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-     id="rect39986"
-     width="965"
-     height="267"
-     x="-8"
-     y="-8"
-     rx="3.4897799"
-     ry="1.709672" />
   <path
      style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
      d="m 1161.0782,135.67896 a 5.0005001,5.0005001 0 0 0 0.2234,4.67561 l 17.1594,29.71692 a 5.0005001,5.0005001 0 0 0 0.1155,0.17491 l 1.2808,2.21898 -0.9716,0.55751 -5.7197,-9.9057 a 5.0005001,5.0005001 0 0 0 -6.9299,-1.87201 5.0005001,5.0005001 0 0 0 -1.7283,6.86853 l 11.2239,19.43449 2.512,4.33685 4.3214,-2.48457 8.2813,-4.78117 2.3782,-1.36955 c 0.02,-0.0115 0.038,-0.0268 0.058,-0.0383 l 1.9003,-1.10406 25.0615,-14.47039 c 2.9154,-1.68321 3.9576,-5.58642 2.2744,-8.50183 l -6.1276,-10.57424 a 5.0005001,5.0005001 0 0 0 -0.1,-0.202 l -0.05,-0.10084 -3.7154,-6.43939 a 5.0005001,5.0005001 0 0 0 -6.9456,-1.84495 5.0005001,5.0005001 0 0 0 -1.978,6.36353 l -0.8549,0.48073 -2.9655,-5.17617 a 5.0005001,5.0005001 0 0 0 -6.9455,-1.84495 5.0005001,5.0005001 0 0 0 -1.7127,6.84148 l 2.9655,5.17618 -1.1309,0.64601 -2.981,-5.14919 a 5.0005001,5.0005001 0 0 0 -6.9456,-1.84495 5.0005001,5.0005001 0 0 0 -1.7127,6.8415 l 2.981,5.14919 -1.1464,0.67339 -13.178,-22.79989 a 5.0005001,5.0005001 0 0 0 -6.9185,-1.82934 5.0005001,5.0005001 0 0 0 -1.9788,2.17734 z"
@@ -264,7 +255,7 @@
              id="path4930"
              transform="matrix(0.13333333,0,0,0.13333333,291.52403,953.1781)"
              d="m 470,82.5 c -28.99492,0 -52.5,23.50508 -52.5,52.5 0,28.99492 23.50508,52.5 52.5,52.5 28.99492,0 52.5,-23.50508 52.5,-52.5 0,-28.99492 -23.50508,-52.5 -52.5,-52.5 z m -15,30 c 4.18748,0 7.73438,3.5469 7.73438,7.73438 l 0,7.26562 c 0,4.18748 -3.5469,7.5 -7.73438,7.5 -4.18748,0 -7.5,-3.31252 -7.5,-7.5 l 0,-7.26562 c 0,-4.18748 3.31252,-7.73438 7.5,-7.73438 z m 30,0 c 4.18748,0 7.5,3.5469 7.5,7.73438 l 0,7.26562 c 0,4.18748 -3.31252,7.5 -7.5,7.5 -4.18748,0 -7.5,-3.31252 -7.5,-7.5 l 0,-7.26562 c 0,-4.18748 3.31252,-7.73438 7.5,-7.73438 z m -50,22.83984 0.002,0 a 5.0005,5.0005 0 0 1 4.12891,2.4375 c 0,0 13.87579,21.3086 32.51172,21.3086 7.38952,0 11.29353,-1.51124 13.24023,-2.66211 0.97343,-0.5754 1.47363,-1.07013 1.70313,-1.32813 0.0557,-0.0632 0.0839,-0.0882 0.0957,-0.0937 a 5.0005,5.0005 0 1 1 8.89648,4.56055 c 0,0 -0.63063,1.17814 -1.52148,2.17969 -0.89085,1.00155 -2.22047,2.18513 -4.08789,3.28906 -3.73485,2.20792 -9.55335,4.05469 -18.32813,4.05469 -25.75147,0 -41.02929,-26.06641 -41.02929,-26.06641 A 5.0005,5.0005 0 0 1 435,135.33984 Z"
-             style="fill:#ffffff;fill-opacity:1;stroke:none" />
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
           <rect
              style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
              id="rect4932"
