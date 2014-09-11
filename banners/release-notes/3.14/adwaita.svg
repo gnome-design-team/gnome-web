@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -868,12 +868,12 @@
      borderlayer="true"
      inkscape:showpageshadow="false"
      inkscape:zoom="1"
-     inkscape:cx="547.01684"
-     inkscape:cy="86.94569"
+     inkscape:cx="219.37456"
+     inkscape:cy="67.334538"
      inkscape:window-x="2560"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg34370">
+     inkscape:current-layer="g59727">
     <inkscape:grid
        type="xygrid"
        id="grid59597" />
@@ -1218,7 +1218,7 @@
      id="g59727"
      transform="translate(36,0)">
     <g
-       transform="translate(353.3567,-783.02696)"
+       transform="translate(352.8567,-782.96446)"
        id="g58238">
       <rect
          inkscape:export-ydpi="90"
@@ -1409,9 +1409,9 @@
       <rect
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
          id="rect58294"
-         width="173.88908"
+         width="172.51408"
          height="1.983534"
-         x="-177.08838"
+         x="-175.71338"
          y="978.01648" />
       <path
          sodipodi:nodetypes="ccsccccccccccccccccccccccc"
@@ -1422,11 +1422,11 @@
       <path
          inkscape:connector-curvature="0"
          id="path58298"
-         d="m -176.57872,979.4103 0,-38.9793"
+         d="m -176.32872,979.4103 0,-38.9793"
          style="display:inline;fill:none;stroke:#d3d7cf;stroke-width:1px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          style="display:inline;fill:none;stroke:#d3d7cf;stroke-width:1px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
-         d="m -3.57872,979.4103 0,-38.9793"
+         d="m -3.32872,979.4103 0,-38.9793"
          id="path58300"
          inkscape:connector-curvature="0" />
       <g
