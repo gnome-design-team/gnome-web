@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg34370"
    version="1.1"
-   inkscape:version="0.91pre2 r13528"
+   inkscape:version="0.91pre2 r13551"
    width="940"
    height="250"
    viewBox="0 0 940 250"
@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -764,7 +764,7 @@
      borderlayer="true"
      inkscape:showpageshadow="false"
      inkscape:zoom="1"
-     inkscape:cx="426.8997"
+     inkscape:cx="256.8997"
      inkscape:cy="98.836363"
      inkscape:window-x="2560"
      inkscape:window-y="0"
@@ -775,10 +775,6 @@
     <inkscape:grid
        type="xygrid"
        id="grid59597" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="477,52"
-       id="guide63695" />
   </sodipodi:namedview>
   <rect
      style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -792,7 +788,7 @@
      style="display:inline"
      id="g14829"
      inkscape:label="network-wireless-no-route"
-     transform="matrix(10,0,0,10,-310.002,-4842)">
+     transform="matrix(5.625,0,0,5.625,21.248868,-2665.625)">
     <path
        style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none"
        d="m 77.848212,493.96875 c 1.64243,-0.092 3.0955,1.17008 3.1875,2.8125 -1e-4,1.40136 -0.37771,1.92177 -1.59375,2.84375 -0.19093,0.14364 -0.3256,0.2506 -0.375,0.3125 -0.0494,0.0621 -0.0312,0.0332 -0.0312,0.0312 0.007,0.52831 -0.47163,1 -1,1 -0.52837,0 -1.007,-0.47169 -1,-1 0,-0.50239 0.22424,-0.94342 0.46875,-1.25 0.24451,-0.30663 0.4913,-0.51638 0.71875,-0.6875 0.20405,-0.16056 0.46083,-0.38454 0.6875,-0.65625 0.0935,-0.1121 0.129,-0.30766 0.125,-0.4375 l 0,-0.0312 c -0.0316,-0.56324 -0.49926,-0.9691 -1.0625,-0.9375 -0.56324,0.0316 -0.9691,0.43676 -0.9375,1 l -2,0 c -0.092,-1.64243 1.17007,-2.9079 2.8125,-3 z m 0.1875,8 c 0.55228,0 1,0.44772 1,1 0,0.55228 -0.44772,1 -1,1 -0.55228,0 -1,-0.44772 -1,-1 0,-0.55228 0.44772,-1 1,-1 z"
@@ -843,7 +839,7 @@
      style="display:inline"
      id="g6095-6"
      inkscape:label="network-wired-no-route"
-     transform="matrix(10,0,0,10,-1622.002,-1712)">
+     transform="matrix(5.625,0,0,5.625,-634.50113,-905)">
     <rect
        inkscape:label="audio-volume-high"
        y="176"
@@ -866,7 +862,7 @@
        sodipodi:nodetypes="cccccsccccccsccccsssss" />
   </g>
   <g
-     transform="matrix(10,0,0,10,8,-2712)"
+     transform="matrix(5.625,0,0,5.625,120.5,-1467.5)"
      id="g9275"
      inkscape:label="network-cellular-no-route"
      style="display:inline">
