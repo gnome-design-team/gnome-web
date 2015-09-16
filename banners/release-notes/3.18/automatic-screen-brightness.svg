@@ -769,7 +769,7 @@
      inkscape:window-x="2560"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg34370">
+     inkscape:current-layer="g4180-0">
     <inkscape:grid
        type="xygrid"
        id="grid59597" />
@@ -811,5 +811,119 @@
            id="g5398" />
       </g>
     </g>
+  </g>
+  <g
+     style="display:inline"
+     id="g4180-0"
+     inkscape:label="display-brightness"
+     transform="matrix(6,0,0,6,-64,-1585)">
+    <rect
+       width="16"
+       height="16"
+       x="81"
+       y="277"
+       id="rect18110-7-5-4"
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1.78100002;marker:none;enable-background:new" />
+    <g
+       id="g4927-4-0"
+       style="display:inline">
+      <rect
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new"
+         id="rect4906-43-6"
+         width="3.0002"
+         height="2"
+         x="81"
+         y="284"
+         rx="0.49999836"
+         ry="0.5" />
+      <rect
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new"
+         id="rect4906-4-6-6"
+         width="2.9998"
+         height="2"
+         x="94.000198"
+         y="284"
+         rx="0.4998"
+         ry="0.5" />
+      <rect
+         ry="0.5"
+         rx="0.49999836"
+         y="263.45795"
+         x="-146.59293"
+         height="2"
+         width="3.0002"
+         id="rect8386"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new"
+         transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" />
+      <rect
+         ry="0.5"
+         rx="0.4998"
+         y="263.45795"
+         x="-133.59273"
+         height="2"
+         width="2.9998"
+         id="rect8388"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new"
+         transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" />
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new"
+         id="rect8390"
+         width="3.0002"
+         height="2"
+         x="-293"
+         y="88.000031"
+         rx="0.49999836"
+         ry="0.5" />
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new"
+         id="rect8392"
+         width="2.9998"
+         height="2"
+         x="-279.99982"
+         y="88.000031"
+         rx="0.4998"
+         ry="0.5" />
+      <rect
+         ry="0.5"
+         rx="0.49999836"
+         y="-139.59291"
+         x="-272.45795"
+         height="2"
+         width="3.0002"
+         id="rect8394"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new"
+         transform="matrix(-0.70710678,-0.70710678,0.70710678,-0.70710678,0,0)" />
+      <rect
+         ry="0.5"
+         rx="0.4998"
+         y="-139.59291"
+         x="-259.45776"
+         height="2"
+         width="2.9998"
+         id="rect8396"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new"
+         transform="matrix(-0.70710678,-0.70710678,0.70710678,-0.70710678,0,0)" />
+    </g>
+    <g
+       style="display:inline"
+       id="g33239"
+       transform="matrix(0.70710678,-0.70710679,0.70710679,0.70710678,-175.45794,146.40707)" />
+    <g
+       transform="matrix(0,-1,1,0,-196,374)"
+       id="g33245"
+       style="display:inline" />
+    <g
+       style="display:inline"
+       id="g33251"
+       transform="matrix(-0.70710679,-0.70710678,0.70710678,-0.70710679,-49.592928,549.45794)" />
+    <circle
+       r="3.2040777"
+       cy="107.85759"
+       cx="-152.05005"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ffffff;stroke-width:2.13605189;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="path32729"
+       transform="matrix(0.93630686,0,0,0.93630686,231.3657,184.0122)" />
   </g>
 </svg>
