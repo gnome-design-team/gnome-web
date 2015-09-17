@@ -2168,6 +2168,16 @@
        ry="0" />
   </g>
   <g
+     id="g20056"
+     transform="translate(490.49989,-456.77661)">
+    <path
+       style="display:inline;fill:#2e3436;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 212.05827,556.33514 -67.2726,0 -14.1986,-14 -14.1986,14 -68.330412,0 c -4.986,0 -9,4.014 -9,9 l 0,123.969 c 0,4.986 4.014,9 9,9 l 164.000212,0 c 4.986,0 9,-4.014 9,-9 l 0,-123.969 c 0,-4.986 -4.014,-9 -9,-9 z"
+       id="path19479"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="scccssssssss" />
+  </g>
+  <g
      transform="translate(205.04613,-290.51739)"
      id="g60676">
     <rect
@@ -2374,16 +2384,6 @@
            style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00000012;marker:none;enable-background:accumulate" />
       </g>
     </g>
-  </g>
-  <g
-     id="g20056"
-     transform="translate(490.49989,-456.77661)">
-    <path
-       style="display:inline;fill:#2e3436;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 212.05827,556.33514 -67.2726,0 -14.1986,-14 -14.1986,14 -68.330412,0 c -4.986,0 -9,4.014 -9,9 l 0,123.969 c 0,4.986 4.014,9 9,9 l 164.000212,0 c 4.986,0 9,-4.014 9,-9 l 0,-123.969 c 0,-4.986 -4.014,-9 -9,-9 z"
-       id="path19479"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="scccssssssss" />
   </g>
   <g
      style="display:inline"
