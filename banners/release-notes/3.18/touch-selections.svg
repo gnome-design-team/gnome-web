@@ -17,7 +17,7 @@
    height="250"
    viewBox="0 0 940 250"
    sodipodi:docname="touch-selections.svg"
-   inkscape:export-filename="/home/jimmac/SparkleShare/gnome-web/banners/release-notes/3.18/refined-scrolling.png"
+   inkscape:export-filename="/home/jimmac/SparkleShare/gnome-web/banners/release-notes/3.18/touch-selections.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <metadata
@@ -2021,8 +2021,8 @@
      borderlayer="true"
      inkscape:showpageshadow="false"
      inkscape:zoom="1"
-     inkscape:cx="220.92673"
-     inkscape:cy="-82.956876"
+     inkscape:cx="341.5102"
+     inkscape:cy="129.07562"
      inkscape:window-x="2560"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -2077,14 +2077,23 @@
      id="g47845"
      transform="translate(28,-55)">
     <rect
-       ry="1"
-       y="142"
-       x="164"
-       height="39"
-       width="566"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect65232"
+       width="552.87006"
+       height="9"
+       x="169"
+       y="109"
+       rx="0"
+       ry="0" />
+    <rect
+       ry="6"
+       y="140"
+       x="160.9064"
+       height="43"
+       width="569.09357"
        id="rect47825"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       rx="1" />
+       rx="6" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect47827"
@@ -2092,40 +2101,71 @@
        height="39"
        x="475"
        y="121"
-       ry="1"
-       rx="1" />
+       ry="7"
+       rx="7" />
+    <rect
+       ry="0"
+       rx="0"
+       y="128"
+       x="481.95654"
+       height="9"
+       width="240.04346"
+       id="rect65234"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect65236"
+       width="553"
+       height="9"
+       x="169"
+       y="147"
+       rx="0"
+       ry="0" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect47829"
-       width="217"
-       height="39"
-       x="164"
+       width="218.18607"
+       height="37.9375"
+       x="160.9064"
        y="165"
-       ry="1"
-       rx="1" />
-    <flowRoot
-       transform="translate(156,87)"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
-       id="flowRoot47817"
-       xml:space="preserve"><flowRegion
-         id="flowRegion47819"><rect
-           y="14"
-           x="12"
-           height="122"
-           width="572"
-           id="rect47821" /></flowRegion><flowPara
-         id="flowPara47823">The ability to select, cut, copy and paste text using a touchscreen has been dramatically improved in 3.18. The handles <flowSpan
-   id="flowSpan47831"
-   style="fill:#ffffff;fill-opacity:1">used to adjust text selections have been made bigger and their look has been improved, and new popovers provide convenient access to actions, like cut, copy and paste. The overall behavior of interacting with text has been</flowSpan> improved, too.</flowPara></flowRoot>  </g>
-  <g
-     id="g20056"
-     transform="translate(490.49989,-456.77661)">
-    <path
-       style="display:inline;fill:#2e3436;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 212.05827,556.33514 -67.2726,0 -14.1986,-14 -14.1986,14 -68.330412,0 c -4.986,0 -9,4.014 -9,9 l 0,123.969 c 0,4.986 4.014,9 9,9 l 164.000212,0 c 4.986,0 9,-4.014 9,-9 l 0,-123.969 c 0,-4.986 -4.014,-9 -9,-9 z"
-       id="path19479"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="scccssssssss" />
+       ry="6"
+       rx="6" />
+    <rect
+       ry="0"
+       rx="0"
+       y="166"
+       x="169"
+       height="9"
+       width="553"
+       id="rect65238"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect65240"
+       width="323.7338"
+       height="9"
+       x="398.13626"
+       y="187"
+       rx="0"
+       ry="0" />
+    <rect
+       ry="0"
+       rx="0"
+       y="186"
+       x="169"
+       height="9"
+       width="201.5"
+       id="rect65242"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect65244"
+       width="296"
+       height="9"
+       x="169"
+       y="127"
+       rx="0"
+       ry="0" />
   </g>
   <g
      transform="translate(205.04613,-290.51739)"
@@ -2334,6 +2374,16 @@
            style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00000012;marker:none;enable-background:accumulate" />
       </g>
     </g>
+  </g>
+  <g
+     id="g20056"
+     transform="translate(490.49989,-456.77661)">
+    <path
+       style="display:inline;fill:#2e3436;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 212.05827,556.33514 -67.2726,0 -14.1986,-14 -14.1986,14 -68.330412,0 c -4.986,0 -9,4.014 -9,9 l 0,123.969 c 0,4.986 4.014,9 9,9 l 164.000212,0 c 4.986,0 9,-4.014 9,-9 l 0,-123.969 c 0,-4.986 -4.014,-9 -9,-9 z"
+       id="path19479"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="scccssssssss" />
   </g>
   <g
      style="display:inline"
