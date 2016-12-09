@@ -44,16 +44,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3778-0"
-       id="linearGradient20336"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.0766522,0,0,1.8393955,-309.2026,-1107.0777)"
-       x1="176.42822"
-       y1="1112.6799"
-       x2="176.42822"
-       y2="1165.1056" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3778-0"
        id="linearGradient20370"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(2.0147946,0,0,1.7846051,-298.13062,-1971.4928)"
@@ -81,9 +71,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="69.102955"
-     inkscape:cy="10.185523"
+     inkscape:zoom="1"
+     inkscape:cx="44.845822"
+     inkscape:cy="44.575921"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -93,7 +83,8 @@
      inkscape:window-height="1107"
      inkscape:window-x="1254"
      inkscape:window-y="268"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0"
+     showborder="false" />
   <metadata
      id="metadata19729">
     <rdf:RDF>
@@ -102,7 +93,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -115,9 +106,9 @@
        inkscape:connector-curvature="0"
        id="path7669"
        d="m 120.73465,989.36216 c 0,32.16204 -26.072544,58.23464 -58.234651,58.23464 -32.162107,0 -58.2346453,-26.0726 -58.2346453,-58.23464 0,-32.16211 26.0725383,-58.23465 58.2346453,-58.23465 32.162107,0 58.234651,26.07254 58.234651,58.23465 z"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#7093a3;fill-opacity:1;fill-rule:nonzero;stroke:#7093a3;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:new" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#7093a3;fill-opacity:1;fill-rule:nonzero;stroke:#379225;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:new" />
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient20336);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:new"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#379225;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:new"
        d="m 120.73465,989.36216 c 0,32.16204 -26.072544,58.23464 -58.234651,58.23464 -32.162107,0 -58.2346453,-26.0726 -58.2346453,-58.23464 0,-32.16211 26.0725383,-58.23465 58.2346453,-58.23465 32.162107,0 58.234651,26.07254 58.234651,58.23465 z"
        id="path19779"
        inkscape:connector-curvature="0" />
@@ -129,20 +120,20 @@
        sodipodi:nodetypes="csccscc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.61760012px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.97370648;"
-       x="62.303692"
-       y="948.50897"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.70753288px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.98281157"
+       x="62.301613"
+       y="948.47217"
        id="text20415"><tspan
          sodipodi:role="line"
          id="tspan20417"
-         x="63.261696"
-         y="948.50897"
-         style="stroke-width:0.97370648;-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:9.61760012px;text-anchor:middle;text-align:center;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">I am </tspan><tspan
+         x="63.278053"
+         y="948.47217"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.70753288px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.98281157">I am </tspan><tspan
          sodipodi:role="line"
-         x="62.303692"
-         y="962.80347"
+         x="62.301613"
+         y="960.60657"
          id="tspan20419"
-         style="stroke-width:0.97370648;-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:9.61760012px;text-anchor:middle;text-align:center;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">attending</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.70753288px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.98281157">attending</tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.36358166px;line-height:16.19309616px;font-family:Lobster;-inkscape-font-specification:'Lobster, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.64772385;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
